@@ -1,0 +1,1010 @@
+﻿#BIBLE VERSE DESKTOP 
+
+#name   	New King James Version
+#abbr   	NKJV
+#language	english
+
+; Scripture taken from the New King James Version. 
+; Сopyright © 1979, 1980, 1982 by Thomas Nelson, Inc.
+; Used by permission. All rights reserved.
+
+In the beginning God created the heavens and the earth	Gen.1:1
+And God saw the light, that it was good; and God divided the light from the darkness.	Gen.1:4
+I will bless you…  and you shall be a blessing	Gen.12:2
+I am your shield, your exceedingly great reward	Gen.15:1
+Do not be afraid. Stand still, and see the salvation of the LORD	Ex.14:13
+I will make all My goodness pass before you	Ex.33:19
+The LORD God, merciful and gracious	Ex.34:6
+I will set My tabernacle among you	Lev.26:11
+I will walk among you and be your God	Lev.26:12
+The LORD is longsuffering and abundant in mercy	Num.14:18
+You shall love the LORD your God with all your heart	Deut.6:5
+You shall lay up these words of mine in your heart and in your soul	Deut.11:18
+You shall rejoice before the LORD your God	Deut.12:18
+Blessed shall you be in the city, and blessed shall you be in the country	Deut.28:3
+Blessed shall be the fruit of your body, the produce of your ground	Deut.28:4
+Blessed shall be your basket and your kneading bowl	Deut.28:5
+Blessed shall you be when you come in, and blessed shall you be when you go out	Deut.28:6
+They shall come out against you one way and flee before you seven ways	Deut.28:7
+And the LORD will make you the head and not the tail	Deut.28:13
+Be strong and of good courage, do not fear nor be afraid	Deut.31:6
+I will not leave you nor forsake you	Josh.1:5
+Only be strong and very courageous	Josh.1:7
+This Book of the Law shall not depart from your mouth	Josh.1:8
+Have I not commanded you? Be strong and of good courage	Josh.1:9
+Do not be afraid, nor be dismayed, for the LORD your God is with you	Josh.1:9
+Sanctify yourselves, for tomorrow the LORD will do wonders among you	Josh.3:5
+The LORD your God is He who fights for you	Josh.23:10
+No, but we will serve the LORD!	Josh.24:21
+I will never break My covenant with you	Judg.2:1
+Those who love Him be like the sun when it comes out in full strength	Judg.5:31
+Your people shall be my people, and your God, my God	Ruth 1:16
+He will guard the feet of His saints	1Sam.2:9
+Only fear the LORD, and serve Him in truth with all your heart	1Sam.12:24
+I will show you what you shall do	1Sam.16:3
+Man looks at the outward appearance, but the LORD looks at the heart	1Sam.16:7
+He has made with me an everlasting covenant	2Sam.23:5
+Give to Your servant an understanding heart	1Kin.3:9
+The LORD your God you shall fear; and He will deliver you	2Kin.17:39
+Serve Him with a loyal heart and with a willing mind	1Chr.28:9
+The LORD searches all hearts and understands all the intent of the thoughts	1Chr.28:9
+If you seek Him, He will be found by you	1Chr.28:9
+The LORD is able to give you much more than this	2Chr.25:9
+Will not turn His face from you if you return to Him	2Chr.30:9
+He did it with all his heart. So he prospered	2Chr.31:21
+The hand of our God is upon all those for good who seek Him	Ezdra 8:22
+The joy of the LORD is your strength	Neh.8:10
+Yet who knows whether you have come to the kingdom for such a time as this?	Esther.4:14
+He will yet fill your mouth with laughing, and your lips with rejoicing	Job 8:21
+I know that my Redeemer lives	Job 19:25
+Blessed is the man who walks not in the counsel of the ungodly	Ps.1:1
+The LORD knows the way of the righteous	Ps.1:6
+Serve the LORD with fear, and rejoice with trembling	Ps.2:11
+Blessed are all those who put their trust in Him	Ps.2:12
+But You, O LORD, are a shield for me, my glory	Ps.3:3
+Lead me, O LORD, in Your righteousness	Ps.5:8
+For You, O LORD, will bless the righteous	Ps.5:12
+For the righteous God tests the hearts and minds	Ps.7:9
+I will praise You, O LORD, with my whole heart	Ps.9:1
+For You, LORD, have not forsaken those who seek You	Ps.9:10
+The LORD is King forever and ever	Ps.10:16
+LORD, You have heard the desire of the humble	Ps.10:17
+O LORD, You are the portion of my inheritance and my cup	Ps.16:5
+Hide me under the shadow of Your wings	Ps.17:8
+I will love You, O LORD, my strength	Ps.18:1
+The LORD is my rock and my fortress and my deliverer	Ps.18:2
+For You will light my lamp	Ps.18:28
+The LORD my God will enlighten my darkness	Ps.18:28
+It is God who arms me with strength	Ps.18:32
+The LORD lives! Blessed be my Rock!	Ps.18:46
+Let the God of my salvation be exalted	Ps.18:46
+The heavens declare the glory of God; and the firmament shows His handiwork	Ps.19:1
+The law of the LORD is perfect, converting the soul	Ps.19:7
+The testimony of the LORD is sure, making wise the simple	Ps.19:7
+The statutes of the LORD are right, rejoicing the heart	Ps.19:8
+The commandment of the LORD is pure, enlightening the eyes	Ps.19:8
+The fear of the LORD is clean, enduring forever	Ps.19:9
+The judgments of the LORD are true and righteous altogether	Ps.19:9
+Some trust in chariots, and some in horses; but we will remember the name of the LORD our God.	Ps.20:7
+Those who seek Him will praise the LORD	Ps.22:26
+All the ends of the world shall remember and turn to the LORD	Ps.22:27
+A posterity shall serve Him	Ps.22:30
+The LORD is my shepherd; I shall not want	Ps.23:1
+The LORD strong and mighty, the LORD mighty in battle	Ps.24:8
+O my God, I trust in You; let me not be ashamed	Ps.25:2
+Show me Your ways, O LORD; teach me Your paths.	Ps.25:4
+Good and upright is the LORD; therefore He teaches sinners in the way	Ps.25:8
+The secret of the LORD is with those who fear Him	Ps.25:14
+My eyes are ever toward the LORD, for He shall pluck my feet out of the net.	Ps.25:15
+Teach me Your way, O LORD	Ps.27:11
+Wait on the LORD; be of good courage, and He shall strengthen your heart	Ps.27:14
+The LORD is my strength and my shield	Ps.28:7
+My heart trusted in Him, and I am helped	Ps.28:7
+The voice of the LORD is powerful; the voice of the LORD is full of majesty	Ps.29:4
+The LORD will give strength to His people	Ps.29:11
+The LORD will bless His people with peace	Ps.29:11
+His favor is for life	Ps.30:5
+Be of good courage, and He shall strengthen your heart	Ps.31:24
+Blessed is he whose transgression is forgiven	Ps.32:1
+I will instruct you and teach you in the way you should go	Ps.32:8
+He who trusts in the LORD, mercy shall surround him	Ps.32:10
+Be glad in the LORD and rejoice!	Ps.32:11
+For the word of the LORD is right, and all His work is done in truth	Ps.33:4
+The earth is full of the goodness of the LORD	Ps.33:5
+Our soul waits for the LORD; He is our help and our shield.	Ps.33:20
+They looked to Him and were radiant	Ps.34:5
+Oh, taste and see that the LORD is good	Ps.34:8
+Those who seek the LORD shall not lack any good thing	Ps.34:10
+The LORD is near to those who have a broken heart	Ps.34:18
+And my soul shall be joyful in the LORD; it shall rejoice in His salvation.	Ps.35:9
+Trust in the LORD, and do good	Ps.37:3
+Dwell in the land, and feed on His faithfulness	Ps.37:3
+Delight yourself also in the LORD, and He shall give you the desires of your heart	Ps.37:4
+Commit your way to the LORD, trust also in Him, and He shall bring it to pass.	Ps.37:5
+Rest in the LORD, and wait patiently for Him	Ps.37:7
+The meek shall inherit the earth, and shall delight themselves in the abundance of peace	Ps.37:11
+Wait on the LORD, and keep His way	Ps.37:34
+The salvation of the righteous is from the LORD; He is their strength in the time of trouble.	Ps.37:39
+Lord, all my desire is before You	Ps.38:9
+Blessed is that man who makes the LORD his trust	Ps.40:4
+I delight to do Your will, O my God	Ps.40:8
+Be still, and know that I am God	Ps.46:10
+Oh, clap your hands, all you peoples! Shout to God with the voice of triumph!	Ps.47:1
+The redemption of their souls is costly	Ps.49:9
+Our God shall come, and shall not keep silent	Ps.50:3
+Offer to God thanksgiving, and pay your vows to the Most High	Ps.50:14
+Call upon Me in the day of trouble; I will deliver you	Ps.50:15
+Whoever offers praise glorifies Me	Ps.50:23
+The fool has said in his heart, "There is no God"	Ps.53:1
+Behold, God is my helper; the Lord is with those who uphold my life	Ps.54:4
+Cast your burden on the LORD, and He shall sustain you	Ps.55:22
+He shall never permit the righteous to be moved	Ps.55:22
+Surely there is a reward for the righteous	Ps.58:11
+God is my defense, my God of mercy	Ps.59:17
+Truly my soul silently waits for God; from Him comes my salvation	Ps.62:1
+God is a refuge for us	Ps.62:8
+God has spoken once, twice I have heard this: that power belongs to God.	Ps.62:11
+The righteous shall be glad in the LORD, and trust in Him	Ps.64:10
+Your God has commanded your strength	Ps.68:28
+But it is good for me to draw near to God	Ps.73:28
+Open your mouth wide, and I will fill it	Ps.81:10
+The LORD God is a sun and shield	Ps.84:11
+The LORD will give grace and glory	Ps.84:11
+The LORD will give what is good; and our land will yield its increase.	Ps.85:12
+For You, Lord, are good, and ready to forgive, and abundant in mercy	Ps.86:5
+He who dwells in the secret place of the Most High Shall abide under the shadow of the Almighty	Ps.91:1
+You shall not be afraid of the terror by night, nor of the arrow that flies by day	Ps.91:5
+Lest you dash your foot against a stone	Ps.91:12
+The righteous shall flourish like a palm tree	Ps.92:12
+The LORD reigns, He is clothed with majesty	Ps.93:1
+The LORD knows the thoughts of man, that they are futile	Ps.94:11
+The LORD will not cast off His people	Ps.94:14
+Give to the LORD the glory due His name	Ps.96:8
+Worship the LORD in the beauty of holiness!	Ps.96:9
+The LORD reigns; the world also is firmly established, it shall not be moved	Ps.96:10
+Light is sown for the righteous, and gladness for the upright in heart	Ps.97:11
+The LORD has made known His salvation	Ps.98:2
+Serve the LORD with gladness	Ps.100:2
+I will set nothing wicked before my eyes	Ps.101:3
+They will perish, but You will endure	Ps.102:26
+Bless the LORD, O my soul, and forget not all His benefits	Ps.103:2
+Forget not all His benefits	Ps.103:2
+Who forgives all your iniquities, who heals all your diseases	Ps.103:3
+As the heavens are high above the earth, so great is His mercy	Ps.103:11
+As far as the east is from the west, so far has He removed our transgressions from us	Ps.103:12
+I will sing to the LORD as long as I live	Ps.104:33
+Let the hearts of those rejoice who seek the LORD!	Ps.105:3
+Seek the LORD and His strength; seek His face evermore!	Ps.105:4
+O give thanks to the LORD, for He is good! For His mercy endures forever.	Ps.106:1
+He sent His word and healed them	Ps.107:20
+Through God we will do valiantly	Ps.108:13
+I will greatly praise the LORD with my mouth	Ps.109:30
+He raises the poor out of the dust, and lifts the needy out of the ash heap	Ps.113:7
+You who fear the LORD, trust in the LORD; He is their help and their shield	Ps.115:11
+He will bless those who fear the LORD	Ps.115:13
+I will take up the cup of salvation, and call upon the name of the LORD	Ps.116:13
+His merciful kindness is great toward us	Ps.117:2
+It is better to trust in the LORD than to put confidence in man	Ps.118:8
+The LORD is my strength and song, and He has become my salvation	Ps.118:14
+The right hand of the LORD does valiantly	Ps.118:16
+This is the day the LORD has made; we will rejoice and be glad in it	Ps.118:24
+Your word is a lamp to my feet and a light to my path	Ps.119:105
+Great peace have those who love Your law	Ps.119:165
+My help comes from the LORD, who made heaven and earth	Ps.121:2
+He will not allow your foot to be moved	Ps.121:3
+The LORD is your keeper	Ps.121:5
+I was glad when they said to me, "Let us go into the house of the LORD"	Ps.122:1
+Our soul has escaped as a bird from the snare of the fowlers	Ps.124:7
+The snare is broken, and we have escaped	Ps.124:7
+Our help is in the name of the LORD	Ps.124:8
+Those who trust in the LORD are like Mount Zion	Ps.125:1
+Those who sow in tears shall reap in joy	Ps.126:5
+Lift up your hands… and bless the LORD	Ps.134:2
+The LORD will perfect that which concerns me	Ps.138:8
+The LORD upholds all who fall	Ps.145:14
+The LORD is righteous in all His ways	Ps.145:17
+The LORD is near to all who call upon Him	Ps.145:18
+He heals the brokenhearted and binds up their wounds	Ps.147:3
+The LORD lifts up the humble	Ps.147:6
+Let the children of Zion be joyful in their King	Ps.149:2
+For the LORD takes pleasure in His people	Ps.149:4
+Let everything that has breath praise the LORD	Ps.150:6
+The fear of the LORD is the beginning of knowledge	Prov.1:7
+My son, if sinners entice you, do not consent	Prov.1:10
+I will pour out my spirit on you; I will make my words known to you	Prov.1:23
+The LORD gives wisdom; from His mouth come knowledge and understanding	Prov.2:6
+He stores up sound wisdom for the upright	Prov.2:7
+He guards the paths of justice	Prov.2:8
+Walk in the way of goodness, and keep to the paths of righteousness	Prov.2:20
+He blesses the home of the just	Prov.3:33
+I give you good doctrine: do not forsake my law	Prov.4:2
+Get wisdom: and in all your getting, get understanding.	Prov.4:7
+I have taught you in the way of wisdom; I have led you in right paths.	Prov.4:11
+When you walk, your steps will not be hindered	Prov.4:12
+Take firm hold of instruction	Prov.4:13
+The path of the just is like the shining sun	Prov.4:18
+Give attention to my words; incline your ear to my sayings	Prov.4:20
+My words… are life to those who find them, and health to all their flesh	Prov.4:22
+Keep your heart with all diligence	Prov.4:23
+Ponder the path of your feet, and let all your ways be established	Prov.4:26
+Drink water from your own cistern, and running water from your own well	Prov.5:15
+For the ways of man are before the eyes of the LORD	Prov.5:21
+For the commandment is a lamp, and the law a light	Prov.6:23
+My son, keep my words	Prov.7:1
+Keep my commands and live, and my law as the apple of your eye	Prov.7:2
+Wisdom is better than rubies	Prov.8:11
+Those who seek me diligently will find me	Prov.8:17
+Blessed are those who keep my ways	Prov.8:32
+The LORD will not allow the righteous soul to famish	Prov.10:3
+The hand of the diligent makes rich	Prov.10:4
+The blessing of the LORD makes one rich, and He adds no sorrow with it	Prov.10:22
+The desire of the righteous will be granted	Prov.10:24
+The hope of the righteous will be gladness	Prov.10:28
+By the blessing of the upright the city is exalted	Prov.11:11
+He who waters will also be watered himself	Prov.11:25
+He who tills his land will be satisfied with bread	Prov.12:11
+He who guards his mouth preserves his life	Prov.13:3
+The light of the righteous rejoices	Prov.13:9
+He who walks with wise men will be wise	Prov.13:20
+The wisdom of the prudent is to understand his way	Prov.14:8
+The tent of the upright will flourish	Prov.14:11
+A true witness delivers souls	Prov.14:25
+The fear of the LORD is a fountain of life	Prov.14:27
+A sound heart is life to the body	Prov.14:30
+A soft answer turns away wrath	Prov.15:1
+The eyes of the LORD are in every place	Prov.15:3
+He who disdains instruction despises his own soul	Prov.15:32
+The fear of the LORD is the instruction of wisdom	Prov.15:33
+Before honor is humility	Prov.15:33
+Commit your works to the LORD, and your thoughts will be established	Prov.16:3
+He who rules his spirit is better than he who takes a city	Prov.16:32
+The furnace for gold, but the LORD tests the hearts	Prov.17:3
+A merry heart does good, like medicine	Prov.17:22
+A broken spirit dries the bones	Prov.17:22
+He who has knowledge spares his words	Prov.17:27
+The name of the LORD is a strong tower	Prov.18:10
+Death and life are in the power of the tongue	Prov.18:21
+A man who has friends must himself be friendly	Prov.18:24
+The discretion of a man makes him slow to anger	Prov.19:11
+He who keeps the commandment keeps his soul	Prov.19:16
+He who has pity on the poor lends to the LORD	Prov.19:17
+It is honorable for a man to stop striving	Prov.20:3
+Wait for the LORD, and He will save you	Prov.20:22
+The LORD weighs the hearts	Prov.21:2
+A good name is to be chosen rather than great riches	Prov.22:1
+He who has a generous eye will be blessed	Prov.22:9
+Drowsiness will clothe a man with rags	Prov.23:21
+Through wisdom a house is built, and by understanding it is established	Prov.24:3
+By wise counsel you will wage your own war	Prov.24:6
+In a multitude of counselors there is safety	Prov.24:6
+For a righteous man may fall seven times and rise again	Prov.24:16
+A gentle tongue breaks a bone	Prov.25:15
+The righteous are bold as a lion	Prov.28:1
+When the righteous rejoice, there is great glory	Prov.28:12
+He who tills his land will have plenty of bread	Prov.28:19
+The righteous considers the cause of the poor	Prov.29:7
+The humble in spirit will retain honor	Prov.29:23
+To everything there is a season, a time for every purpose under heaven	Eccl.3:1
+A time to cast away stones, and a time to gather stones	Eccl.3:5
+A time to keep silence, and a time to speak	Eccl.3:7
+Whatever God does, It shall be forever	Eccl.3:14
+A threefold cord is not quickly broken	Eccl.4:12
+Walk prudently when you go to the house of God; and draw near to hear	Eccl.5:1
+There are many things that increase vanity	Eccl.6:11
+For anger rests in the bosom of fools	Eccl.7:9
+God made man upright, but they have sought out many schemes	Eccl.7:29
+A man’s wisdom makes his face shine	Eccl.8:1
+A wise man’s heart discerns both time and judgment	Eccl.8:5
+It will be well with those who fear God	Eccl.8:12
+Let your head lack no oil	Eccl.9:8
+Whatever your hand finds to do, do it with your might	Eccl.9:10
+Wisdom is better than weapons of war	Eccl.9:18
+He who digs a pit will fall into it	Eccl.10:8
+Whoever breaks through a wall will be bitten by a serpent	Eccl.10:8
+Cast your bread upon the waters	Eccl.11:1
+He who observes the wind will not sow	Eccl.11:4
+Remember now your Creator in the days of your youth	Eccl.12:1
+Vanity of vanities, says the Preacher, "all is vanity"	Eccl.12:8
+Fear God and keep His commandments, for this is man’s all.	Eccl.12:13
+Catch us the foxes, the little foxes that spoil the vines	Song 2:15
+Many waters cannot quench love	Song 8:7
+Learn to do good	Is.1:17
+Though your sins are like scarlet, they shall be as white as snow	Is.1:18
+He will teach us His ways,  and we shall walk in His paths	Is.2:3
+Whom shall I send, and who will go for Us?	Is.6:8
+Then I said, "Here am I! Send me".	Is.6:8
+YAH, the LORD, is my strength and song	Is.12:2
+In YAH, the LORD, is everlasting strength	Is.26:4
+My people will dwell in a peaceful habitation	Is.32:18
+Waters shall burst forth in the wilderness, and streams in the desert	Is.35:6
+He will feed His flock like a shepherd	Is.40:11
+He gives power to the weak, and to those who have no might He increases strength	Is.40:29
+Those who wait on the LORD shall renew their strength	Is.40:31
+They shall run and not be weary, they shall walk and not faint	Is.40:31
+I, the LORD your God, will hold your right hand	Is.41:13
+Fear not, I will help you	Is.41:13
+I will make the wilderness a pool of water	Is.41:18
+I will make darkness light before them	Is.42:16
+I will even make a road in the wilderness and rivers in the desert	Is.43:19
+I, even I, am He who blots out your transgressions	Is.43:25
+Return to Me, for I have redeemed you	Is.44:22
+The word has gone out of My mouth in righteousness, and shall not return	Is.45:23
+I am the LORD your God, who teaches you to profit	Is.48:17
+I have put My words in your mouth	Is.51:16
+I have covered you with the shadow of My hand	Is.51:16
+He is despised and rejected by men, a Man of sorrows and acquainted with grief	Is.53:3
+Surely He has borne our griefs and carried our sorrows	Is.53:4
+He was wounded for our transgressions, He was bruised for our iniquities	Is.53:5
+The chastisement for our peace was upon Him	Is.53:5
+By His stripes we are healed	Is.53:5
+The LORD has laid on Him the iniquity of us all	Is.53:6
+He shall see the labor of His soul,and be satisfied	Is.53:11
+He bore the sin of many, and made intercession for the transgressors	Is.53:12
+Enlarge the place of your tent	Is.54:2
+My kindness shall not depart from you	Is.54:10
+No weapon formed against you shall prosper	Is.54:17
+You shall be like a watered garden	Is.58:11
+The LORD will be your everlasting light	Is.60:20
+In all their affliction He was afflicted	Is.63:9
+Ask for the old paths, where the good way is, and walk in it	Jer.6:16
+I am with you to save you and deliver you	Jer.15:20
+I, the LORD, search the heart, I test the mind	Jer.17:10
+You will seek Me and find Me, when you search for Me with all your heart	Jer.29:13
+I will forgive their iniquity, and their sin I will remember no more	Jer.31:34
+I am the LORD, the God of all flesh: is there anything too hard for Me?	Jer.32:27
+I will rejoice over them to do them good	Jer.32:41
+Call to Me, and I will answer you	Jer.33:3
+I will show you great and mighty things, which you do not know	Jer.33:3
+Please, obey the voice of the LORD	Jer.38:20
+Come and let us join ourselves to the LORD	Jer.50:5
+The LORD is good to those who wait for Him	Lam.3:25
+Let us search out and examine our ways, and turn back to the LORD	Lam.3:40
+Let us lift our hearts and hands to God in heaven	Lam.3:41
+Cast away from you all the transgressions which you have committed	Ezek.18:31
+I will accept you as a sweet aroma	Ezek.20:41
+I will cause showers to come down in their season	Ezek.34:26
+There shall be showers of blessing	Ezek.34:26
+I will give you a new heart and put a new spirit within you	Ezek.36:26
+Our God whom we serve is able to deliver us	Dan.3:17
+I desire mercy and not sacrifice	Hos.6:6
+Turn to Me with all your heart	Joel 2:12
+Be glad and rejoice in the LORD your God	Joel 2:23
+I will pour out My Spirit on all flesh	Joel 2:28
+Whoever calls on the name of the LORD shall be saved	Joel 2:32
+The LORD will be a shelter for His people	Joel 3:16
+Seek Me and live	Amos 5:4
+The day of the LORD upon all the nations is near	Obad.1:15
+Salvation is of the LORD	Jon.2:9
+We will walk in the name of the LORD our God	Mic.4:5
+I will wait for the God of my salvation	Mic.7:7
+The LORD knows those who trust in Him	Nah.1:7
+The just shall live by his faith	Hab.2:4
+O LORD, revive Your work in the midst of the years!	Hab.3:2
+The LORD your God in your midst, the Mighty One, will save	Zeph.3:17
+Thus says the LORD of hosts: "Consider your ways"!	Hag.1:7
+Be strong… for I am with you, says the LORD	Hag.2:4
+My Spirit remains among you; do not fear!	Hag.2:5
+Do not fear, let your hands be strong	Zech.8:13
+For I am the LORD, I do not change	Mal.3:6
+Bring all the tithes into the storehouse	Mal.3:10
+And all nations will call you blessed	Mal.3:12
+To you who fear My name the Sun of Righteousness shall arise	Mal.4:2
+Prepare the way of the LORD; make His paths straight	Matt.3:3
+Therefore bear fruits worthy of repentance	Matt.3:8
+He will baptize you with the Holy Spirit and fire	Matt.3:11
+He will thoroughly clean out His threshing floor, and gather His wheat	Matt.3:12
+Man shall not live by bread alone	Matt.4:4
+You shall worship the LORD your God	Matt.4:10
+Repent, for the kingdom of heaven is at hand	Matt.4:17
+Follow Me, and I will make you fishers of men	Matt.4:19
+Blessed are the poor in spirit, for theirs is the kingdom of heaven	Matt.5:3
+Blessed are those who mourn, for they shall be comforted	Matt.5:4
+Blessed are the meek, for they shall inherit the earth	Matt.5:5
+Blessed are the merciful, for they shall obtain mercy	Matt.5:7
+Blessed are the pure in heart, for they shall see God.	Matt.5:8
+Blessed are the peacemakers, for they shall be called sons of God	Matt.5:9
+You are the light of the world. A city that is set on a hill cannot be hidden.	Matt.5:14
+Let your light so shine before men	Matt.5:16
+You shall be perfect, just as your Father in heaven is perfect	Matt.5:48
+Your Father knows the things you have need	Matt.6:8
+But lay up for yourselves treasures in heaven	Matt.6:20
+For where your treasure is, there your heart will be also	Matt.6:21
+But seek first the kingdom of God and His righteousness	Matt.6:33
+Ask, and it will be given to you	Matt.7:7
+Seek, and you will find	Matt.7:7
+Knock, and it will be opened to you	Matt.7:7
+Your Father who is in heaven give good things to those who ask Him	Matt.7:11
+Narrow is the gate and difficult is the way which leads to life	Matt.7:14
+Be of good cheer; your sins are forgiven you	Matt.9:2
+Do you believe that I am able to do this?	Matt.9:28
+The harvest truly is plentiful, but the laborers are few	Matt.9:37
+Freely you have received, freely give	Matt.10:8
+Be wise as serpents and harmless as doves	Matt.10:16
+What you hear in the ear, preach on the housetops	Matt.10:27
+Come to Me, all you who labor and are heavy laden, and I will give you rest.	Matt.11:28
+Learn from Me, for I am gentle and lowly in heart	Matt.11:29
+My yoke is easy and My burden is light	Matt.11:30
+A bruised reed He will not break	Matt.12:20
+He who does not gather with Me scatters abroad	Matt.12:30
+The righteous will shine forth as the sun in the kingdom of their Father	Matt.13:43
+The kingdom of heaven is like treasure hidden in a field	Matt.13:44
+I will build My church, and the gates of Hades shall not prevail against it	Matt.16:18
+Many who are first will be last, and the last first	Matt.19:30
+He who endures to the end shall be saved	Matt.24:13
+And this gospel of the kingdom will be preached in all the world	Matt.24:14
+Heaven and earth will pass away, but My words will by no means pass away	Matt.24:35
+Who then is a faithful and wise servant?	Matt.24:45
+Watch and pray, lest you enter into temptation	Matt.26:41
+The spirit indeed is willing, but the flesh is weak	Matt.26:41
+Go therefore and make disciples of all the nations	Matt.28:19
+And lo, I am with you always, even to the end of the age	Matt.28:20
+Now in the morning, having risen a long while before daylight… He prayed	Mark 1:35
+And as many as touched Him were made well	Mark 6:56
+What do you want Me to do for you?	Mark 10:36
+Repent, and believe in the gospel	Mark 11:15
+Go into all the world and preach the gospel to every creature	Mark 16:15
+Blessed are you who weep now, for you shall laugh	Luke 6:21
+Take up his cross daily, and follow Me	Luke 9:23
+In the beginning was the Word, and the Word was with God, and the Word was God	John 1:1
+And the light shines in the darkness, and the darkness did not comprehend it.	John 1:5
+But as many as received Him, to them He gave the right to become children of God	John 1:12
+And the Word became flesh and dwelt among us	John 1:14
+Make straight the way of the LORD	John 1:23
+Hereafter you shall see heaven open	John 1:51
+Unless one is born again, he cannot see the kingdom of God	John 3:3
+That which is born of the Spirit is spirit	John 3:6
+The wind blows where it wishes, and you hear the sound of it	John 3:8
+For God so loved the world that He gave His only begotten Son	John 3:16
+He who does the truth comes to the light	John 3:21
+He who believes in the Son has everlasting life	John 3:36
+The true worshipers will worship the Father in spirit and truth	John 4:23
+God is Spirit, and those who worship Him must worship in spirit and truth	John 4:24
+Jesus said to them, "My food is to do the will of Him who sent Me, and to finish His work.	John 4:34
+He who reaps receives wages, and gathers fruit for eternal life	John 4:36
+He who sows and he who reaps may rejoice together	John 4:36
+See, you have been made well. Sin no more	John 5:14
+Search the Scriptures, for in them you think you have eternal life	John 5:39
+Do not labor for the food which perishes, but for the food which endures to everlasting life	John 6:27
+This is the work of God, that you believe in Him whom He sent	John 6:29
+For the bread of God is He who comes down from heaven and gives life to the world	John 6:33
+He who believes in Me shall never thirst	John 6:35
+He who comes to Me shall never hunger	John 6:35
+The one who comes to Me I will by no means cast out	John 6:37
+He who believes in Me has everlasting life	John 6:47
+It is the Spirit who gives life; the flesh profits nothing	John 6:63
+The words that I speak to you are spirit, and they are life	John 6:63
+If anyone thirsts, let him come to Me and drink	John 7:37
+He who believes in Me… out of his heart will flow rivers of living water	John 7:38
+He who follows Me shall not walk in darkness	John 8:12
+If you abide in My word, you are My disciples indeed	John 8:31
+And you shall know the truth, and the truth shall make you free	John 8:32
+Whoever commits sin is a slave of sin	John 8:34
+He who is of God hears God’s words	John 8:47
+If anyone keeps My word he shall never see death	John 8:51
+I am the door. If anyone enters by Me, he will be saved.	John 10:9
+I have come that they may have life, and that they may have it more abundantly	John 10:10
+I am the good shepherd: the good shepherd gives His life for the sheep	John 10:11
+I am the good shepherd; and I know My sheep, and am known by My own	John 10:14
+My sheep hear My voice, and I know them, and they follow Me.	John 10:27
+Neither shall anyone snatch them out of My hand	John 10:28
+I am the resurrection and the life	John 11:25
+If you would believe you would see the glory of God	John 11:40
+If anyone serves Me, him My Father will honor	John 12:26
+If anyone serves Me, let him follow Me	John 12:26
+While you have the light, believe in the light, that you may become sons of light	John 12:36
+A new commandment I give to you, that you love one another	John 13:34
+By this all will know that you are My disciples, if you have love for one another	John 13:35
+Let not your heart be troubled; you believe in God, believe also in Me.	John 14:1
+I will come again and receive you to Myself	John 14:3
+I am the way, the truth, and the life	John 14:6
+He who believes in Me, the works that I do he will do also	John 14:12
+And whatever you ask in My name, that I will do	John 14:13
+If you love Me, keep My commandments	John 14:15
+The Helper, the Holy Spirit… He will teach you all things	John 14:26
+Let not your heart be troubled, neither let it be afraid	John 14:27
+Abide in Me, and I in you	John 15:4
+He who abides in Me, and I in him, bears much fruit	John 15:5
+By this My Father is glorified, that you bear much fruit	John 15:8
+I have loved you; abide in My love	John 15:9
+That My joy may remain in you, and that your joy may be full.	John 15:11
+This is My commandment, that you love one another as I have loved you	John 15:12
+You are My friends if you do whatever I command you.	John 15:14
+You did not choose Me, but I chose you	John 15:16
+I chose you and appointed you that you should go and bear fruit	John 15:16
+Ask, and you will receive, that your joy may be full	John 16:24
+Be of good cheer, I have overcome the world	John 16:33
+As the Father has sent Me, I also send you	John 20:21
+Blessed are those who have not seen and yet have believed	John 20:29
+Lord,… grant to Your servants that with all boldness they may speak Your word	Acts 4:29
+The will of the Lord be done	Acts 21:14
+I am not ashamed of the gospel of Christ	Rom.1:16
+The just shall live by faith.	Rom.1:17
+The goodness of God leads you to repentance	Rom.2:4
+All have sinned and fall short of the glory of God	Rom.3:23
+Blessed are those whose lawless deeds are forgiven	Rom.4:7
+Having been justified by faith, we have peace with God	Rom.5:1
+The love of God has been poured out in our hearts by the Holy Spirit	Rom.5:5
+While we were still sinners, Christ died for us	Rom.5:8
+Having now been justified by His blood, we shall be saved from wrath through Him	Rom.5:9
+When we were enemies we were reconciled to God through the death of His Son	Rom.5:10
+Where sin abounded, grace abounded much more	Rom.5:20
+Present yourselves to God as being alive from the dead	Rom.6:13
+The gift of God is eternal life in Christ Jesus our Lord	Rom.6:23
+We should bear fruit to God	Rom.7:4
+We are debtors—not to the flesh, to live according to the flesh	Rom.8:12
+For as many as are led by the Spirit of God, these are sons of God.	Rom.8:14
+Likewise the Spirit also helps in our weaknesses.	Rom.8:26
+All things work together for good to those who love God	Rom.8:28
+If God is for us, who can be against us?	Rom.8:31
+Who shall bring a charge against God’s elect? It is God who justifies.	Rom.8:33
+Yet in all these things we are more than conquerors through Him who loved us.	Rom.8:37
+Nor height nor depth, nor any other created thing, shall be able to separate us from the love of God	Rom.8:39
+O man, who are you to reply against God?	Rom.9:20
+Whoever believes on Him will not be put to shame	Rom.9:33
+The word is near you, in your mouth and in your heart	Rom.10:8
+The mouth confession is made unto salvation	Rom.10:10
+The same Lord over all is rich to all who call upon Him.	Rom.10:12
+How beautiful are the feet of those who preach the gospel of peace	Rom.10:15
+Faith comes by hearing, and hearing by the word of God	Rom.10:17
+The gifts and the calling of God are irrevocable	Rom.11:29
+Oh, the depth of the riches both of the wisdom and knowledge of God!	Rom.11:33
+And do not be conformed to this world	Rom.12:2
+Transformed by the renewing of your mind	Rom.12:2
+That you may prove what is that good and acceptable and perfect will of God	Rom.12:2
+Let love be without hypocrisy	Rom.12:9
+Be kindly affectionate to one another with brotherly love	Rom.12:10
+Fervent in spirit, serving the Lord	Rom.12:11
+Rejoicing in hope, patient in tribulation, continuing steadfastly in prayer	Rom.12:12
+Rejoice with those who rejoice, and weep with those who weep	Rom.12:15
+Repay no one evil for evil	Rom.12:17
+Live peaceably with all men	Rom.12:18
+Do not be overcome by evil, but overcome evil with good	Rom.12:21
+Owe no one anything except to love one another	Rom.13:8
+Now it is high time to awake out of sleep	Rom.13:11
+Now our salvation is nearer than when we first believed	Rom.13:11
+Let us put on the armor of light	Rom.13:12
+Put on the Lord Jesus Christ	Rom.13:14
+So then each of us shall give account of himself to God	Rom.14:12
+The kingdom of God is… righteousness and peace and joy in the Holy Spirit.	Rom.14:17
+Happy is he who does not condemn himself in what he approves	Rom.14:22
+Christ… received us, to the glory of God	Rom.15:7
+Now may the God of hope fill you with all joy and peace in believing	Rom.15:13
+The God of peace will crush Satan under your feet shortly	Rom.16:20
+For the message of the cross is… the power of God	1Cor.1:18
+We preach Christ crucified	1Cor.1:23
+God has chosen the weak things of the world to put to shame the things which are mighty	1Cor.1:27
+But God has chosen the foolish things of the world to put to shame the wise	1Cor.1:27
+We have received, not the spirit of the world, but the Spirit who is from God	1Cor.2:12
+Each one will receive his own reward according to his own labor	1Cor.3:8
+We are God’s fellow workers	1Cor.3:9
+Do you not know that you are the temple of God?	1Cor.3:16
+The temple of God is holy, which temple you are	1Cor.3:17
+You are Christ’s, and Christ is God’s	1Cor.3:23
+We are fools for Christ’s sake	1Cor.4:10
+The kingdom of God is not in word but in power	1Cor.4:20
+For indeed Christ, our Passover, was sacrificed for us	1Cor.5:7
+He who is joined to the Lord is one spirit with Him	1Cor.6:17
+You were bought at a price	1Cor.6:20
+Glorify God in your body and in your spirit, which are God’s	1Cor.6:20
+For the form of this world is passing away	1Cor.7:31
+Knowledge puffs up, but love edifies	1Cor.8:1
+If anyone loves God, this one is known by Him	1Cor.8:3
+Run in such a way that you may obtain it	1Cor.9:24
+Let him who thinks he stands take heed lest he fall	1Cor.10:12
+God is faithful, who will not allow you to be tempted beyond what you are able	1Cor.10:13
+Do all to the glory of God	1Cor.10:31
+The manifestation of the Spirit is given to each one	1Cor.12:7
+Earnestly desire the best gifts	1Cor.12:31
+Love suffers long and is kind	1Cor.13:4
+Love does not envy; love does not parade itself	1Cor.13:4
+Love never fails	1Cor.13:8
+And now abide faith, hope, love, these three	1Cor.13:13
+Pursue love, and desire spiritual gifts	1Cor.14:1
+Christ died for our sins according to the Scriptures	1Cor.15:3
+But now Christ is risen from the dead	1Cor.15:20
+Evil company corrupts good habits	1Cor.15:33
+Thanks be to God, who gives us the victory	1Cor.15:57
+Be steadfast, immovable	1Cor.15:58
+Always abounding in the work of the Lord	1Cor.15:58
+Your labor is not in vain in the Lord	1Cor.15:58
+Watch, stand fast in the faith, be brave, be strong	1Cor.16:13
+Let all that you do be done with love	1Cor.16:14
+All the promises of God in Him are Yes, and in Him Amen	2Cor.1:20
+He who establishes us with you in Christ and has anointed us is God	2Cor.1:21
+Thanks be to God who always leads us in triumph in Christ	2Cor.2:14
+We are to God the fragrance of Christ	2Cor.2:15
+You are an epistle of Christ	2Cor.3:3
+Our sufficiency is from God	2Cor.3:5
+Where the Spirit of the Lord is, there is liberty	2Cor.3:17
+It is the God who commanded light to shine out of darkness, who has shone in our hearts	2Cor.4:6
+We have this treasure in earthen vessels	2Cor.4:7
+We are hard-pressed on every side, yet not crushed	2Cor.4:8
+We are perplexed, but not in despair	2Cor.4:8
+Our light affliction… is working for us a far more exceeding and eternal weight of glory	2Cor.4:17
+The things which are seen are temporary, but the things which are not seen are eternal	2Cor.4:18
+We have a building from God… in the heavens	2Cor.5:1
+We walk by faith, not by sight	2Cor.5:7
+If anyone is in Christ, he is a new creation	2Cor.5:17
+Old things have passed away; behold, all things have become new	2Cor.5:17
+We implore you on Christ’s behalf, be reconciled to God	2Cor.5:20
+He made Him who knew no sin to be sin for us	2Cor.5:21
+Behold, now is the accepted time; behold, now is the day of salvation	2Cor.6:2
+As sorrowful, yet always rejoicing	2Cor.6:10
+Do not touch what is unclean, and I will receive you	2Cor.6:17
+ I will be a Father to you, and you shall be My sons and daughters	2Cor.6:18
+Having these promises, beloved, let us cleanse ourselves	2Cor.7:1
+For godly sorrow produces repentance leading to salvation	2Cor.7:10
+He became poor, that you through His poverty might become rich	2Cor.8:9
+Providing honorable things, not only in the sight of the Lord, but also in the sight of men	2Cor.8:21
+He who sows bountifully will also reap bountifully	2Cor.9:6
+God loves a cheerful giver	2Cor.9:7
+God is able to make all grace abound toward you	2Cor.9:8
+That you… may have an abundance for every good work	2Cor.9:8
+He who supplies seed to the sower… multiply the seed you have sown	2Cor.9:10
+Thanks be to God for His indescribable gift!	2Cor.9:15
+For though we walk in the flesh, we do not war according to the flesh.	2Cor.10:3
+The weapons of our warfare are not carnal	2Cor.10:4
+Bringing every thought into captivity to the obedience of Christ	2Cor.10:5
+He who glories, let him glory in the LORD	2Cor.10:17
+My strength is made perfect in weakness	2Cor.12:9
+Be of good comfort, be of one mind, live in peace.	2Cor.13:11
+Be of one mind, live in peace	2Cor.13:11
+He gave Himself for our sins	Gal.1:4
+God shows personal favoritism to no man	Gal.2:6
+We have believed in Christ Jesus, that we might be justified by faith in Christ	Gal.2:16
+It is no longer I who live, but Christ lives in me	Gal.2:20
+Know that only those who are of faith are sons of Abraham	Gal.3:7
+Christ has redeemed us from the curse of the law	Gal.3:13
+If you are Christ’s, then you are Abraham’s seed, and heirs according to the promise	Gal.3:29
+God has sent forth the Spirit of His Son into your hearts	Gal.4:6
+Therefore you are no longer a slave but a son, and if a son, then an heir of God	Gal.4:7
+Stand fast therefore in the liberty by which Christ has made us free	Gal.5:1
+Through love serve one another	Gal.5:13
+You shall love your neighbor as yourself	Gal.5:14
+Walk in the Spirit	Gal.5:16
+The fruit of the Spirit is love, joy, peace…	Gal.5:22
+Those who are Christ’s have crucified the flesh	Gal.5:24
+If we live in the Spirit, let us also walk in the Spirit	Gal.5:25
+Bear one another’s burdens, and so fulfill the law of Christ.	Gal.6:2
+Let each one examine his own work	Gal.6:4
+Whatever a man sows, that he will also reap	Gal.6:7
+He who sows to the Spirit will of the Spirit reap everlasting life	Gal.6:8
+Let us not grow weary while doing good	Gal.6:9
+As we have opportunity, let us do good to all	Gal.6:10
+Blessed be the God,… who has blessed us  with every spiritual blessing	Eph.1:3
+He chose us in Him before the foundation of the world	Eph.1:4
+In Him we have redemption through His blood, the forgiveness of sins	Eph.1:7
+You were sealed with the Holy Spirit of promise	Eph.1:13
+What are the riches of the glory of His inheritance in the saints	Eph.1:18
+What is the exceeding greatness of His power toward us	Eph.1:19
+For by grace you have been saved through faith	Eph.2:8
+For we are His workmanship, created in Christ Jesus for good works	Eph.2:10
+You who once were far off have been brought near by the blood of Christ	Eph.2:13
+You are… fellow citizens with the saints and members of the household of God	Eph.2:19
+I beseech you to walk worthy of the calling with which you were called	Eph.4:1
+To each one of us grace was given according to the measure of Christ’s gift.	Eph.4:7
+Let each one of you speak truth with his neighbor	Eph.4:25
+Do not grieve the Holy Spirit of God	Eph.4:30
+Be kind to one another, tenderhearted	Eph.4:32
+Forgiving one another, even as God in Christ forgave you	Eph.4:32
+Be imitators of God as dear children	Eph.5:1
+Christ has loved us and given Himself for us	Eph.5:2
+Walk as children of light	Eph.5:8
+The fruit of the Spirit is in all goodness, righteousness, and truth	Eph.5:9
+Finding out what is acceptable to the Lord	Eph.5:10
+See then that you walk circumspectly, not as fools but as wise	Eph.5:15
+Redeeming the time, because the days are evil	Eph.5:16
+Understand what the will of the Lord is	Eph.5:17
+Be filled with the Spirit	Eph.5:18
+Christ loved the church and gave Himself for her	Eph.5:25
+Be strong in the Lord and in the power of His might	Eph.6:10
+Put on the whole armor of God	Eph.6:11
+We do not wrestle against flesh and blood	Eph.6:12
+Stand therefore, having girded your waist with truth	Eph.6:14
+Praying always with all prayer and supplication in the Spirit	Eph.6:18
+For to me, to live is Christ, and to die is gain	Phil.1:21
+Only let your conduct be worthy of the gospel of Christ	Phil.1:27
+Let nothing be done through selfish ambition or conceit	Phil.2:3
+In lowliness of mind let each esteem others better than himself	Phil.2:3
+Work out your own salvation with fear and trembling	Phil.2:12
+God works in you both to will and to do for His good pleasure	Phil.2:13
+Do all things without complaining and disputing	Phil.2:14
+I count all things loss for the excellence of the knowledge of Christ Jesus	Phil.3:8
+Forgetting those things which are behind and reaching forward to those things which are ahead	Phil.3:13
+Our citizenship is in heaven	Phil.3:20
+Rejoice in the Lord always. Again I will say, rejoice!	Phil.4:4
+Let your gentleness be known to all men	Phil.4:5
+The Lord is at hand	Phil.4:5
+Be anxious for nothing	Phil.4:6
+Let your requests be made known to God	Phil.4:6
+I have learned both to be full and to be hungry, both to abound and to suffer need	Phil.4:12
+I can do all things through Christ who strengthens me	Phil.4:13
+God shall supply all your need	Phil.4:19
+That you may be filled with the knowledge of His will	Col.1:9
+That you may walk worthy of the Lord	Col.1:10
+He has delivered us from the power of darkness	Col.1:13
+We have redemption through His blood, the forgiveness of sins	Col.1:14
+Christ in you, the hope of glory	Col.1:27
+As you therefore have received Christ Jesus the Lord, so walk in Him	Col.2:6
+In Him dwells all the fullness of the Godhead bodily	Col.2:9
+And you are complete in Him	Col.2:10
+He has made alive together with Him, having forgiven you all trespasses	Col.2:13
+Seek those things which are above, where Christ is, sitting at the right hand of God	Col.3:1
+Set your mind on things above, not on things on the earth.	Col.3:2
+Your life is hidden with Christ in God	Col.3:3
+But above all these things put on love	Col.3:14
+Love is the bond of perfection	Col.3:14
+Let the peace of God rule in your hearts	Col.3:15
+Be thankful	Col.3:15
+Let the word of Christ dwell in you richly	Col.3:16
+Do all in the name of the Lord Jesus	Col.3:17
+And whatever you do, do it heartily, as to the Lord	Col.3:23
+From the Lord you will receive the reward of the inheritance	Col.3:24
+Continue earnestly in prayer	Col.4:2
+Let your speech always be with grace, seasoned with salt	Col.4:6
+Take heed to the ministry which you have received in the Lord, that you may fulfill it	Col.4:17
+And may the Lord make you increase and abound in love to one another	1Thess.3:12
+For this is the will of God, your sanctification	1Thess.4:3
+That each of you should know how to possess his own vessel in sanctification and honor	1Thess.4:4
+God did not call us to uncleanness, but in holiness	1Thess.4:7
+That you may walk properly toward those who are outside	1Thess.4:12
+You are all sons of light and sons of the day	1Thess.5:5
+Let us not sleep, as others do, but let us watch and be sober	1Thess.5:6
+Let us who are of the day be sober	1Thess.5:8
+For God did not appoint us to wrath, but to obtain salvation	1Thess.5:9
+Always pursue what is good	1Thess.5:15
+Rejoice always	1Thess.5:16
+Pray without ceasing	1Thess.5:17
+In everything give thanks	1Thess.5:18
+Test all things; hold fast what is good	1Thess.5:21
+May the God of peace Himself sanctify you completely	1Thess.5:23
+May your whole spirit, soul, and body be preserved blameless	1Thess.5:23
+God from the beginning chose you for salvation	2Thess.2:13
+The Lord is faithful, who will establish you and guard you from the evil one	2Thess.3:3
+If anyone will not work, neither shall he eat	2Thess.3:10
+May the Lord of peace Himself give you peace always in every way	2Thess.3:16
+I thank Christ Jesus our Lord who has enabled me	1Tim.1:12
+Christ Jesus came into the world to save sinners	1Tim.1:15
+There is one God and one Mediator between God and men	1Tim.2:5
+Great is the mystery of godliness: God was manifested in the flesh	1Tim.3:16
+We trust in the living God, who is the Savior of all men	1Tim.4:10
+Till I come, give attention to reading, to exhortation, to doctrine.	1Tim.4:13
+Do not neglect the gift that is in you, which was given to you	1Tim.4:14
+Take heed to yourself and to the doctrine. Continue in them.	1Tim.4:16
+You shall not muzzle an ox while it treads out the grain	1Tim.5:18
+The laborer is worthy of his wages	1Tim.5:18
+Keep yourself pure	1Tim.5:22
+Godliness with contentment is great gain	1Tim.6:6
+Having food and clothing, with these we shall be content	1Tim.6:8
+The love of money is a root of all kinds of evil	1Tim.6:10
+Pursue righteousness, godliness, faith, love, patience, gentleness	1Tim.6:11
+Fight the good fight of faith	1Tim.6:12
+Lay hold on eternal life, to which you were called	1Tim.6:12
+Guard what was committed to your trust	1Tim.6:20
+I remind you to stir up the gift of God which is in you	2Tim.1:6
+God has not given us a spirit of fear, but of power and of love and of a sound mind	2Tim.1:7
+Do not be ashamed of the testimony of our Lord	2Tim.1:8
+Hold fast the pattern of sound words	2Tim.1:13
+That good thing which was committed to you, keep by the Holy Spirit who dwells in us.	2Tim.1:14
+Be strong in the grace that is in Christ Jesus	2Tim.2:1
+You therefore must endure hardship as a good soldier of Jesus Christ	2Tim.2:3
+The hardworking farmer must be first to partake of the crops.	2Tim.2:6
+Remember that Jesus Christ, of the seed of David, was raised from the dead	2Tim.2:8
+If we endure, we shall also reign with Him	2Tim.2:12
+The Lord knows those who are His	2Tim.2:19
+Pursue righteousness, faith, love, peace with those who call on the Lord	2Tim.2:22
+A servant of the Lord must not quarrel but be gentle to all	2Tim.2:24
+All who desire to live godly in Christ Jesus will suffer persecution	2Tim.3:12
+You must continue in the things which you have learned	2Tim.3:14
+All Scripture is given by inspiration of God, and is profitable for doctrine	2Tim.3:16
+That the man of God may be complete, thoroughly equipped for every good work	2Tim.3:17
+Preach the word! Be ready in season and out of season.	2Tim.4:2
+But you be watchful in all things	2Tim.4:5
+Do the work of an evangelist, fulfill your ministry.	2Tim.4:5
+In all things showing yourself to be a pattern of good works	Titus 2:7
+The grace of God that brings salvation has appeared to all men	Titus 2:11
+Not by works of righteousness which we have done, but according to His mercy He saved us	Titus 3:5
+That the sharing of your faith may become effective	Philem.1:6
+Having confidence in your obedience, I write to you	Philem.1:21
+We must give the more earnest heed to the things we have heard	Heb.2:1
+For both He who sanctifies and those who are being sanctified are all of one	Heb.2:11
+As the children have partaken of flesh and blood, He Himself likewise shared in the same	Heb.2:14
+He is able to aid those who are tempted	Heb.2:18
+For every house is built by someone, but He who built all things is God.	Heb.3:4
+Christ as a Son over His own house, whose house we are	Heb.3:6
+Exhort one another daily	Heb.3:13
+For we have become partakers of Christ	Heb.3:14
+We who have believed do enter that rest	Heb.4:3
+Let us therefore be diligent to enter that rest	Heb.4:11
+The word of God is living and powerful, and sharper than any two-edged sword	Heb.4:12
+All things are naked and open to the eyes of Him to whom we must give account.	Heb.4:13
+Let us hold fast our confession	Heb.4:14
+Let us therefore come boldly to the throne of grace	Heb.4:16
+He learned obedience by the things which He suffered	Heb.5:8
+Leaving the discussion of the elementary principles of Christ, let us go on to perfection	Heb.6:1
+For God is not unjust to forget your work and labor of love	Heb.6:10
+Surely blessing I will bless you, and multiplying I will multiply you	Heb.6:14
+Jesus… is able to save to the uttermost those who come to God through Him	Heb.7:25
+Jesus… always lives to make intercession	Heb.7:25
+And I will be their God, and they shall be My people	Heb.8:10
+I will put My laws in their mind and write them on their hearts	Heb.8:10
+The blood of Christ… cleanse your conscience from dead works	Heb.9:14
+We have been sanctified through the offering of the body of Jesus Christ	Heb.10:10
+Their sins and their lawless deeds I will remember no more	Heb.10:17
+Let us hold fast the confession of our hope without wavering	Heb.10:23
+Let us consider one another to provoke unto love and to good works	Heb.10:24
+Not forsaking the assembling of ourselves together	Heb.10:25
+Do not cast away your confidence, which has great reward	Heb.10:35
+You have need of endurance, so that after you have done the will of God, you may receive the promise	Heb.10:36
+Yet a little while, and He who is coming will come and will not tarry	Heb.10:37
+We are… of those who believe to the saving of the soul	Heb.10:39
+Faith is the substance of things hoped for, the evidence of things not seen.	Heb.11:1
+But without faith it is impossible to please Him	Heb.11:6
+He who comes to God must believe that He is	Heb.11:6
+God is a rewarder of those who diligently seek Him	Heb.11:6
+Strangers and pilgrims on the earth	Heb.11:13
+Through faith subdued kingdoms, worked righteousness, obtained promises	Heb.11:33
+God having provided something better for us	Heb.11:40
+Let us lay aside every weight, and the sin which so easily ensnares us	Heb.12:1
+Let us run with endurance the race that is set before us	Heb.12:1
+For the joy that was set before Him endured the cross	Heb.12:2
+Consider Him who endured such hostility from sinners against Himself	Heb.12:3
+You have not yet resisted to bloodshed, striving against sin	Heb.12:4
+Nor be discouraged when you are rebuked by Him	Heb.12:5
+Strengthen the hands which hang down, and the feeble knees	Heb.12:12
+Pursue peace with all people, and holiness	Heb.12:14
+You have come to Mount Zion and to the city of the living God	Heb.12:22
+Since we are receiving a kingdom which cannot be shaken, let us have grace	Heb.12:28
+Let us have grace, by which we may serve God acceptably with reverence and godly fear	Heb.12:28
+Let brotherly love continue.	Heb.13:1
+Do not forget to entertain strangers	Heb.13:2
+Be content with such things as you have	Heb.13:5
+I will never leave you nor forsake you	Heb.13:5
+The LORD is my helper; I will not fear. What can man do to me?	Heb.13:6
+Jesus Christ is the same yesterday, today, and forever	Heb.13:8
+It is good that the heart be established by grace	Heb.13:9
+Jesus, that He might sanctify the people with His own blood, suffered outside the gate	Heb.13:12
+Let us go forth to Him, outside the camp, bearing His reproach.	Heb.13:13
+Here we have no continuing city, but we seek the one to come	Heb.13:14
+By Him let us continually offer the sacrifice of praise to God, that is, the fruit of our lips	Heb.13:15
+Do not forget to do good and to share	Heb.13:16
+Obey those who rule over you	Heb.13:17
+He who doubts is like a wave of the sea	James 1:6
+Blessed is the man who endures temptation	James 1:12
+Every good gift and every perfect gift is from above	James 1:17
+Of His own will He brought us forth by the word of truth	James 1:18
+Receive with meekness the implanted word	James 1:21
+Be doers of the word, and not hearers only	James 1:22
+To keep oneself unspotted from the world	James 1:27
+Mercy triumphs over judgment.	James 2:13
+By works faith was made perfect	James 2:22
+Faith without works is dead	James 2:26
+If anyone does not stumble in word, he is a perfect man	James 3:2
+The Spirit who dwells in us yearns jealously	James 4:5
+God resists the proud, but gives grace to the humble	James 4:6
+Submit to God. Resist the devil.	James 4:7
+Draw near to God and He will draw near to you.	James 4:8
+Humble yourselves in the sight of the Lord, and He will lift you up.	James 4:10
+Be patient, brethren, until the coming of the Lord	James 5:7
+Be patient. Establish your hearts	James 5:8
+The coming of the Lord is at hand	James 5:8
+The Lord is very compassionate and merciful	James 5:11
+Is anyone among you suffering? Let him pray.	James 5:13
+Is anyone cheerful? Let him sing psalms.	James 5:13
+The prayer of faith will save the sick	James 5:15
+Pray for one another, that you may be healed	James 5:16
+The effective, fervent prayer of a righteous man avails much.	James 5:16
+Blessed be the God… who has begotten us again to a living hope	1Pet.1:3
+Be holy in all your conduct	1Pet.1:15
+Be holy, for I am holy	1Pet.1:16
+You were not redeemed with corruptible things, like silver or gold, from your aimless conduct	1Pet.1:18
+Love one another fervently with a pure heart	1Pet.1:22
+The word of the LORD endures forever	1Pet.1:25
+As newborn babes, desire the pure milk of the word	1Pet.2:2
+You have tasted that the Lord is gracious	1Pet.2:3
+He who believes on Him will by no means be put to shame	1Pet.2:6
+But you are a chosen generation, a royal priesthood, a holy nation	1Pet.2:9
+Honor all people. Love the brotherhood. Fear God. Honor the king.	1Pet.2:17
+Who Himself bore our sins in His own body on the tree	1Pet.2:24
+By whose stripes you were healed	1Pet.2:24
+You were like sheep going astray, but have now returned to the Shepherd	1Pet.2:25
+The eyes of the LORD are on the righteous	1Pet.3:12
+If you should suffer for righteousness’ sake, you are blessed	1Pet.3:14
+Sanctify the Lord God in your hearts	1Pet.3:15
+Christ suffered once for sins,… that He might bring us to God	1Pet.3:18
+The end of all things is at hand	1Pet.4:7
+Be hospitable to one another without grumbling	1Pet.4:9
+As each one has received a gift, minister it to one another	1Pet.4:10
+If anyone speaks, let him speak as the oracles of God	1Pet.4:11
+If anyone ministers, let him do it as with the ability which God supplies	1Pet.4:11
+The Spirit of glory and of God rests upon you	1Pet.4:14
+You will receive the crown of glory that does not fade away	1Pet.5:4
+Humble yourselves under the mighty hand of God, that He may exalt you in due time	1Pet.5:6
+Casting all your care upon Him, for He cares for you	1Pet.5:7
+As His divine power has given to us all things that pertain to life and godliness	2Pet.1:3
+Exceedingly great and precious promises	2Pet.1:4
+Be even more diligent to make your call and election sure	2Pet.1:10
+The Lord knows how to deliver the godly out of temptations	2Pet.2:9
+The Lord is not slack concerning His promise	2Pet.3:9
+The day of the Lord will come as a thief in the night	2Pet.3:10
+Be diligent to be found by Him in peace, without spot and blameless	2Pet.3:14
+Consider that the longsuffering of our Lord is salvation	2Pet.3:15
+Grow in the grace and knowledge of our Lord	2Pet.3:18
+For the life was manifested	1John 1:2
+Our fellowship is with the Father and with His Son Jesus Christ	1John 1:3
+That your joy may be full	1John 1:4
+God is light and in Him is no darkness at all	1John 1:5
+The blood of Jesus Christ His Son cleanses us from all sin	1John 1:7
+We have an Advocate with the Father, Jesus Christ the righteous	1John 2:1
+Whoever keeps His word, truly the love of God is perfected in him	1John 2:5
+The darkness is passing away, and the true light is already shining	1John 2:8
+Your sins are forgiven you for His name’s sake	1John 2:12
+And the world is passing away, and the lust of it	1John 2:17
+He who does the will of God abides forever	1John 2:17
+This is the promise that He has promised us—eternal life	1John 2:25
+And now, little children, abide in Him	1John 2:28
+Behold what manner of love the Father has bestowed on us	1John 3:1
+Beloved, now we are children of God	1John 3:2
+He was manifested to take away our sins	1John 3:5
+By this we know love, because He laid down His life for us	1John 3:16
+Let us not love in word or in tongue, but in deed and in truth	1John 3:18
+If our heart does not condemn us, we have confidence toward God	1John 3:21
+He who is in you is greater than he who is in the world	1John 4:4
+Let us love one another, for love is of God	1John 4:7
+God is love	1John 4:8
+The love of God was manifested toward us	1John 4:9
+God loved us and sent His Son to be the propitiation for our sins	1John 4:10
+If God so loved us, we also ought to love one another	1John 4:11
+The Father has sent the Son as Savior of the world	1John 4:14
+And we have known and believed the love that God has for us	1John 4:16
+There is no fear in love; but perfect love casts out fear	1John 4:18
+We love Him because He first loved us	1John 4:19
+His commandments are not burdensome	1John 5:3
+Whatever is born of God overcomes the world	1John 5:4
+This is the victory that has overcome the world—our faith.	1John 5:4
+God has given us eternal life	1John 5:11
+That you may know that you have eternal life	1John 5:13
+He who has been born of God keeps himself, and the wicked one does not touch him	1John 5:18
+We know that we are of God, and the whole world lies under the sway of the wicked one	1John 5:19
+The Son of God has come and has given us an understanding	1John 5:20
+This is love, that we walk according to His commandments	2John 1:6
+That you may prosper in all things and be in health	3John 1:2
+Keep yourselves in the love of God	Jude 1:21
+Blessed is he who reads and those who hear the words of this prophecy	Rev.1:3
+Behold, He is coming with clouds, and every eye will see Him	Rev.1:7
+I am the Alpha and the Omega, the Beginning and the End, says the Lord	Rev.1:8
+I know your works, your labor, your patience	Rev.2:2
+To him who overcomes I will give to eat from the tree of life	Rev.2:7
+Be faithful until death, and I will give you the crown of life	Rev.2:10
+To him who overcomes I will give some of the hidden manna to eat	Rev.2:17
+Remember therefore how you have received and heard; hold fast and repent	Rev.3:3
+See, I have set before you an open door, and no one can shut it	Rev.3:8
+Behold, I am coming quickly!	Rev.3:11
+Hold fast what you have, that no one may take your crown	Rev.3:11
+He who overcomes, I will make him a pillar in the temple of My God	Rev.3:12
+He who has an ear, let him hear what the Spirit says to the churches	Rev.3:13
+As many as I love, I rebuke and chasten	Rev.3:19
+Behold, I stand at the door and knock	Rev.3:20
+If anyone hears My voice and opens the door, I will come in to him	Rev.3:20
+To him who overcomes I will grant to sit with Me on My throne	Rev.3:21
+Holy, holy, holy, LORD God Almighty	Rev.4:8
+You are worthy, O Lord, to receive glory and honor and power	Rev.4:11
+And have made us kings and priests to our God	Rev.5:10
+Worthy is the Lamb who was slain	Rev.5:12
+Salvation belongs to our God who sits on the throne, and to the Lamb!	Rev.7:10
+And God will wipe away every tear from their eyes	Rev.7:17
+And the smoke of the incense, with the prayers of the saints, ascended before God	Rev.8:4
+They overcame him by the blood of the Lamb and by the word of their testimony	Rev.12:11
+Worship Him who made heaven and earth, the sea and springs of water	Rev.14:7
+Great and marvelous are Your works, Lord God Almighty!	Rev.15:3
+Who shall not fear You, O Lord, and glorify Your name?	Rev.15:4
+You are righteous, O Lord, the One who is and who was and who is to be	Rev.16:5
+Even so, Lord God Almighty, true and righteous are Your judgments	Rev.16:7
+Blessed is he who watches, and keeps his garments	Rev.16:15
+Behold, I make all things new	Rev.21:5
+I will give of the fountain of the water of life freely to him who thirsts	Rev.21:6
+He who overcomes shall inherit all things	Rev.21:7
+Blessed is he who keeps the words of the prophecy of this book	Rev.22:7
+He who is holy, let him be holy still	Rev.22:11
+Whoever desires, let him take the water of life freely	Rev.22:17
+Even so, come, Lord Jesus!	Rev.22:20

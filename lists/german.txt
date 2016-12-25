@@ -1,0 +1,526 @@
+﻿#BIBLE VERSE DESKTOP ( vrsoft.org )
+
+#name   	Luter Bible
+#language	german
+
+; Scripture taken from the Luter Bible. 
+; Public Domain.
+
+Und ihr, Kinder Zions, freut euch	Joel.2:23
+Aber das ist meine Freude, daß ich mich zu Gott halte 	Ps.73:28
+Nun aber bleibt Glaube, Hoffnung, Liebe	1Kor.13:13
+Der aber alles bereitet hat, das ist Gott. 	Hebr.3:4
+Habe ich's nicht getroffen, so lehre du mich's besser	Hiob.34:32
+Denn der HERR ist freundlich dem, der auf sie harrt	Klgl.3:25
+Daß es wohl gehen wird denen, die Gott fürchten	Pred.8:12
+Gott aber sei Dank für seine unaussprechliche Gabe! 	2Kor.9:15
+Gott aber sei Dank, der uns den Sieg gibt	1Kor.15:57
+Laß es deinem Knecht heute gelingen	Neh.1:11
+Gelobet sei der HERR täglich	Ps.68:19
+Und will dich segnen… und sollst ein Segen sein. 	1Mose.12:2
+Er segnet, die den HERRN fürchten	Ps.115:13
+Selig ist der Mann, der die Anfechtung erduldet	Jak.1:12
+Wohl dem, dem die übertretungen vergeben sind	Ps.32:1
+Selig seid ihr, die ihr hier weint; denn ihr werdet lachen. 	Lk.6:21
+Das Wort ist dir nahe, in deinem Munde und in deinem Herzen	Röm.10:8
+Es ist aber nahe gekommen das Ende aller Dinge	1Petr.4:7
+Denn Gott war in Christus und versöhnte die Welt mit sich selber	2Kor.5:19
+Daß uns Gott das ewige Leben gegeben hat	1Joh.5:11
+Gott ist die Liebe. 	1Joh.4:8
+Gott ist Licht und in ihm ist keine Finsternis. 	1Joh.1:5
+Gott aber kann machen, daß alle Gnade unter euch reichlich sei	2Kor.9:8
+Mein Gott aber fülle aus alle eure Notdurft	Phlm.4:19
+Gott ist unsre Zuversicht	Ps.62:8
+Unser Gott, den wir ehren, kann uns wohl erretten	Dan.3:17
+Denn Gott ist's, der in euch wirkt beides, das Wollen und das Vollbringen…	Phlm.2:13
+Ich bin der HERR, dein Gott, der dich lehrt	Jes.48:17
+Mein Schöpfer, der Lobgesänge gibt in der Nacht	Hiob.35:10
+Der Gott aber der Geduld und des Trostes	Röm.15:5
+Wachet und betet	Mt.26:41
+Wachet, stehet im Glauben	1Kor.16:13
+Behüte dein Herz mit allem Fleiß	Spr.4:23
+Ja, ich gedenke an deine vorigen Wunder 	Ps.77:11
+Und soll meine Lust sein, daß ich ihnen Gutes tue	Jer.32:41
+Ich will sie… segnen und auf sie regnen lassen	Hes.34:26
+Sei getrost bis an den Tod, so will ich dir die Krone des Lebens geben	Offb.2:10
+Die brüderliche Liebe untereinander sei herzlich	Röm.12:10
+Habt einerlei Sinn, haltet Frieden	2Kor.13:11
+Seid aber Täter des Worts	Jak.1:22
+Sollt auch ihr heilig sein in eurem ganzen Wandel	1Petr.1:15
+Ihr sollt heilig sein, denn ich bin heilig.	1Petr.1:16
+Zu allem guten Werk bereit seien 	Tit.3:1
+Und nehmet das Wort an mit Sanftmut	Jak.1:21
+Daß ihr durch ihn in allen Stücken reich gemacht seid	1Kor.1:5
+Beschirme mich unter dem Schatten deiner Flügel 	Ps.17:8
+Großen Frieden haben, die dein Gesetz lieben	Ps.119:165
+Die teuren und allergrößten Verheißungen	2Chr.1:4
+Also ist auch der Glaube ohne Werke tot	Jak.2:26
+So kommt der Glaube aus der Predigt, das Predigen aber aus dem Wort Gottes	Röm.10:17
+Glaubt ihr, daß ich euch solches tun kann?	Mt.9:28
+Wer an ihn glaubt, der soll nicht zuschanden werden	1Petr.2:6
+Sie sollen ewige Freude haben	Jes.61:7
+Und sollst fröhlich sein vor dem HERRN,	5Mose.12:18
+Suchet mich, so werdet ihr leben. 	Am.5:4
+Denn was sichtbar ist, das ist zeitlich; was aber unsichtbar ist, das ist ewig. 	2Kor.4:18
+Zieh mich dir nach, so laufen wir.	Hld.1:4
+Wer sie ängstete, der ängstete ihn auch	Jes.63:9
+Hebet eure Hände… und lobet den HERRN	Ps.134:2
+Rufe mich an, so will ich dir antworten	Jer.33:3
+Ich rufe zu Gott, dem Allerhöchsten	Ps.50:2
+Wirf dein Anliegen auf den HERRN	Ps.55:22
+Meine Lieben, wir sind schon Gottes Kinder	1Joh.3:2
+Wachset aber in der Gnade	2Chr.3:18
+Der uns.. wiedergeboren hat… zu einem unvergänglichen und unbefleckten und unverwelklichen Erbe	1Petr.1:3,4
+Und nehme sein Kreuz… und folge mir nach. 	Lk.9:23
+Ich gehe einher in der Kraft des HERRN HERRN	Ps.71:16
+Wohlgefällige und vollkommene Gotteswille. 	Röm.12:2
+Er hat uns gezeugt nach seinem Willen durch das Wort der Wahrheit,	Jak.1:18
+Jetzt ist der Tag des Heils! 	2Kor.6:2
+Denn ihr seid allzumal einer in Christo Jesu. 	Gal.3:28
+Das tut alles zu Gottes Ehre	1Kor.10:31
+Alle eure Sorge werft auf ihn	1Petr.5:7
+Und alles, was mein ist, das ist dein, und was dein ist, das ist mein	Joh.17:10
+Aber in dem allem überwinden wir weit um deswillen, der uns geliebt hat	Röm.8:37
+Alle eure Dinge laßt in der Liebe geschehen! 	1Kor.16:14
+Er hat alles wohl gemacht	Mk.7:37
+Denn welche der Geist Gottes treibt, die sind Gottes Kinder	Röm.8:14
+Alles, was Gott tut, das besteht immer	Pred.3:14
+Und des Morgens vor Tage… betete	Mk.1:35
+Wer den Namen des HERRN wird anrufen, soll selig werden	Röm.10:13
+Alle gute Gabe… kommt von obenherab	Jak.1:17
+Ihr ein Brief Christi seid	2Kor.3:3
+Da ihr ja geschmeckt habt, daß der HERR freundlich ist	1Petr.2:3
+Ihr aber seid Christi, Christus aber ist Gottes. 	1Kor.3:23
+Denn ihr seid teuer erkauft	1Kor.6:20
+So werdet ihr… die unvergängliche Krone der Herrlichkeit empfangen	1Petr.5:4
+Wir aber haben nicht empfangen den Geist der Welt, sondern den Geist aus Gott	1Kor.2:2
+Nun aber seid ihr… nahe geworden durch das Blut Christi. 	Eph.2:13
+Also führte er sein Volk in Freuden	Ps.105:43
+Wo aber der Geist des HERRN ist, da ist Freiheit. 	2Kor.3:17
+Und wo ich bin, da soll mein Diener auch sein	Joh.12:26
+Und redeten das Wort Gottes mit Freudigkeit	Apg.4:31
+So jemand predigt, daß er's rede als Gottes Wort;	1Petr.4:11
+Heiligt aber Gott den Herrn Christus in euren Herzen	1Petr.3:15
+HERR, vor dir ist alle meine Begierde	Ps.38:9
+HERR, mache dein Werk lebendig mitten in den Jahren	Hab.3:2
+Du sollst anbeten Gott	Mt.4:10
+Denn Gott der HERR ist meine Stärke und mein Psalm	Jes.12:2
+Der HERR wird sein Volk segnen mit Frieden	Ps.29:11
+Gott der HERR ist Sonne und Schild	Ps.84:11
+Denn Gott der HERR ist ein Fels ewiglich	Ps.26:4
+Der HERR wird dein ewiges Licht sein	Jes.60:20
+Der HERR wird seinem Volk eine Zuflucht sein	Joel.4:16
+Denn der HERR ist barmherzig und ein Erbarmer	Jak.5:11
+Der HERR warf unser aller Sünde auf ihn. 	Jes.53:6
+Der HERR gibt Gnade und Ehre	Ps.84:11
+Der HERR… kennt die, die auf ihn trauen	Nah.1:7
+Der HERR wird's für mich vollführen	Ps.138:8
+HERR, GOTT, barmherzig und gnädig	2Mose.34:6
+Denn ich will ihnen ihre Missetat vergeben	Jer.31:34
+Unser Gott kommt und schweigt nicht	Ps.50:3
+Des HERRN Wille geschehe	Apg.21:14
+Deine Gnade müsse mein Trost sein	Ps.119:76
+Laß mir deine Hand beistehen	Ps.119:173
+Laß mich wohnen in deiner Hütte ewiglich	Ps.61:4
+Auf daß wir Gott Frucht bringen	Röm.7:4
+Er bitte aber im Glauben und zweifle nicht	Jak.1:6
+Bitte Gott, der da gibt einfältig jedermann und rücket's niemand auf	Jak.1:5
+Daß wir die Kindschaft empfingen	Gal.4:5
+Die Gabe Gottes ist das ewige Leben	Röm.6:23
+Umsonst habt ihr's empfangen, umsonst gebt es auch. 	Mt.10:8
+Gottes Gaben und Berufung können ihn nicht gereuen	Röm.11:29
+Und durch die Werke ist der Glaube vollkommen geworden	Jak.2:22
+Und der Gerechtigkeit Frucht wird Friede sein	Jes.32:17
+Sei getrost… deine Sünden sind dir vergeben. 	Mt.9:2
+Und die Geduld unsers HERRN achtet für eure Seligkeit, 	2Chr.3:15
+Seid ihr auch geduldig und stärket eure Herzen	Jak.5:8
+Denn es kostet zuviel, eine Seele zu erlösen	Ps.49:8
+Und kaufet die Zeit aus; denn es ist böse Zeit. 	Eph.5:16
+Strebt nach der Liebe!	1Kor.14:1
+Das Lamm, das erwürget ist, ist würdig	Offb.5:12
+Das Alte ist vergangen, siehe, Neues ist geworden! 	2Kor.5:17
+Denn der Geist, der ein Geist der Herrlichkeit und Gottes ist, ruht auf euch	1Petr.4:14
+Seid brünstig im Geiste. Schicket euch in die Zeit	Röm.12:11
+Denn es ist… ein Mittler zwischen Gott und den Menschen	1Tim.2:5
+Ist Gott für uns, wer mag wider uns sein? 	Röm.8:31
+Wirst du ihn suchen, so wirst du ihn finden;	1Chr.28:9
+Denn "noch über eine kleine Weile, so wird kommen, der da kommen soll, und nicht verziehen	Hebr.10:37
+Euer Leben ist verborgen mit Christo in Gott	Kol.3:3
+Im Hause des Gottlosen ist der Fluch des HERRN	Spr.3:33
+Denn er hat mir einen ewigen Bund gesetzt	2Sam.23:5
+Versiegelt worden seid mit dem Heiligen Geist	Eph.1:13
+Denn der HERR kennt den Weg der Gerechten	Ps.1:6
+Euer Vater weiß, was ihr bedürfet	Mt.6:8
+Die Erkenntnis bläst auf; aber die Liebe baut auf. 	1Kor.8:1
+Und euer Vater sein, und ihr sollt meine Söhne und Töchter sein	2Kor.6:18
+Wer aber an diesen glaubt, der ist gerecht. 	Apg.13:39
+Und singen auf den Wegen des HERRN	Ps.138:5
+Und ich sagte dir zu: Du wirst alsdann mich nennen "Lieber Vater!"	Jer.3:19
+Und ich will euch… einen neuen Geist in euch geben	Hes.36:26
+Und das Leben war das Licht der Menschen	Joh.1:4
+Und alle, die ihn anrührten, wurden gesund	Mk.6:56
+Und wir haben erkannt und geglaubt die Liebe, die Gott zu uns hat	1Joh.4:16
+Und Frieden auf Erden und den Menschen ein Wohlgefallen. 	Lk.2:14
+Und zu warten auf seinen Sohn vom Himmel	1Thes.1:10
+Ich will meine Wohnung unter euch haben	3Mose.26:11
+Und mein Wort und meine Predigt gaschahen… in Erweisung des Geistes und der Kraft, 	1Kor.2:4
+Und also trug er Geduld und erlangte die Verheißung. 	Hebr.6:15
+Und der König wird antworten und sagen zu ihnen:… das habt ihr mir getan	Mt.25:40
+Denn das Lamm… wird sie weiden	Offb.7:17
+Denn der HERR hat Wohlgefallen an seinem Volk	Ps.149:4
+Denn des HERRN Tag ist nahe	Zef.1:7
+Seine Gnade… waltet über uns in Ewigkeit	Ps.117:2
+Denn siehe, ich will einen neuen Himmel und eine neue Erde schaffen	Jes.65:17
+Denn auf alle Gottesverheißungen ist in ihm das Ja	2Kor.1:20
+Und das Leben ist erschienen	1Joh.1:2
+Denn mein Joch ist sanft, und meine Last ist leicht. 	Mt.11:30
+Denn ihr Erbarmer wird sie führen	Jes.49:10
+Denn wir sind Gottes Mitarbeiter	1Kor.3:9
+Denn wir sind für Gott ein guter Wohlgeruch Christi	2Kor.2:15
+Denn er selbst, der Vater, hat euch lieb	Joh.16:27
+Denn das Wort vom Kreuz ist… eine Gotteskraft. 	1Kor.1:18
+Kommt, wir wollen uns zum HERRN fügen	Jer.50:5
+Ein Wort der Gerechtigkeit geht aus meinem Munde, dabei soll es bleiben	Jes.45:23
+Jesus… lebt immerdar und bittet für sie. 	Hebr.7:22,25
+Elia war ein Mensch gleich wie wir	Jak.5:17
+Weil wir nun solche Verheißungen haben…, so laßt uns reinigen	2Kor.7:1
+Der Name des HERRN ist ein festes Schloß	Spr.18:10
+Und sie wurden alle voll des Heiligen Geistes	Apg.2:4
+Wer aber den Willen Gottes tut, der bleibt in Ewigkeit. 	1Joh.2:17
+Seine Wahrheit für und für	Ps.100:5
+Deine Güte reicht, soweit der Himmel ist	Ps.36:5
+Und nun, Kindlein, bleibet in ihm	1Joh.2:28
+Und die mich frühe suchen, finden mich	Spr.8:17
+Meine Seele hanget dir an	Ps.63:8
+HERR, dich rufe ich an	Joel.1:19
+Jeder aber wird seinen Lohn empfangen nach seiner Arbeit. 	1Kor.3:8
+Wie herrlich ist dein Name in allen Landen! 	Ps.8:9
+Aber wie köstlich sind vor mir, Gott, deine Gedanken	Ps.139:17
+Wie gar unbegreiflich sind sein Gerichte	Röm.11:33
+Er wird seine Herde weiden wie ein Hirte	Jes.40:11
+Wie lieblich sich die Füße derer, die den Frieden verkündigen	Röm.10:15
+Wenn ich mich fürchte, so hoffe ich auf dich	Ps.56:3
+Welchen du segnest, der ist gesegnet	4Mose.22:6
+Der  wird euch fest erhalten bis ans Ende	1Kor.1:8
+Der sich selbst für unsere Sünden gegeben hat	Gal.1:4
+Das Blut Jesu, seines Sohnes, macht uns rein von aller Sünde. 	1Joh.1:7
+Ist jemand in Christo, so ist er eine neue Kreatur	2Kor.5:17
+So jemand durch mich eingeht, der wird selig werden 	Joh.10:9
+Wen da dürstet, der komme zu mir und trinke! 	Joh.7:37
+Welcher ist aber nun ein treuer und kluger Knecht,	Mt.24:45
+Wenn jemand Gott liebt, der ist von ihm erkannt	1Kor.8:3
+Wer mir dienen will, der folge mir nach	Joh.12:26
+Welche auf ihn sehen, die werden erquickt	Ps.34:5
+Wer mir nachfolgt, der wird… das Licht des Lebens haben	Joh.8:12
+Und wer da sät im Segen, der wird auch ernten im Segen. 	2Kor.9:6
+Wer fromm einhergeht, dem wird geholfen	Spr.28:18
+Dem aber, der überschwenglich tun kann über alles… dem sei Ehre in der Gemeinde	Eph.3:20,21
+Es ist gut, auf den HERRN zu vertrauen	Ps.118:8
+Denn die Liebe Gottes ist ausgegossen in unser Herz durch den heiligen Geist	Röm.5:5
+Daran ist erschienen die Liebe Gottes unter uns	1Joh.4:9
+Denen, die Gott lieben, alle Dinge zum Besten dienen	Röm.8:28
+Ein gütiges Auge wird gesegnet	Spr.22:9
+Aber meine Gnade soll nicht von dir weichen	Jes.54:10
+Und die Barmherzigkeit rühmt sich wider das Gericht	Jak.2:13
+Wenn du mich demütigst, machst du mich groß	Ps.18:35
+Des Gerechten Gebet vermag viel	Jak.5:16
+Es steht beim Herrn, dir mehr zu geben als dies. 	2Chr.25:9
+Und das Gebet des Glaubens wird dem Kranken helfen	Jak.5:15
+Der Gerechten Gebet erhört er	Spr.15:29
+Ich will die Finsternis vor ihnen her zum Licht machen 	Jes.42:16
+Wir sind Narren um Christi willen	1Kor.4:10
+Aber wir wandeln im Namen des HERRN	Mi.4:5
+Wir aber, die wir Kinder des Tages sind, wollen nüchtern sein,	1Thes.5:8
+So haben wir einen Bau, von Gott erbaut, ein Haus… im Himmel. 	2Kor.5:1
+Wir aber predigen den gekreuzigten Christus	1Kor.1:23
+Denn wir wandeln im Glauben, und nicht im Schauen	2Kor.5:7
+Lebenslang seine Gnade	Ps.30:5
+Ich traue auf den HERRN	Ps.11:1
+Auf ihn hofft mein Herz, und mir ist geholfen	Ps.28:7
+HERR, ich warte auf dein Heil! 	1Mose.49:18
+Dein Segen komme über dein Volk	Ps.3:8
+Und will auf ihn schreiben…meinen Namen, den neuen. 	Offb.3:12
+Und leite mich auf ewigem Wege	Ps.139:24
+Er heißt Held	Jes.9:6
+Daß mein Volk in Häusern des Friedens wohnen wird	Jes.32:18
+Siehe, es kommt dem HERRN die Zeit	Sach.14:1
+Die Stunde da ist, aufzustehen vom Schlaf	Röm.13:11
+HERR, weise mir deinen Weg	Ps.27:11
+Lehre mich tun nach deinem Wohlgefallen, denn du bist mein Gott	Ps.143:10
+Daß er uns lehre seine Wege	Jes.2:3
+Lernet Gutes tun	Jes.1:17
+Unsre Gemeinschaft ist mit dem Vater und mit seinem Sohn Jesus Christus. 	1Joh.1:3
+Fürchte dich nicht, ich helfe dir! 	Jes.41:13
+Fürchtet euch nur nicht und stärket eure Hände. 	Sach.8:13
+Ich halte mein Leben auch nicht selbst teuer	Apg.20:24
+Und vergiß nicht, was er dir Gutes getan hat	Ps.103:2
+Denn er hat den, der von keiner Sünde wußte, für uns zur Sünde gemacht,	2Kor.5:21
+Der HERR verzieht nicht die Verheißung	2Chr.3:9
+Denn er wird des Armen nicht so ganz vergessen	Ps.9:18
+Und betrübet nicht den heiligen Geist Gottes	Eph.4:30
+Gut hilft nicht am Tage des Zorns	Spr.11:4
+Richtet nicht, auf daß ihr nicht gerichtet werdet	Mt.7:1
+Der Mensch lebt nicht vom Brot allein	Mt.4:4
+Nicht also, sondern wir wollen dem HERRN dienen	Jos.24:21
+Willst du uns denn nicht wieder erquicken	Ps.85:6
+Jaget allezeit dem Guten nach	1Thes.5:15
+Und wenn ihr auch leidet um der Gerechtigkeit willen, so seid ihr doch selig.	1Petr.3:14
+Als sie… ihn suchten, ließ er sich von ihnen finden 	2Chr.15:4
+Sondern darum, daß er euch geliebt hat	5Mose.7:8
+Wir haben aber diesen Schatz in irdenen Gefäßen	2Kor.4:7
+Aber du, HERR, sei nicht ferne	Ps.22:19
+Nun aber ist Christus auferstanden von den Toten	1Kor.15:20
+Aber Noah fand Gnade vor dem HERRN. 	1Mose.6:8
+O welch eine Tiefe des Reichtums, beides, der Weisheit und Erkenntnis Gottes!	Röm.11:33
+Sie werden über deinen Namen täglich fröhlich sein	Ps.89:16
+Sondern ziehet an den HERRN Jesus Christus	Röm.13:14
+Sondern ziehet an den HERRN Jesus Christus	Röm.13:14
+Seid stark in dem HERRN und in der Macht seiner Stärke	Eph.6:10
+Anlegen die Waffen des Lichtes	Röm.13:12
+Kehre dich zu mir; denn ich erlöse dich. 	Jes.44:22
+Ich halte mich zu denen, die dich fürchten	Ps.119:63
+Es ist aller zumal ein HERR, reich über alle, die ihn anrufen. 	Röm.10:12
+Hat er doch an dem, was er litt Gehorsam gelernt	Hebr.5:8
+Das Warten der Gerechten wird Freude werden	Spr.10:28
+Und wartet auf die Barmherzigkeit unsers HERRN Jesu Christi 	Jud.21
+Der unsre Sünde hinaufgetragen hat an seinem Leibe auf das Holz	1Petr.2:24
+Tat er von ganzem Herzen, und es gelang ihm 	2Chr.31:21
+Und darum ist er auch ein Mittler des neuen Testaments	Hebr.9:15
+Und er wird Israel erlösen aus allen seinen Sünden	Ps.130:8
+Denn er wird den Armen erretten, der da schreit	Ps.72:12
+Er sättigt die durstige Seele	Ps.107:9
+Darum schämt er sich auch nicht, sie Brüder zu heißen, 	Hebr.2:11
+Und führet mich zum frischen Wasser	Ps.23:2
+Denn sie sind unsträflich vor dem Stuhl Gottes	Offb.14:5
+Sie werden vergehen, aber du bleibest	Ps.102:26
+HERR, sie werden im Licht deines Antlitzes wandeln	Ps.89:15
+Und haben ihre Kleider hell gemacht im Blut des Lammes. 	Offb.7:14
+Nun wir denn sind gerecht geworden durch den Glauben	Röm.5:1
+Wenn ihr umkehrtet und stillebliebet, so würde euch geholfen	Jes.30:15
+Verzeihe mir die verborgenen Fehle	Ps.19:12
+Uns ist bange, aber wir verzagen nicht	2Kor.4:8
+Der Vater den Sohn gesandt hat als Heiland der Welt	1Joh.4:14
+Wenn dein Wort offenbar wird, so erfreut es 	Ps.119:130
+Denn die Augen des HERRN sehen auf die Gerechten	1Petr.3:12
+Auch wir haben ein Passalamm, das ist Christus, der geopfert ist. 	1Kor.5:7
+Ich will ihre Speise segnen 	Ps.132:15
+Gedenke aber mein nach deiner Barmherzigkeit	Ps.25:7
+Wer überwindet, der wird es alles ererben	Offb.21:7
+Ich habe einen guten Kampf gekämpft	2Tim.4:7
+Stärke mich, daß ich genese	Ps.119:117
+Der HERR kennt die seinen	2Tim.2:19
+Betet an den HERRN in heiligem Schmuck	Ps.96:9
+So seid nun Gott untertänig. Widerstehet dem Teufel	Jak.4:7
+Voll Barmherzigkeit und guter Früchte	Jak.3:17
+Vor dir ist Freude die Fülle	Ps.16:11
+So fasset nun diese Worte zu Herzen und in eure Seele 	5Mose.11:18
+Unsre Hilfe steht im Namen des HERRN	Ps.124:8
+Gedenke meiner, mein Gott, im Besten! 	Neh.13:31
+Gehorche doch der Stimme des HERRN	Jer.38:20
+Wer aber die Wahrheit tut, der kommt an das Licht	Joh.3:21
+Sende dein Licht und deine Wahrheit	Ps.43:3
+Befiehl dem HERRN deine Wege 	Ps.37:5
+Harre des HERRN, der wird dir helfen. 	Spr.20:22
+Laß… deine Heiligen sich freuen des Guten. 	2Chr.6:41
+Wer aber beharret bis ans Ende, der wird selig	Mt.24:13
+Meine Zuversicht und meine Burg	Ps.91:2
+Nahet euch zu Gott, so naht er sich zu euch	Jak.4:8
+So will ich wiederkommen und euch zu mir nehmen	Joh.14:3
+Ach HERR, höre, ach HERR, sei gnädig,	Dan.9:18
+Laßt euch versöhnen mit Gott. 	2Kor.5:20
+Ihr werdet mir angenehm sein mit dem süßen Geruch	Hes.20:41
+Wer zu mir kommt, den wird nicht hungern	Joh.6:35
+Denn die Zukunft des HERRN ist nahe	Jak.5:8
+Denn es werden Wasser in der Wüste hin und wieder fließen und Ströme im dürren Lande. 	Jes.35:6
+Darum preist Gott mit eurem Leibe,	1Kor.6:20
+Daß euch die Sünden vergeben sind um seines Namens willen. 	1Joh.2:12
+Um deines Namens willen wolltest du mich leiten und führen. 	Ps.31:3
+Die Freude am HERRN ist eure Stärke	Neh.8:10
+Freuet euch, laßt euch zurechtbringen, laßt euch mahnen	2Kor.13:11
+Wißt ihr nicht, daß ihr Gottes Tempel seid	1Kor.3:16
+Ein Vernünftiger mäßigt seine Rede	Spr.17:27
+Durch seine Wunden seid ihr heil geworden. 	1Petr.2:24
+Tretet auf die Wege und schauet und fraget nach den vorigen Wegen, welches der gute Weg sei, und wandelt darin	Jer.6:16
+alles, was von Gott geboren ist, überwindet die Welt	1Joh.5:4
+Er aber, der HERR des Friedens, gebe euch Frieden allenthalben und auf allerlei Weise	2Thes.3:16
+Heilig, heilig, heilig ist Gott der HERR, der Allmächtige	Offb.4:8
+Heilig, heilig, heilig ist der HERR Zebaoth	Jes.6:3
+Siehe, dein König kommt zu dir	Mt.21:5
+Dieser Jesus… wird kommen, wie ihr ihn gesehen habt  	Apg.1:11
+Dieser… kann er auch selig machen immerdar	Hebr.7:24-25
+Denn meine Kraft ist in den Schwachen mächtig.	2Kor.12:9
+Eure Rede sei allezeit lieblich	Kol.4:6
+Des HERRN Wort bleibt in Ewigkeit.	1Petr.1:25
+Dein Wort ist meine Fußes Leuchte 	Ps.119:105
+Den Demütigen gibt er Gnade.	Jak.4:6
+Demütiget euch vor Gott	Jak.4:10
+Sehet, welch eine Liebe hat uns der Vater erwiesen	1Joh.3:1
+Und die Heiligung vollenden in der Furcht Gottes. 	2Kor.7:1
+Wer aber dem HERRN anhängt, der ist ein Geist mit ihm. 	1Kor.6:17
+Und erhaltet euch in der Liebe Gottes	Jud.21
+Der uns hat selig gemacht und berufen mit einem heiligen Ruf,	2Tim.1:9
+Daß wir tüchtig sind, ist von Gott, 	2Kor.3:5
+Jaget nach dem Frieden gegen jedermann und der Heiligung	Hebr.12:14
+Ihr steht in einem Geist und einer Seele 	Phlm.1:27
+Er wird behüten die Füße seiner Heiligen	1Sam.2:9
+Daß sie Gäste und Fremdlinge auf Erden wären. 	Hebr.11:13
+Die Furcht des HERRN ist eine Quelle des Lebens	Spr.14:27
+Siehe, die Furcht des HERRN, das ist Weisheit	Hiob.28:28
+Mein Kind, behalte meine Rede 	Spr.7:1
+Das Geheimnis des HERRN ist unter denen, die ihn fürchten	Ps.25:14
+Lauft so, daß ihr ihn erlangt! 	1Kor.9:24
+Also laßt euer Licht leuchten vor den Leuten	Mt.5:16
+Also sollen auch wir in einem neuen Leben wandeln. 	Röm.6:4
+Der Geist selbst vertritt uns aufs beste mit unaussprechlichem Seufzen. 	Röm.8:26
+Ich bedecke dich unter dem Schatten meiner Hände	Jes.51:16
+Nur fürchtet den Herrn und dienet ihm treu von ganzem Herzen	1Sam.12:24
+Sondern fürchtet den HERRN, euren Gott	2Kön.17:39
+Der in euch ist, ist größer, als der in der Welt ist. 	1Joh.4:4
+Das zerstoßene Rohr wird er nicht zerbrechen	Mt.12:20
+Und du wirst sein wie ein gewässerter Garten	Jes.58:11
+Siehe zu, du bist gesund geworden; sündige hinfort nicht mehr	Joh.5:14
+Du prüfst Herzen und Nieren. 	Ps.7:9
+Denn du, HERR, bist gut und gnädig, von großer Güte allen	Ps.86:5
+Die Finsternis vergeht, und das wahre Licht scheint jetzt. 	1Joh.2:8
+Denn die Hilfe ist des HERRN	Jona.2:10
+Ermahnten sie, daß sie im Glauben blieben	Apg.14:22
+Die Elenden sehen's und freuen sich	Ps.69:32
+Denn sie können hinfort nicht sterben; denn sie sind… Gottes Kinder,	Lk.20:36
+So werden wir auch reichlich getröstet durch Christum. 	2Kor.1:5
+Verlasse mich auf Gottes Güte immer und ewiglich. 	Ps.52:8
+Und so man mit dem Munde bekennt, so wird man selig. 	Röm.10:10
+Laß deinen Knecht dein Gebot fest für dein Wort halten	Ps.119:38
+Der Tempel Gottes ist heilig, der seid ihr. 	1Kor.3:17
+Und sich von der Welt unbefleckt erhalten. 	Jak.1:27
+Denn das Reich Gottes steht nicht in Worten, sondern in Kraft	1Kor.4:20
+Er tue, was ihm wohlgefällt. 	1Sam.3:18
+Das ist er der Sünde gestorben zu einem Mal	Röm.6:10
+Er sprach zu ihnen: Was wollt ihr, daß ich euch tue? 	Mk.10:36
+Daß ihr erfüllt werdet mit Erkenntnis seines Willens	Kol.1:9
+Damit unsere Freude vollkommen sei	1Joh.1:4
+Daß dir's wohl gehe und du gesund seist,	3Joh.2
+Darum suche ich auch, HERR, dein Antlitz. 	Ps.27:8
+Ich aber will…des Gottes meines Heils warten	Mi.7:7
+Ein Beispiel habe ich euch gegeben, daß ihr tut, wie ich euch getan habe	Joh.13:15
+Ich bin der Weinstock, ihr seid die Reben	Joh.15:5
+Ich aber will zu Gott rufen	Ps.55:16
+Deinen Willen, mein Gott, tue ich gern	Ps.40:8
+Ich aber bin voll Kraft und Geistes des HERRN	Mi.3:8
+Denn ich habe Lust an der Liebe, und nicht am Opfer	Hos.6:6
+Denn ich schäme mich des Evangeliums von Christo nicht	Röm.1:16
+Ich aber bin unter euch wie ein Diener	Lk.22:27
+Ich will vor deinem Angesicht alle meine Güte vorübergehen lassen	2Mose.33:19
+Ich bin bei dir, daß ich dir helfe und dich errette	Jer.15:20
+Ich, ich tilge deine übertretungen um meinetwillen	Jes.43:25
+Bin ich das Licht der Welt. 	Joh.9:5
+Ich bin dein Schild und dein sehr großer Lohn. 	1Mose.15:1
+Ich habe gesehen das Elend meines Volkes	2Mose.3:7
+Da will ich dich wissen lassen, was du tun sollst, 	1Sam.16:3
+Ich, der HERR, will sie erhören	Jes.41:17
+Ich, der HERR, kann das Herz ergründen	Jer.17:10
+Aber ohne Glauben ist's unmöglich, Gott zu gefallen	Hebr.11:6
+Du aber bleibe in dem, was du gelernt hast	2Tim.3:14
+Und danksaget dem Vater… welcher uns errettet hat von der Obrigkeit der Finsternis	Kol.1:13
+Aus Gnade seid ihr selig geworden	Eph.2:5
+Selig ist, der da wacht und hält seine Kleider	Offb.16:15
+Selig ist, der da hält die Worte der Weissagung in diesem Buch	Offb.22:7
+Denn Gott hat uns nicht gesetzt zum Zorn, sondern die Seligkeit zu besitzen 	1Thes.5:9
+Hat Gott gesandt den Geist seines Sohnes in eure Herzen	Gal.4:6
+So lasset uns halten an dem Bekenntnis	Hebr.4:14
+Sei getrost bis an den Tod, so will ich dir die Krone des Lebens geben	Offb.2:10
+Und seid dankbar	Kol.3:15
+Haltet an am Gebet	Kol.4:2
+Und kündlich groß ist das gottselige Geheimnis: Gott ist offenbart im Fleisch	1Tim.3:16
+Groß und wundersam sind deine Werke, HERR, allmächtiger Gott!	Offb.15:3
+Es ist aber ein großer Gewinn, wer gottselig ist und lässet sich genügen. 	1Tim.6:6
+Es ist aber der Glaube eine gewisse Zuversicht des, das man hofft, und ein Nichtzweifeln an dem, das man nicht sieht	Hebr.11:1
+Der Glaube, der durch die Liebe tätig ist	Gal.5:6
+Aber der HERR ist treu; der wird euch stärken und bewahren vor dem Argen	2Thes.3:3
+Ich will geben mein Gesetz in ihren Sinn, und in ihr Herz will ich es schreiben	Hebr.8:10
+Habe acht auf dich selbst und auf die Lehre; beharre in diesen Stücken	1Tim.4:16
+Allenthalben aber stelle dich selbst zum Vorbilde guter Werke	Tit.2:7
+Denn ihr seid alle Gottes Kinder durch den Glauben an Christum Jesum	Gal.3:26
+Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des HERRN Jesu	Kol.3:17
+Prüfet aber alles, und das Gute behaltet	1Thes.5:21
+Ich vermag alles durch den, der mich mächtig macht, Christus	Phlm.4:13
+Und achte es für Kot, auf daß ich Christum gewinne 	Phlm.3:8
+Ja, ich achte es noch alles für Schaden gegen die überschwengliche Erkenntnis Christi Jesu	Phlm.3:8
+Seid allezeit fröhlich	1Thes.5:16
+Denn ihr habt noch nicht bis aufs Blut widerstanden in den Kämpfen wider die Sünde 	Hebr.12:4
+Der HERR ist nahe	Phlm.4:5
+Und der Friede Gottes regiere in euren Herzen	Kol.3:15
+Darum laßt uns hinzutreten mit Freudigkeit zu dem Gnadenstuhl	Hebr.4:16
+Und zwar, da die Werke von Anbeginn der Welt gemacht waren	Hebr.4:3
+Lasset uns aber Gutes tun und nicht müde werden	Gal.6:9
+Halte, was du hast, daß niemand deine Krone nehme	Offb.3:11
+Denn Christus ist mein Leben, und Sterben ist mein Gewinn	Phlm.1:21
+Und wen dürstet, der komme; und wer da will, der nehme das Wasser des Lebens umsonst	Offb.22:17
+Wandelt nur würdig dem Evangelium Christi	Phlm.1:27
+Seid dankbar in allen Dingen	1Thes.5:18
+Jesum, sehen wir durchs Leiden des Todes gekrönt mit Preis und Ehre	Hebr.2:9
+Versiegelt worden seid mit dem Heiligen Geist der Verheißung	Eph.1:13
+Und ihr seid vollkommen in ihm	Kol.2:10
+Ich lebe aber; doch nun nicht ich, sondern Christus lebt in mir	Gal.2:20
+Denn das ist der Wille Gottes, eure Heiligung	1Thes.4:3
+Ihr seid allzumal Kinder des Lichtes und Kinder des Tages	1Thes.5:5
+Denn Gott hat uns nicht gegeben den Geist der Furcht, sondern der Kraft und der Liebe und der Zucht	2Tim.1:7
+Denn wir haben hier keine bleibende Stadt, sondern die zukünftige suchen wir	Hebr.13:14
+Denn Gott hat uns nicht berufen zur Unreinigkeit, sondern zur Heiligung	1Thes.4:7
+Denn das Wort Gottes ist lebendig und kräftig	Hebr.4:12
+Also hat Gott die Welt geliebt, daß er seinen eingeborenen Sohn gab	Joh.3:16
+Ich weiß, an wen ich glaube	2Tim.1:12
+Denn es ist erschienen die heilsame Gnade Gottes allen Menschen 	Tit.2:11
+Jesus Christus gestern und heute und derselbe auch in Ewigkeit	Hebr.13:8
+Wenn wir aber Nahrung und Kleider haben, so lasset uns genügen	1Tim.6:8
+Werdet voll Geistes	Eph.5:18
+Und welche da sei die überschwengliche Größe seiner Kraft an uns	Eph.1:19
+Welcher sei der Reichtum seines herrlichen Erbes bei seinen Heiligen	Eph.1:18
+Ihr horen werdet seine Stimme… so verstocket eure Herzen nicht	Hebr.3:7-8
+Welche ich liebhabe, die strafe und züchtige ich	Offb.3:19
+Durch die Liebe diene einer dem andern	Gal.5:13
+Und betet stets in allem Anliegen mit Bitten und Flehen im Geist	Eph.6:18
+An welchem wir haben die Erlösung durch sein Blut, die Vergebung der Sünden	Eph.1:7
+Denn wir sind Christi teilhaftig geworden	Hebr.3:14
+Ermahnet euch selbst alle Tage	Hebr.3:13
+Und nicht verlassen unsere Versammlung	Hebr.10:25
+So lasset uns nun nicht schlafen wie die andern, sondern lasset uns wachen und nüchtern sein	1Thes.5:6
+Sorget nichts!	Phlm.4:6
+Laß nicht aus der Acht die Gabe, die dir gegeben ist	1Tim.4:14
+Betet ohne Unterlaß	1Thes.5:17
+Trachtet nach dem, was droben ist, nicht nach dem, was auf Erden ist	Kol.3:2
+Nicht um der Werke willen der Gerechtigkeit.. sondern nach seiner Barmherzigkeit machte er uns selig	Tit.3:5
+Und sie haben ihn überwunden durch des Lammes Blut und durch das Wort ihres Zeugnisses	Offb.12:11
+Darum wollen wir die Lehre vom Anfang christlichen Lebens jetzt lassen und zur Vollkommenheit fahren	Hebr.6:1
+Der sich selbst für unsere Sünden gegeben hat	Gal.1:4
+Lasset eure Bitten im Gebet und Flehen mit Danksagung vor Gott kund werden	Phlm.4:6
+Die Frucht aber des Geistes ist Liebe, Freude, Friede…	Gal.5:22
+Wer überwindet, dem will ich zu essen geben vom Holz des Lebens	Offb.2:7
+Wer überwindet, dem will ich geben, mit mir auf meinem Stuhl zu sitzen	Offb.3:21
+Kämpfe den guten Kampf des Glaubens; ergreife das ewige Leben	1Tim.6:12
+So seid nun Gottes Nachfolger als die lieben Kinder 	Eph.5:1
+Sondern verständig, was da sei des HERRN Wille	Eph.5:17
+Gedenket an den, der ein solches Widersprechen von den Sündern wider sich erduldet hat	Hebr.12:3
+Wandelt im Geist	Gal.5:16
+Wandelt wie die Kinder des Lichts	Eph.5:9
+Der Gerechte wird seines Glaubens leben	Rom.1:17
+Jage aber nach der Gerechtigkeit, der Gottseligkeit, dem Glauben, der Liebe, der Geduld, der Sanftmut	1Tim.6:11
+Predige das Wort, halte an, es sei zu rechter Zeit oder zur Unzeit	2Tim.4:2
+Freuet euch in dem HERRN allewege! Und abermals sage ich: Freuet euch! 	Phlm.4:4
+Und lasset uns laufen durch Geduld in dem Kampf, der uns verordnet ist	Hebr.12:1
+Aber wer fromm ist, der sei fernerhin fromm	Offb.22:11
+Siehe, ich komme bald	Offb.3:11
+Eure Rede sei allezeit lieblich und mit Salz gewürzt	Kol.4:6
+Lasset das Wort Christi unter euch reichlich wohnen in aller Weisheit	Kol.3:16
+So bestehet nun in der Freiheit, zu der uns Christus befreit hat	Gal.5:1
+Welche aber Christo angehören, die kreuzigen ihr Fleisch	Gal.5:24
+Geduld aber ist euch not, auf daß ihr den Willen Gottes tut und die Verheißung empfanget	Hebr.10:36
+Darum richtet wieder auf die lässigen Hände und die müden Kniee 	Hebr.12:12
+So sei nun stark, mein Sohn, durch die Gnade in Christo Jesu	2Tim.2:1
+Seid stark in dem HERRN und in der Macht seiner Stärke	Eph.6:10
+Daß wir auf den lebendigen Gott gehofft haben, welcher ist der Heiland aller Menschen	1Tim.4:10
+Dies beigelegte Gut bewahre durch den heiligen Geist, der in uns wohnt	2Tim.1:14
+Welches ist Christus in euch, der da ist die Hoffnung der Herrlichkeit	Kol.1:27
+Gleichwie Christus uns hat geliebt und sich selbst dargegeben für uns als Gabe und Opfer	Eph.5:2
+Christus Jesus gekommen ist in die Welt, die Sünder selig zu machen	1Tim.1:15
+Ich bin das A und das O, der Anfang und das Ende	Offb.1:8
+Ich habe vor dir gegeben eine offene Tür, und niemand kann sie zuschließen	Offb.3:8

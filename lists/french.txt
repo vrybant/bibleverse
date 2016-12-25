@@ -1,0 +1,527 @@
+﻿#BIBLE VERSE DESKTOP ( vrsoft.org )
+
+#name   	Louis Segond Bible
+#copyright	Public Domain
+#language	french 
+
+; Scripture taken from the Louis Segond Bible.
+; Public Domain.
+
+Et vous, enfants de Sion, soyez dans l'allégresse	Joë.2:23
+Pour moi, m'approcher de Dieu, c'est mon bien	Ps.73:28
+Maintenant donc ces trois choses demeurent: la foi, l'espérance, la charité 	1Co.13:13
+Celui qui a construit toutes choses, c'est Dieu	Hé.3:4
+Montre-moi ce que je ne vois pas	Job 34:32
+L'Éternel a de la bonté pour qui espčre en lui	La.3:25
+Le bonheur est pour ceux qui craignent Dieu	Ec.8:12
+Grâces soient rendues ŕ Dieu pour son don ineffable!	2Co.9:15
+Grâces soient rendues ŕ Dieu, qui nous donne la victoire par notre Seigneur Jésus-Christ! 	1Co.15:57
+Donne aujourd'hui du succčs ŕ ton serviteur	Né.1:11
+Béni soit le Seigneur chaque jour! Quand on nous accable, Dieu nous délivre	Ps.68:20
+Je te bénirai… et tu seras une source de bénédictions	Ge.12:2
+Il bénira ceux qui craignent l'Éternel	Ps.115:13
+Heureux l'homme qui supporte patiemment la tentation	Ja.1:12
+Heureux celui ŕ qui la transgression est remise, ŕ qui le péché est pardonné!	Ps.32:1
+Heureux vous qui pleurez maintenant, car vous serez dans la joie!	Lu.6:21
+La parole est prčs de toi, dans ta bouche et dans ton cśur	Ro.10:8
+La fin de toutes choses est proche	1Pi.4:7
+Dieu était en Christ, réconciliant le monde avec lui-męme	2Co.5:19
+Dieu nous a donne la vie éternellement,…et cette vie éternelle est dans son Fils	1Jn.5:11
+Dieu est amour	1Jn.4:8
+Dieu est lumičre et il n'y a point en lui de ténčbres	1Jn.1:5
+Dieu peut vous combler de toutes sortes de grâces 	2Co.9:8
+Et mon Dieu pourvoira ŕ tous vos besoins 	Ph.4:19
+Dieu est notre refuge	Ps.62:9
+Voici, notre Dieu que nous servons peut nous délivrer de la fournaise ardente	Da.3:17
+Car c'est Dieu qui produit en vous le vouloir et le faire, selon son bon plaisir	Ph.2:13
+Moi, l'Éternel, ton Dieu, je t'instruis pour ton bien	És.48:17
+Oů est Dieu, mon créateur, qui inspire des chants d'allégresse pendant la nuit	Job 35:10
+Que le Dieu de la persévérance.. vous donne d'avoir les męmes sentiments…	Ro.15:5
+Veillez et priez, afin que vous ne tombiez pas dans la tentation	Mt.26:41
+Veillez, demeurez fermes dans la foi	1Co.16:13
+Garde ton coeur plus que toute autre chose	Pr.4:23
+Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois	Ps.77:12
+Je prendrai plaisir ŕ leur faire du bien	Jé.32:41
+Je ferai d'elle un sujet de bénédiction	Éz.34:26
+Sois fidčle jusqu'ŕ la mort, et je te donnerai la couronne de vie	Ap.2:10
+Soyez pleins d'affection les uns pour les autres; par honneur, usez de prévenances réciproques	Ro.12:10
+Ayez un męme sentiment, vivez en paix	2Co.13:11
+Mettez en pratique la parole	Ja.1:22
+Soyez saints dans toute votre conduite, selon qu'il est écrit 	1Pi.1:15
+Vous serez saints, car je suis saint	1Pi.1:16
+Rappelle-leur d'ętre soumis…, d'ętre pręts ŕ toute bonne oeuvre	Ti.3:1
+Recevez avec douceur la parole qui a été planté en vous, et qui peut sauver vos âmes 	Ja.1:21
+En lui vous avez été comblés de toutes les richesses 	1Co.1:5
+Protčge-moi, ŕ l'ombre de tes ailes	Ps.17:8
+Il y a beaucoup de paix pour ceux qui aiment ta loi, et il ne leur arrive aucun malheur	Ps.119:165
+Les plus grandes et les plus précieuses promesses	2Pi.1:4
+La foi sans śuvres est morte	Ja.2:26
+Ainsi la foi vient de ce qu'on entend, et ce qu'on entend vient de la parole de Christ 	Ro.10:17
+Croyez-vous que je puisse faire cela? 	Mt.9:28
+Celui qui croit en elle ne sera point confus	1Pi.2:6
+Leur joie sera éternelle	És.61:7
+C'est devant l'Éternel ton Dieu que tu feras servir ŕ ta joie tous les biens que tu posséderas	De.12:18
+Cherchez-moi, et vous vivrez!	Am.5:4
+Les choses visibles sont passagčres, et les invisibles sont éternelles	2Co.4:18
+Entraîne-moi aprčs toi! Nous courrons! 	Ca.1:4
+Dans toutes leurs détresses ils n'ont pas été sans secours	És.63:9
+Qui vous tenez dans la maison de l'Éternel, dans les parvis de la maison de notre Dieu! 	Ps.134:2
+Invoque-moi, et je te répondrai	Jé.33:3
+Je crie au Dieu Trčs Haut, au Dieu qui agit en ma faveur	Ps.57:3
+Remets ton sort ŕ l'Éternel, et il te soutiendra 	Ps.55:23
+Bien-aimé, nous sommes maintenant enfant de Dieu 	1Jn.3:2
+Croissez dans la grâce 	2Pi.3:18
+Béni soit Dieu et notre Seigneur J-C…qui nous a régénérés,…pour un héritage…	1Pi.1:3,4
+Si quelqu'un veut venir aprčs moi, qu'il renonce ŕ lui-męme, qu'il se charge chaque jour de sa croix, et qu'il me suive	Lu.9:23
+Je dirai tes oeuvres puissantes, Seigneur Éternel! 	Ps.71:16
+Que vous discerniez quelle est la volonté de Dieu, ce qui est bon, agréable et parfait	Ro.12:2
+Il nous a engendrés selon sa volonté, par la parole de vérité	Ja.1:18
+Voici maintenant le jour du salut	2Co.6:2
+Tous vous ętes un en Jésus-Christ	Ga.3:28
+Faites tout pour la gloire de Dieu 	1Co.10:31
+Déchargez-vous sur lui de tous vos soucis, car lui-męme prend soin de vous	1Pi.5:7
+Tout ce qui est ŕ moi est ŕ toi, et ce qui est ŕ toi est ŕ moi	Jn.17:10
+Mais dans toutes ces choses nous sommes plus que vainqueurs 	Ro.8:37
+Que tout ce que vous faites se fasse avec charité! 	1Co.16:14
+Il fait tout ŕ merveille	Mc.7:37
+Tous ceux qui sont conduits par l'Esprit de Dieu sont fils de Dieu	Ro.8:14
+Tout ce que Dieu fait durera toujours	Ec.3:14
+Pendant qu'il faisait encore trčs sombre, il se leva, et sortit pour aller dans un lieu désert, oů il pria	Mc.1:35
+Car quiconque invoquera le nom du Seigneur sera sauvé	Ro.10:13
+Toute grâce excellente… descend d'en haut 	Ja.1:17
+Vous ętes manifestement une lettre de Christ	2Co.3:3
+Vous avez goűté que le Seigneur est bon	1Pi.2:3
+Tout est ŕ vous; et vous ętes ŕ Christ, et Christ est ŕ Dieu 	1Co.3:23
+Vous avez été rachetés ŕ un grand prix	1Co.6:20
+Vous obtiendrez la couronne incorruptible de la gloire	1Pi.5:4
+Or nous, nous n'avons pas reçu l'esprit du monde, mais l'Esprit qui vient de Dieu	1Co.2:12
+Vous avez été rapprochés par le sang de Christ	Ép.2:13
+Il fit sortir son peuple dans l'allégresse, ses élus au milieu des cris de joie	Ps.105:43
+Lŕ oů est l'Esprit du Seigneur, lŕ est la liberté	2Co.3:17
+Lŕ oů je suis, lŕ aussi sera mon Serviteur	Jn.12:26
+Ils annonçaient la parole de Dieu avec assurance	Ac.4:31
+Si quelqu'un parle, que ce soit comme annonçant les oracles de Dieu	1Pi.4:11
+Sanctifiez dans vos cśurs Christ le Seigneur	1Pi.3:15
+Seigneur! tous mes désirs sont devant toi 	Ps.38:10
+Accomplis ton śuvre dans le cours des années, ô Éternel!	Ha.3:2
+Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul 	Mt.4:10
+L'Éternel est ma force et le sujet de mes louanges	És.12:2
+L'Éternel bénit son peuple et le rend heureux	Ps.29:11
+Car l'Éternel Dieu est un soleil et un bouclier… 	Ps.84:12
+L'Éternel est le rocher des sičcles	Ps.27:4
+L'Éternel sera ta lumičre ŕ toujours	És.60:20
+L'Éternel est refuge pour son peuple	Joë.3:16
+Le Seigneur est plein de miséricorde et de compassion	Ja.5:11
+L'Éternel a fait retomber sur lui l'iniquité de nous tous	És.53:6
+L'Éternel donne la grâce et la gloire	Ps.84:12
+L'Éternel est bon,… Il connaît ceux qui se confient en lui	Na.1:7
+L'Éternel agira en ma faveur	Ps.138:8
+L'Éternel, l'Éternel, Dieu miséricordieux et compatissant	Ex.34:6
+Je ne me souviendrai plus de leur péché	Jé.31:34
+Il vient, notre Dieu, il ne reste pas en silence	Ps.50:3
+Que la volonté du Seigneur se fasse!	Ac.21:14
+Que ta bonté soit ma consolation, Comme tu l'as promis ŕ ton serviteur!	Ps.119:76
+Que ta main me soit en aide! 	Ps.119:173
+Je voudrais séjourner éternellement dans ta tente	Ps.61:5
+Que nous portions des fruits pour Dieu 	Ro.7:4
+Qu'il demandent avec foi, sans douter	Ja.1:6
+Qu'il l'a demande (la sagesse) ŕ Dieu, qui donne ŕ tous simplement et sans reproche 	Ja.1:5
+Afin que nous reçussions l'adoption	Ga.4:5
+Le don gratuit de Dieu, c'est la vie éternelle en Jésus-Christ notre Seigneur	Ro.6:23
+Vous avez reçu gratuitement, donnez gratuitement	Mt.10:8
+Dieu ne se repent pas de ses dons et de son appel 	Ro.11:29
+Par les oeuvres la foi fut rendue parfaite 	Ja.2:22
+L'śuvre de la justice sera la paix	És.32:17
+Prends courage, mon enfant, tes péchés te sont pardonnés	Mt.9:2
+Croyez que la patience de notre Seigneur est votre salut	2Pi.3:15
+Vous aussi, soyez patients, affermissez vos cśurs	Ja.5:8
+Le rachat de leur âme est cher, et n'aura jamais lieu	Ps.49:9
+Rachetez le temps, car les jours sont mauvais	Ép.5:16
+Recherchez la charité. Aspirez aussi aux dons spirituels	1Co.14:1
+L'agneau qui a été immolé est digne de recevoir la puissance,… et la louange	Ap.5:12
+Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles 	2Co.5:17
+L'Esprit de gloire, l'Esprit de Dieu, repose sur vous	1Pi.4:14
+Soyez fervents d'esprit. Servez le Seigneur	Ro.12:11
+Il y a un seul Dieu… un Seul médiateur entre Dieu et les hommes, Jésus-Christ homme	1Ti.2:5
+Si Dieu est pour nous, qui sera contre nous?	Ro.8:31
+Si tu le cherches, il se laissera trouver par toi	1Ch.28:9
+Encore un peu,… celui qui doit venir viendra et  il ne tardera pas	Hé.10:37
+Votre vie est cachée avec Christ en Dieu	Col.3:3
+Il bénit la demeure des justes	Pr.3:33
+Il a fait avec moi une alliance éternelle	2S.23:5
+Vous avez été scellés du Saint-esprit	Ép.1:13
+Car l'Éternel connaît la voie des justes, et la voie des pécheurs mčne ŕ la ruine	Ps.1:6
+Votre Pčre sait de quoi vous avez besoin, avant que vous le lui demandiez	Mt.6:8
+La connaissance enfle, mais la charité édifie	1Co.8:1
+Je serai pour vous un pčre, et vous serez pour moi des fils et des filles	2Co.6:18
+Et que quiconque crois est justifié par lui de toutes les choses	Ac.13:39
+Ils célébreront les voies de l'Éternel	Ps.138:5
+Je disais: Tu m'appelleras: Mon pčre!	Jé.3:19
+Je vous donnerai un cśur nouveau	Éz.36:26
+En elle était la vie, et la vie était la lumičre des hommes	Jn.1:4
+Et tous ceux qui le touchaient étaient guéris.	Mc.6:56
+Et nous, nous avons connu l'amour que Dieu a pour nous 	1Jn.4:16
+Gloire ŕ Dieu dans les lieux trčs hauts, et paix sur la terre parmi les hommes qu'Il agrée! 	Lu.2:14
+Et pour attendre des cieux son Fils	1Th.1:10
+J'établirai ma demeure au milieu de vous	Lé.26:11
+Et ma parole et ma prédication… une démonstration d'Esprit et de puissance	1Co.2:4
+Et c'est ainsi qu'Abraham, ayant persévéré, obtint l'effet de la promesse.	Hé.6:15
+Et le roi leur répondra:… c'est ŕ moi que vous les avez faites. 	Mt.25:40
+Car l'agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la vie	Ap.7:17
+Car l'Éternel prend plaisir ŕ son peuple	Ps.149:4
+Le jour de l'Éternel est proche	So.1:7
+Car sa bonté pour nous est grande, et sa fidélité dure ŕ toujours. 	Ps.117:2
+Car je vais créer des nouveaux cieux et une nouvelle terre	És.65:17
+C'est pourquoi encore l'Amen par lui est prononcé par nous ŕ sa gloire.	2Co.1:20
+Car la vie a été manifestée 	1Jn.1:2
+Car mon joug est doux, et mon fardeau léger. 	Mt.11:30
+Car celui qui a pitié d'eux sera leur guide	És.49:10
+Car nous sommes ouvriers avec Dieu.	1Co.3:9
+Nous sommes, en effet, pour Dieu la bonne odeur de Christ	2Co.2:15
+Car le Pčre lui-męme vous aime	Jn.16:27
+Car la prédication de la croix est… une puissance de Dieu.	1Co.1:18
+Venez et attachez-vous ŕ l'Éternel	Jé.50:5
+La vérité sort de ma bouche et ma parole ne sera point révoquée	És.45:23
+Jésus… toujours vivant pour intercéder en leur faveur	Hé.7:22,25
+Élie était un homme de la męme nature que nous 	Ja.5:17
+Ayant donc de telles promesses, bien-aimés, purifions-nous 	2Co.7:1
+Le nom de l'Éternel est une tour forte	Pr.18:10
+Il a été tenté comme nous en toutes choses, sans commettre de péché.	Hé.4:15
+Celui qui fait la volonté de Dieu demeure éternellement. 	1Jn.2:17
+Car l'Éternel est bon; sa bonté dure toujours… 	Ps.100:5
+Éternel! ta bonté atteint jusqu'aux cieux	Ps.36:6
+Et maintenant, petits enfants, demeurez en lui	1Jn.2:28
+Ceux qui me cherchent me trouvent.	Pr.8:17
+Mon âme est attachée ŕ toi; ta droite me soutient.	Ps.63:9
+C'est vers toi que je crie, ô Éternel	Joë.1:19
+Chacun recevra sa propre récompense selon son propre travail.	1Co.3:8
+Que ton nom est magnifique sur toute la terre! 	Ps.8:10
+Que tes pensées, ô Dieu, me semblent impénétrables! 	Ps.139:17
+Que ses jugements sont insondables, et ses voies incompréhensibles! 	Ro.11:33
+Comme un berger, il paîtra son troupeau	És.40:11
+Qu'ils sont beaux les pieds de ceux qui annoncent la paix	Ro.10:15
+Quand je suis dans la crainte, en toi je me confie.	Ps.56:4
+Celui que tu bénis est béni, et que celui que tu maudis est maudit. 	No.22:6
+Il nous affermira aussi jusqu'ŕ la fin	1Co.1:8
+J-C s'est donné lui-męme pour nos péché	Ga.1:4
+Le sang de Jésus son fils nous purifie de tout péché.	1Jn.1:7
+Si quelqu'un est en Christ, il est une nouvelle créature. 	2Co.5:17
+Si quelqu'un entre par moi il sera sauvé	Jn.10:9
+Si quelqu'un a soif, qu'il vienne ŕ moi, et qu'il boive. 	Jn.7:37
+Quel est donc le serviteur fidčle et prudent?	Mt.24:45
+Mais si quelqu'un aime Dieu, celui-lŕ est connu de lui. 	1Co.8:3
+Si quelqu'un me sert, qu'il me suive	Jn.12:26
+Quand on tourne vers lui les regards, on est rayonnant de joie	Ps.34:6
+Celui qui me suit…aura la lumičre de la vie.	Jn.8:12
+Celui qui sčme peu moissonnera peu, et celui qui sčme abondamment moissonnera abondamment.	2Co.9:6
+Les hommes intčgres héritent le bonheur	Pr.28:18
+Celui qui peut faire par la puissance qui agit en nous,… ŕ lui soit la gloire	Ép.3:20,21
+Mieux vaut chercher un refuge en l'Éternel que de se confier ŕ l'homme	Ps.118:8
+L'amour de Dieu est répandu dans nos cśurs par le Saint Esprit qui nous a été donné. 	Ro.5:5
+L'Amour de Dieu a été manifesté envers nous	1Jn.4:9
+Toutes choses concourent au bien de ceux qui aiment Dieu	Ro.8:28
+L'homme dont le regard est bienveillant sera béni 	Pr.22:9
+Mon amour ne s'éloignera point de toi	És.54:10
+La miséricorde triomphe du jugement. 	Ja.2:13
+Ta droite me soutient, Et je deviens grand par ta bonté.	Ps.18:36
+La pričre fervente du juste a une grande efficace. 	Ja.5:16
+L'Éternel peut te donner bien plus que cela.	2Ch.25:9
+La pričre de la foi sauvera le malade	Ja.5:15
+Il écoute la pričre des justes.	Pr.15:29
+Je changerai de devant eux les ténčbres en lumičre	És.42:16
+Nous sommes fous ŕ cause de Christ	1Co.4:10
+Nous marcherons, nous, au nom de l'Éternel, notre Dieu, ŕ toujours et ŕ perpétuité.	Mi.4:5
+Nous qui sommes des jours, soyons sobres	1Th.5:8
+Nous avons dans le ciel un édifice qui est l'ouvrage de Dieu	2Co.5:1
+Nous, nous pręchons Christ crucifié	1Co.1:23
+Car nous marchons par la foi et non par la vue	2Co.5:7
+Sa colčre dure un instant, Mais sa grâce toute la vie	Ps.30:6
+C'est en l'Éternel que je cherche un refuge. 	Ps.11:1
+En lui mon coeur se confie, et je suis secouru	Ps.28:7
+J'espčre en ton secours, ô Éternel!	Ge.49:18
+Que ta bénédiction soit sur ton peuple!	Ps.3:9
+J'écrirai sur lui le nom de mon Dieu,… et mon nom nouveau.	Ap.3:12
+Regarde si je suis sur une mauvaise voie, et conduis-moi sur la voie de l'éternité! 	Ps.139:24
+On l'appellera Admirable, Conseiller, Dieu puissant	És.9:5
+Mon peuple demeurera dans le séjour de la paix	És.32:18
+Voici, le jour de l'Éternel arrive	Za.14:1
+C'est l'heure de vous réveiller enfin du sommeil	Ro.13:11
+Éternel! enseigne-moi ta voie 	Ps.27:11
+Enseigne-moi ŕ faire ta volonté! Car tu es mon Dieu. 	Ps.143:10
+Venez, et montons…afin qu'il nous enseigne ses voies	És.2:3
+Apprenez ŕ faire le bien	És.1:17
+Notre communion est avec le Pčre et avec son Fils Jésus-Christ. 	1Jn.1:3
+Ne crains rien, je viens ŕ ton secours.	És.41:13
+Ne craignez pas, et que vos mains se fortifient!	Za.8:13
+Mais je ne fais pour moi-męme aucun cas de ma vie	Ac.20:24
+Mon âme, bénis l'Éternel, Et n'oublie aucun de ses bienfaits! 	Ps.103:2
+Celui qui n'a point connu le péché, il l'a fait devenir péché pour nous	2Co.5:21
+Le Seigneur ne tarde pas dans l'accomplissement de la promesse	2Pi.3:9
+L'espérance des misérables ne périt pas ŕ toujours.	Ps.9:19
+N'attristez pas le Saint-esprit de Dieu 	Ép.4:30
+La richesse ne sert ŕ rien; mais la justice délivre de la mort. 	Pr.11:4
+Ne jugez point, afin que vous ne soyez point jugés. 	Mt.7:1
+L'homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu.	Mt.4:4
+Non! Nous servirons l'Éternel.	Jos.24:21
+Ne nous rendras-tu pas ŕ la vie, afin que ton peuple se réjouisse en toi? 	Ps.85:7
+Poursuivez toujours le bien	1Th.5:15
+D'ailleurs, quand vous souffririez pour la justice, vous seriez heureux. 	1Pi.3:14
+Mais au sein de leur détresse ils sont retournes ŕ l'Eternel… ils l'ont trouvé	2Ch.15:4
+Mais, par ce que l'Éternel vous aime 	De.7:8
+Nous portons ce trésor dans des vases de terre 	2Co.4:7
+Et toi, Éternel, ne t'éloigne pas! Toi qui es ma force, viens en hâte ŕ mon secours! 	Ps.22:20
+Mais maintenant, Christ est ressuscité des morts	1Co.15:20
+Mais Noé trouva grâce aux yeux de l'Éternel.	Ge.6:8
+O profondeur de la richesse, de la sagesse et de la science de Dieu!	Ro.11:33
+Il se réjouit sans cesse de ton nom, et il se glorifie de ta justice.	Ps.89:17
+Mais revętez-vous du Seigneur Jésus-Christ 	Ro.13:14
+Mais revętez-vous du Seigneur Jésus-Christ 	Ro.13:14
+Fortifiez-vous dans le Seigneur et par sa force toute puissante.	Ép.6:10
+Revętons les armes de la lumičre.	Ro.13:12
+Reviens ŕ moi, car je t'ai racheté.	És.44:22
+Je suis l'ami de tous ceux qui te craignent	Ps.119:63
+Il n'y a aucune différence, en effet, entre le Juif et le Grec, puisqu'ils ont tous un męme Seigneur	Ro.10:12
+Bien qu'Il fűt fils, l'obéissance par les choses qu'il a souffertes	Hé.5:8
+L'attente des justes n'est que joie, mais l'espérance des méchants périra. 	Pr.10:28
+Maintenez-vous dans l'amour de Dieu, en attendant la miséricorde de notre Seigneur Jésus-Christ	Jude.21
+Lui qui a porté lui-męme nos péchés en son corps sur le bois 	1Pi.2:24
+Il agit de tout son cśur, et il réussit dans tout ce qu'il entreprit	2Ch.31:21
+Il est le médiateur d'une nouvelle alliance	Hé.9:15
+C'est lui qui rachčtera Israël de toutes ses iniquités.	Ps.130:8
+Car il délivrera le pauvre qui crie, et le malheureux qui n'a point d'aide.	Ps.72:12
+Il a satisfait l'âme altérée, Il a comblé de biens l'âme affamée.	Ps.107:9
+Il n'a pas honte de les appeler frčres.	Hé.2:11
+Il me fait reposer dans de verts pâturages, Il me dirige prčs des eaux paisibles.	Ps.23:2
+Dans leur bouche il ne s'est point trouvé de mensonge, car ils sont irrépréhensibles.	Ap.14:5
+Ils périront, mais tu subsisteras	Ps.102:27
+Heureux le peuple qui connaît le son de la trompette; Il marche ŕ la clarté de ta face	Ps.89:16
+Ils ont lavé leurs robes, et ils les ont blanchies dans le sang de l'agneau.	Ap.7:14 
+Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ 	Ro.5:1
+C'est dans la tranquillité et le repos que sera votre salut	És.30:15
+Pardonne-moi ceux que j'ignore. 	Ps.19:3
+Nous sommes pressés de toute maničre, mais non réduits ŕ l'extrémité 	2Co.4:8
+Nous attestons que le Pčre a envoyé le Fils comme Sauveur du monde. 	1Jn.4:14
+La révélation de tes paroles éclaire, elle donne de l'intelligence aux simples. 	Ps.119:130
+Les yeux du Seigneur sont sur les justes	1Pi.3:12
+Christ, notre Pâque été immolé	1Co.5:7
+Je rassasierai de pain ses indigents	Ps.132:15
+Souviens-toi de moi selon ta miséricorde, ŕ cause de ta bonté, ô Éternel!	Ps.25:7
+Celui qui vaincra héritera ces choses; je serai son Dieu, et il sera mon fils.	Ap.21:7
+J'ai combattu le bon combat	2Ti.4:7
+Je suis bien humilié: Éternel, rends-moi la vie selon ta parole!	Ps.119:117
+Le Seigneur connaît ceux qui lui appartiennent	2Ti.2:19
+Prosternez-vous devant l'Éternel avec des ornements sacrés. 	Ps.96:9
+Soumettez-vous donc ŕ Dieu; résistez au diable, et il fuira loin de vous. 	Ja.4:7
+La sagesse d'en haut est… pleine de miséricorde et de bons fruits	Ja.3:17
+Il y a d'abondantes joies devant ta face, des délices éternelles ŕ ta droite. 	Ps.16:11
+Mettez dans votre cśur et dans votre âme ces paroles que je vous dis.	De.11:18
+Notre secours est dans le nom de l'Éternel, qui a fait les cieux et la terre. 	Ps.124:8
+Souviens-toi favorablement de moi, ô mon Dieu!	Né.13:31
+Écoute la voix de l'Éternel dans ce que je te dis	Jé.38:20
+Celui qui agit selon la vérité vient de ŕ la lumičre	Jn.3:21
+Envoie ta lumičre et ta fidélité! 	Ps.43:3
+Recommande ton sort ŕ l'Éternel, Mets en lui ta confiance, et il agira. 	Ps.37:5
+Espčre en l'Éternel, et il te délivrera.	Pr.20:22
+Que tes bien-aimés jouissent du bonheur!	2Ch.6:41
+Mais celui qui persévérera jusqu'ŕ la fin sera sauvé	Mt.24:13
+Je dis ŕ l'Éternel: mon refuge et ma forteresse, mon Dieu en qui je me confie! 	Ps.91:2
+Approchez-vous de Dieu, et il s'approchera de vous. 	Ja.4:8
+Je reviendrai, et je vous prendrai avec moi	Jn.14:3
+Mon Dieu, pręte l'oreille et écoute!	Da.9:18
+Soyez réconciliés avec Dieu!	2Co.5:20
+Je vous recevrai comme un parfum d'une agréable odeur	Éz.20:41
+Celui qui vient ŕ moi n'aura jamais faim	Jn.6:35
+L'avčnement du Seigneur est proche.	Ja.5:8
+Les eaux jailliront dans le désert	És.35:6
+Glorifiez donc Dieu dans votre corps et dans votre esprit	1Co.6:20
+Vos péchés vous sont pardonnés ŕ cause de son nom. 	1Jn.2:12
+Ŕ cause de ton nom tu me conduiras, tu me dirigeras. 	Ps.31:4
+La joie de l'Éternel sera votre force.	Né.8:10
+Soyez dans la joie, perfectionnez-vous, consolez-vous, ayez un męme sentiment, vivez en paix	2Co.13:11
+Ne sachez-vous pas que vous ętes le temple de Dieu?	1Co.3:16
+Celui qui a l'esprit calme est un homme intelligent.	Pr.17:27
+Lui par les meurtrissures duquel vous avez été guéris. 	1Pi.2:24
+Placez-vous sur les chemins, regardez, et demandez quel sont les anciens sentiers	Jé.6:16
+Tout ce qui est né de Dieu triomphe du monde	1Jn.5:4
+Que le Seigneur de la paix vous donne lui-męme la paix en tout temps, de toute maničre	2Th.3:16
+Saint, saint, saint est le Seigneur Dieu, le Tout Puisant, qui était, qui est, et qui vient! 	Ap.4:8
+Saint, saint, saint est l'Éternel des armées!	És.6:3
+Voici, ton roi vient ŕ toi, plein de douceur, et monté sur un âne, sur un ânon, le petit d'une ânesse. 	Mt.21:5
+Ce Jésus,… reviendras de la męme façon	Ac.1:11
+Mais lui,… peut sauver parfaitement…	Hé.7:24-25
+Ma puissance s'accomplit dans la faiblesse	2Co.12:9
+Que votre parole soit toujours accompagnée de grâce	Col.4:6
+Mais la parole du Seigneur demeure éternellement.	1Pi.1:25
+Ta parole est une lampe ŕ mes pieds, et une lumičre sur mon sentier.	Ps.119:105
+Dieu résiste aux l'orgueilleux, Mais il fait grâce aux humbles. 	Ja.4:6
+Humiliez-vous devant le Seigneur, et il vous élčvera. 	Ja.4:10
+Voyez quel amour le Pčre nous a témoigné	1Jn.3:1
+En achevant notre sanctification dans la crainte de Dieu	2Co.7:1
+Mais celui qui s'attache au Seigneur est avec lui un seul esprit. 	1Co.6:17
+Maintenez-vous dans l'amour de Dieu	Jude.21
+Dieu nous a sauvés, et nous a adressé une sainte vocation	2Ti.1:9
+Notre capacité vient de Dieu	2Co.3:5
+Recherchez la paix avec tous, et la sanctification, sans laquelle personne ne verra le Seigneur	Hé.12:14
+Demeurez fermes dans un męme esprit	Ph.1:27
+Il gardera les pas de ses bien-aimés.	1S.2:9
+Ils étaient étrangers et voyageurs sur la terre	Hé.11:13
+La crainte de l'Éternel est une source de vie 	Pr.14:27
+La crainte du Seigneur, c'est  la sagesse	Job 28:28
+Mon fils, retiens mes paroles, et garde avec toi mes préceptes.	Pr.7:1
+L'amitié de l'Éternel est pour ceux qui le craignent	Ps.25:14
+Courez de maničre ŕ remporter	1Co.9:24
+Que votre lumičre luise ainsi devant les hommes	Mt.5:16
+Comme Christ est ressuscité des morts par la gloire du Pčre, de męme nous aussi nous marchions en nouveauté de vie.	Ro.6:4
+De męme aussi l'Esprit nous aide dans notre faiblesse 	Ro.8:26
+Je te couvre de l'ombre de ma main	És.51:16
+Craignez seulement le l'Éternel et servez-le fidčlement	1S.12:24
+Mais vous craindrez l'Éternel votre Dieu	2 R.17:39
+Celui qui est en vous est plus grand que celui qui est dans le monde. 	1Jn.4:4
+Il ne brisera point le roseau cassé	Mt.12:20
+Tu seras comme un jardin arrosé	És.58:11
+Tu as été guéri; ne pčche plus	Jn.5:14
+Toi qui sondes les cśurs et les reins, Dieu juste!	Ps.7:10
+Car tu es bon, Seigneur, tu pardonnes, Tu es plein d'amour pour tous ceux qui t'invoquent. 	Ps.86:5
+Les ténčbres se dissipent et la lumičre véritable paraît déjŕ. 	1Jn.2:8
+Le salut vient de l'Éternel. 	Jon.2:10
+Ils retournčrent… les exhortant ŕ persévérer dans la foi	Ac.14:22
+Les malheureux le voient et se réjouissent	Ps.69:33
+Car ils ne pourront plus mourir,… étant fils de la résurrection. 	Lu.20:36
+Notre consolation abonde par Christ	2Co.1:5
+Je me confie dans la bonté de Dieu, éternellement et ŕ jamais.	Ps.52:10
+C'est en confessant de la bouche qu'on parvient au salut	Ro.10:10
+Accomplis envers ton serviteur ta promesse	Ps.119:38
+Le temple de Dieu est saint, et c'est ce que vous ętes. 	1Co.3:17
+La religion pure consiste .. ŕ se préserver des souillures du monde. 	Ja.1:27
+Car le royaume de Dieu ne consiste pas en paroles, mais en puissance.	1Co.4:20
+Qu'il fasse ce qui lui semblera bon!	1S.3:18
+Car il est mort, et c'est pour le péché qu'il est mort une fois pour toutes	Ro.6:10
+Que voulez-vous que je fasse pour vous?	Mc.10:36
+Nous ne cessons de prier Dieu… que vous soyez remplis de la connaissance de sa volonté	Col.1:9
+Afin que notre joie soit parfaite. 	1Jn.1:4
+Que tu prospčres ŕ tous égards et sois en bonne santé	3Jn.1:2
+E cherche ta face, ô Éternel!	Ps.27:8
+Je regarderai vers l'Eternel,…mon Dieu m'exaucera.	Mi.7:7
+Je vous ai donné un exemple, afin que vous fassiez comme je vous ai fait.	Jn.13:15
+Je suis le cep. Vous ętes les sarments.	Jn.15:5
+Et moi, je crie ŕ Dieu, et l'Éternel me sauvera. 	Ps.55:17
+Je veux faire ta volonté, mon Dieu! 	Ps.40:9
+Je suis rempli de force, de l'esprit de l'Éternel 	Mi.3:8
+J'aime la piété et non les sacrifices	Os.6:6
+Je n'ai point honte de l'Évangile	Ro.1:16
+Je suis au milieu de vous comme celui qui sert.	Lu.22:27
+Je ferai passer devant toi toute ma bonté	Ex.33:19
+Je serai avec toi pour te sauver et te délivrer	Jé.15:20
+Je ne me souviendrai plus de tes péchés.	És.43:25
+Je suis la lumičre du monde	Jn.9:5
+Je suis ton bouclier, et ta récompense sera grande	Ge.15:1
+J'ai vu la souffrance de mon peuple…	Ex.3:7
+Je te ferai connaître ce que tu dois faire	1S.16:3
+Moi, le Dieu d'Israël, je ne les abandonnerai pas	És.41:17
+Moi, l'Éternel, j'éprouve le cśur	Jé.17:10
+Or sans la foi il est impossible de lui ętre (ŕ Dieu) agréable	Heb.11:6
+Toi, demeure dans les choses que tu as apprises, et reconnues certaines	2Tim.3:14
+Rendez grâce au pčre…qui nous a délivrés de la puissance des ténčbres 	Col.1:13
+C'est par grâce que vous ętes sauvés	Eph.2:5
+Heureux celui qui veille, et qui garde ses vętements	Rv.16:15
+Heureux celui qui garde les paroles de la prophétie de ce livre! 	Rv.22:7
+Car Dieu ne nous a pas destinés ŕ la colčre, mais ŕ l'acquisition du salut par notre Seigneur Jésus Christ	1Thes.5:9
+Dieu a envoyé dans nos cśurs l'Esprit de son Fils	Gal.4:6
+Demeurons fermes dans la foi que nous professons.	Heb.4:14
+Sois fidčle jusqu'ŕ la mort, et je te donnerai la couronne de vie.	Rv.2:10
+Soyez reconnaissants.	Col.3:15
+Persévérez dans la pričre, veillez-y avec actions de grâces.	Col.4:2
+Et, sans contredit, le mystčre de la piété est grand: celui qui a été manifesté en chair…	1Tim.3:16
+Tes śuvres sont grandes et admirables, Seigneur Dieu tout puissant! 	Rv.15:3
+C'est, en effet, une grande source de gain que la piété avec le contentement	1Tim.6:6
+La foi est une ferme assurance des choses qu'on espčre, une démonstration de celles qu'on ne voit pas. 	Heb.11:1
+Car, en Jésus Christ, ni la circoncision ni l'incirconcision n'a de valeur, mais la foi qui est agissante par la charité.	Gal.5:6
+Le Seigneur est fidčle, il vous affermira et vous préservera du malin. 	2Thes.3:3
+Je mettrai mes lois dans leur esprit, Je les écrirai dans leur cśur	Heb.8:10
+Veille sur toi-męme et sur ton enseignement; persévčre dans ces choses	1Tim.4:16
+Donnant un enseignement pur, digne	Ti.2:7
+Car vous ętes tous fils de Dieu par la foi en Jésus Christ	Gal.3:26
+Faites tout au nom du Seigneur Jésus	Col.3:17
+Examinez toutes choses; retenez ce qui est bon	1Thes.5:21
+Je puis tout par celui qui me fortifie. 	Phil.4:13
+Je les (toutes choses) regarde comme de la boue, afin de gagner Christ	Phil.3:8
+Je regarde toutes choses comme de la boue, afin de gagner Christ, 	Phil.3:8
+Soyez toujours joyeux.	1Thes.5:16
+Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché. 	Heb.12:4
+Le Seigneur est proche. 	Phil.4:5
+Et que la paix de Christ… rčgne dans vos cśurs	Col.3:15
+Approchons-nous donc avec assurance du trône de la grâce 	Heb.4:16
+Il dit cela, quoique ses śuvres eussent été achevées depuis la création du monde. 	Heb.4:3
+Ne nous lassons pas de faire le bien	Gal.6:9
+Retiens ce que tu as, afin que personne ne prenne ta couronne.	Rv.3:11
+Car Christ est ma vie, et la mort m'est un gain.	Phil.1:21
+Et que celui qui a soif vienne; que celui qui veut, prenne de l'eau de la vie, gratuitement.	Rv.22:17
+Conduisez-vous d'une maničre digne de l'Évangile de Christ	Phil.1:27
+Rendez grâces en toutes choses	1Thes.5:18
+Jésus, nous le voyons couronné de gloire et d'honneur ŕ cause de la mort qu'il a soufferte…	Heb.2:9
+Vous avez été scellés du Saint-Esprit qui avait été promis	Eph.1:13
+Vous avez tout pleinement en lui	Col.2:10
+Ce n'est plus moi qui vis, c'est Christ qui vit en moi; 	Gal.2:20
+Ce que Dieu veut, c'est votre sanctification	1Thes.4:3
+Vous ętes tous des enfants de la lumičre et des enfants du jour. 	1Thes.5:5
+Ce n'est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d'amour et de sagesse.	2Tim.1:7
+Car nous n'avons point ici-bas de cité permanente, mais nous cherchons celle qui est ŕ venir.	Heb.13:14
+Car Dieu ne nous a pas appelés ŕ l'impureté, mais ŕ la sanctification.	1Thes.4:7
+Car la parole de Dieu est vivante et efficace	Heb.4:12
+Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle.	Jn.3:16
+Car je sais en qui j'ai cru…	2Tim.1:12
+Car la grâce de Dieu, source de salut pour tous les hommes, a été manifestée. 	Ti.2:11
+Jésus Christ est le męme hier, aujourd'hui, et éternellement. 	Heb.13:8
+Si donc nous avons la nourriture et le vętement, cela nous suffira. 	1Tim.6:8
+Soyez remplis de l'Esprit; 	Eph.5:18
+Quelle est envers nous qui croyons l'infinie grandeur de sa puissance	Eph.1:19
+Qu'il illumine les yeux de votre coeur, pour que vous sachiez…quelle est la richesse de la gloire de son héritage qu'il réserve aux saints	Eph.1:18
+Si vous entendez sa voix, n'endurcissez pas vos coeurs	Heb.3:7-8
+Moi, je reprends et je châtie tous ceux que j'aime. Aie donc du zčle, et repens-toi.	Rv.3:19
+Rendez-vous, par la charité, serviteurs les uns des autres.	Gal.5:13
+Faites en tout temps par l'Esprit toutes sortes de pričres et de supplications.	Eph.6:18
+En lui nous avons la rédemption par son sang, la rémission des péchés	Eph.1:7
+Nous sommes devenus participants de Christ	Heb.3:14
+Exhortez-vous les uns les autres chaque jour.	Heb.3:13
+N'abandonnons pas notre assemblée	Heb.10:25
+Ne dormons donc point comme les autres, mais veillons et soyons sobres.	1Thes.5:6
+Ne vous inquiétez de rien	Phil.4:6
+Ne néglige pas le don qui est en toi	1Tim.4:14
+Priez sans cesse.	1Thes.5:17
+Affectionnez-vous aux choses d'en haut, et non ŕ celles qui sont sur la terre. 	Col.3:2
+Il nous a sauvés, non ŕ cause des oeuvres…mais selon sa miséricorde	Ti.3:5
+Ils l'ont vaincu ŕ cause du sang de l'agneau et ŕ cause de la parole de leur témoignage	Rv.12:11
+Laissant les éléments de la parole de Christ, tendons ŕ ce qui est parfait…	Heb.6:1
+Il s'est donne lui-męme pour nos péchés…	Gal.1:4
+Faites connaître vos besoins ŕ Dieu	Phil.4:6
+Mais le fruit de l'Esprit, c'est l'amour, la joie, la paix,…	Gal.5:22
+Ŕ celui qui vaincra, je donnerai ŕ manger de l'arbre de vie, qui est dans le paradis de Dieu. 	Rv.2:7
+Celui qui vaincra, je le ferai asseoir avec moi sur mon trône	Rv.3:21
+Combats le bon combat de la foi, saisis la vie éternelle	1Tim.6:12
+Devenez donc les imitateurs de Dieu, comme des enfants bien-aimés	Eph.5:1
+Comprenez quelle est la volonté du Seigneur.	Eph.5:17
+Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs	Heb.12:3
+Marchez selon l'Esprit	Gal.5:16
+Marchez comme des enfants de lumičre!	Eph.5:8
+Le juste vivra par la foi. 	Rom.1:17
+Recherche la justice, la piété, la foi, la charité, la patience, la douceur. 	1Tim.6:11
+Pręche la parole, insiste en toute occasion, favorable ou non…	2Tim.4:2
+Réjouissez-vous toujours dans le Seigneur; je le répčte, réjouissez-vous. 	Phil.4:4
+Courons avec persévérance dans la carričre qui nous est ouverte	Heb.12:1
+Que le juste pratique encore la justice	Rv.22:11
+Je viens bientôt. 	Rv.3:11
+Que votre parole soit toujours accompagnée de grâce, assaisonnée de sel	Col.4:6
+Que la parole de Christ habite parmi vous abondamment	Col.3:16
+Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude. 	Gal.5:1
+Ceux qui sont ŕ Jésus Christ ont crucifié la chair…	Gal.5:24
+Vous avez besoin de persévérance, afin qu'aprčs avoir accompli la volonté de Dieu, vous obteniez ce qui vous est promis.	Heb.10:36
+Fortifiez donc vos mains languissantes et vos genoux affaiblis	Heb.12:12
+Toi donc, mon enfant, fortifie-toi dans la grâce qui est en Jésus Christ. 	2Tim.2:1
+Fortifiez-vous dans le Seigneur, et par sa force toute-puissante. 	Eph.6:10
+Nous mettons notre espérance dans le Dieu vivant, qui est le Sauveur de tous les hommes, principalement des croyants.	1Tim.4:10
+Garde le bon dépôt, par le Saint-Esprit qui habite en nous.	2Tim.1:14
+Christ en vous, l'espérance de la gloire	Col.1:27
+Christ, qui nous a aimés, et qui s'est livre lui-męme…	Eph.5:2
+Jésus Christ est venu dans le monde pour sauver les pécheurs	1Tim.1:15
+Je suis l'alpha et l'oméga, dit le Seigneur Dieu, celui qui est, qui était, et qui vient, le Tout Puissant.	Rv.1:8
+J'ai mis devant toi une porte ouverte, que personne ne peut fermer.	Rv.3:8

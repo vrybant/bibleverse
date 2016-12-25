@@ -1,0 +1,44 @@
+﻿****************************************************************************
+*                                                                          *
+*             Bible Verse Desktop - International Support File             *
+*                                                                          *
+****************************************************************************
+
+[interface]
+
+About        = 关于
+Copy         = 复制
+Help         = 帮助
+Donate       = 捐赠 
+List         = 目录
+Font         = 字体
+Transparent  = 透明的
+Random       = 任意的
+Localization = 定位
+Shadow       = 影子
+Background   = 背景
+Auto         = 自动
+Color        = 颜色
+Timer        = 定时器
+Wallpaper    = 壁纸
+Options      = 选择
+Exit         = 退出
+
+OK           = OK
+Apply        = 申请
+Cancel       = 取消
+
+Off          = 关
+Sec          = 秒
+Min          = 分钟
+
+Version      = 版本
+Info         = 情报
+
+HintClick    = Left click on the quote to bring up the next verse.
+HintMenu     = Right click to bring up the menu.
+HintList     = Switch between quote lists by clicking on the middle button of your mouse.
+HintSize     = Holding down the CTRl key, scroll with the mouse wheel to change the font size.
+HintFont     = Holding down the SHIFT key, scroll with the mouse wheel to choose the font.
+HintOpacity  = Use the mouse wheel to change the transparency.
+

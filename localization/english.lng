@@ -1,0 +1,45 @@
+﻿****************************************************************************
+*                                                                          *
+*             Bible Verse Desktop - International Support File             *
+*                                                                          *
+****************************************************************************
+
+[interface]
+
+About        = About
+Copy         = Copy
+Help         = Help
+Donate       = Donate
+List         = List
+Font         = Font
+Transparent  = Transparent
+Random       = Random
+Localization = Localization
+Shadow       = Shadow
+Background   = Background
+Auto         = Auto
+Color        = Color
+Timer        = Timer
+Wallpaper    = Set Wallpaper
+Options      = Options
+Exit         = Exit
+
+OK           = OK
+Apply        = Apply
+Cancel       = Cancel
+
+Off          = off
+Sec          = sec
+Min          = min
+
+Version      = Version
+Info         = List information
+
+HintClick    = Left click on the quote to bring up the next verse.
+HintMenu     = Right click to bring up the menu.
+HintList     = Switch between quote lists by clicking on the middle button of your mouse.
+HintSize     = Holding down the CTRl key, scroll with the mouse wheel to change the font size.
+HintFont     = Holding down the SHIFT key, scroll with the mouse wheel to choose the font.
+HintOpacity  = Use the mouse wheel to change the transparency.
+
+
