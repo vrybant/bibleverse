@@ -10,7 +10,6 @@ uses
 // Paths
 
 function ApplicationPath: string;
-function AppDataPath: string; // Roaming
 function ConfigFileName: string;
 
 // Text functions
@@ -84,12 +83,12 @@ function ApplicationPath: string;
 {$ifdef macos} var n : integer; {$endif}
 begin
   Result := ExtractFilePath(ParamStr(0));
+  if Result.Contains('Debug') then Result := '..\..\';
+
   {$ifdef macos}
-  (*
-  n := Pos('MacOS',Result);
-  if n > 0 then Result := Copy(Result,1,n-1) + 'Resources' + Slash;
-  *)
-  Result := AppDataPath + Slash;
+    // n := Pos('MacOS',Result);
+    // if n > 0 then Result := Copy(Result,1,n-1) + 'Resources' + Slash;
+    Result := AppDataPath + Slash;
   {$endif}
 end;
 
