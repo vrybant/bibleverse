@@ -24,6 +24,7 @@ object FormMain: TFormMain
     Size.PlatformDefault = False
     Stroke.Kind = None
     Stroke.Dash = Custom
+    Stroke.CustomDash = {0000000000000000}
   end
   object Shape: TRectangle
     Fill.Color = claBlack
@@ -36,6 +37,7 @@ object FormMain: TFormMain
     Size.PlatformDefault = False
     Stroke.Kind = None
     Stroke.Dash = Custom
+    Stroke.CustomDash = {0000000000000000}
     XRadius = 20.000000000000000000
     YRadius = 20.000000000000000000
     OnMouseDown = ShapeMouseDown
@@ -48,7 +50,7 @@ object FormMain: TFormMain
     StyledSettings = []
     Position.X = 120.000000000000000000
     Position.Y = 80.000000000000000000
-    Size.Width = 231.000000000000000000
+    Size.Width = 219.000000000000000000
     Size.Height = 64.000000000000000000
     Size.PlatformDefault = False
     TextSettings.Font.Family = '@Arial Unicode MS'
@@ -70,7 +72,7 @@ object FormMain: TFormMain
     StyledSettings = []
     Position.X = 16.000000000000000000
     Position.Y = 16.000000000000000000
-    Size.Width = 82.000000000000000000
+    Size.Width = 77.000000000000000000
     Size.Height = 24.000000000000000000
     Size.PlatformDefault = False
     TextSettings.Font.Size = 18.000000000000000000
