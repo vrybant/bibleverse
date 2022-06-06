@@ -1,3 +1,13 @@
 *.dcu
 *.exe
+*.res
+*.rsm
+*.dsk
+*.~dsk
+*.identcache
+*.local
+*.tvsconfig
 Win32/*
+Win64/*
+__history/*
+
