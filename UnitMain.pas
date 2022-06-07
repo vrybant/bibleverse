@@ -5,9 +5,10 @@
 interface
 
 uses
-  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
-  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls, FMX.ActnList,
-  FMX.Objects, FMX.Layouts, FMX.Memo, FMX.ListBox, FMX.Effects, FMX.Menus, FMX.MagnifierGlass,
+  System.SysUtils, System.Types, System.UITypes, System.Classes,
+  System.Variants, FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms,
+  FMX.Dialogs, FMX.StdCtrls, FMX.ActnList, FMX.Objects, FMX.Layouts,
+  FMX.ListBox, FMX.Effects, FMX.Menus, FMX.MagnifierGlass, FMX.Memo,
   IniFiles, UnitHint, System.Actions, FMX.Controls.Presentation;
 
 type
@@ -216,7 +217,7 @@ begin
   FontDefault := FMX.Graphics.TFont.Create;
   FontList  := TStringList.Create;
 
-  Rectangle.Align := alClient;
+  Rectangle.Align := TAlignLayout.Client;
 
   Shape.Position.x := 0;
   Shape.Position.y := 0;
@@ -484,16 +485,18 @@ end;
 //-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.mmClick(number: integer);
+{$ifdef menu}
 var
   FileName : string;
   i: integer;
+{$endif}
 begin
   {$ifdef menu}
   for i := 0 to mmList.ItemsCount-1 do mmList.Items[i].IsChecked := False;
   mmList.Items[number].IsChecked := not mmList.Items[number].IsChecked;
   FileName := ApplicationPath + 'lists' + slash + mmList.Items[number].Text + '.txt' ;
   ChangeList(FileName);
-// ShowHint(HintList);
+//ShowHint(HintList);
   {$endif}
 end;
 
@@ -594,12 +597,13 @@ begin
 //{$ifndef menu} Height := Round(Shape.Height); {$endif}
 
   //-------  oкно не должно выходить за пределы экрана
-
+  (*
   if (Left + Shape.Width ) > Screen.Size.Width  then Left := Screen.Size.Width  - Round(Shape.Width );
   if (Top  + Shape.Height) > Screen.Size.Height then Top  := Screen.Size.Height - Round(Shape.Height);
 
   if Left < 0 then Left := 0;
   if Top  < 0 then Top  := 0;
+  *)
 
   Shape.XRadius := LabelMain.Font.Size * k_Radius;
   Shape.YRadius := Shape.XRadius;

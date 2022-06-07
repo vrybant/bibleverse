@@ -3,7 +3,8 @@
 interface
 
 uses
-  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants;
+  System.SysUtils, System.UITypes, System.Classes, System.Variants,
+  System.Types, FMX.Types;
 
 type
   TVerseList = class(TStringList)
@@ -26,7 +27,6 @@ type
     function GetVerse : String;
     function GetSign : String;
     function GetQuote : String;
-    destructor Destroy; override;
   private
     PrevPosition  : integer;
     procedure CleanTags;
@@ -41,7 +41,7 @@ implementation
 
 uses UnitLib, UnitLang;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 constructor TVerseList.Create;
 begin
@@ -49,18 +49,11 @@ begin
   PrevPosition := 0;
   Randomly := True;
 
+  Log.d(' ~~~ TVerseList.Create ~~~');
+
   CleanTags;
   inherited Create;
 end;
-
-//-----------------------------------------------------------------------------------------
-
-destructor TVerseList.Destroy;
-begin
-  inherited Destroy;
-end;
-
-//-----------------------------------------------------------------------------------------
 
 procedure TVerseList.CleanTags;
 begin
@@ -71,7 +64,7 @@ begin
   Alignment := taLeftJustify;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 function AlignmentFromLang(lang: String): TAlignment;
 begin
@@ -80,7 +73,7 @@ begin
   if lang = 'hebrew' then Result := taRightJustify;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.Tag(s: String);
 var
@@ -99,7 +92,7 @@ begin
     end;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.AddInfo(s: String);
 begin
@@ -107,7 +100,7 @@ begin
   Info := Info + s + CRLF;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.LoadFile(FileName : String);
 var
@@ -115,6 +108,9 @@ var
   s : String;
   i : integer;
 begin
+  Log.d(' ~~~ LoadFile ~~~');
+  Log.d(FileName);
+
   if not FileExists(FileName) then Exit;
 
   Utf8List := TStringList.Create;
@@ -138,14 +134,14 @@ begin
 // if Count = 0 then ...
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.ResetPos;
 begin
   Position := 0;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.Next;
 begin
@@ -158,7 +154,7 @@ begin
   if Position > (Count-1) then Position := 0;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 procedure TVerseList.Undo;
 begin
@@ -166,7 +162,7 @@ begin
     if Position > 0 then Position := Position - 1;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 function TVerseList.GetVerse : String;
 begin
@@ -177,7 +173,7 @@ begin
 //if Length(w) < 5 then w := 'error: short string';
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 function TVerseList.GetSign : String;
 begin
@@ -187,14 +183,14 @@ begin
   if Abbr <> '' then Result := Result + '(' + Utf8ToString(Abbr) + ')';
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 function TVerseList.GetQuote : String;
 begin
   Result := GetVerse + ' ' + GetSign;
 end;
 
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 
 initialization
   List := TVerseList.Create;

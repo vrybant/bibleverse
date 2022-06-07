@@ -68,8 +68,6 @@ const
   fsItalic    = TFontStyle.fsItalic;
   fsUnderline = TFontStyle.fsUnderline;
 
-  alClient = TAlignLayout.alClient;
-
 implementation
 
 var
