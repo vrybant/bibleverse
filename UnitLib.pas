@@ -77,6 +77,13 @@ var
 //                                         Paths
 //-----------------------------------------------------------------------------------------
 
+function AppDataPath: string; // Roaming
+begin
+{$ifdef mswindows} Result := TPath.GetHomePath    + Slash + ApplicationName; {$endif}
+{$ifdef macos}     Result := TPath.GetLibraryPath + Slash + ApplicationName; {$endif}
+  if not DirectoryExists(Result) then ForceDirectories(Result);
+end;
+
 function ApplicationPath: string;
 {$ifdef macos} var n : integer; {$endif}
 begin
@@ -91,13 +98,6 @@ begin
 end;
 
 //-----------------------------------------------------------------------------------------
-
-function AppDataPath: string; // Roaming
-begin
-{$ifdef mswindows} Result := TPath.GetHomePath    + Slash + ApplicationName; {$endif}
-{$ifdef macos}     Result := TPath.GetLibraryPath + Slash + ApplicationName; {$endif}
-if not DirectoryExists(Result) then ForceDirectories(Result);
-end;
 
 //-----------------------------------------------------------------------------------------
 
