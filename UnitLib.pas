@@ -3,8 +3,8 @@
 interface
 
 uses
-  {$IFDEF MSWINDOWS} Windows, Vcl.Graphics, Winapi.ShellAPI, FMX.Platform.Win, ShFolder, {$ENDIF MSWINDOWS}
-  FMX.Forms, FMX.Types, FMX.StdCtrls, FMX.Graphics,
+  Windows, VCL.Graphics, Winapi.ShellAPI, ShFolder,
+  FMX.Forms, FMX.Types, FMX.StdCtrls, FMX.Graphics, FMX.Platform.Win,
   System.SysUtils, System.Classes, System.UITypes, System.IOUtils;
 
 // Paths
@@ -25,18 +25,14 @@ function GetDefaultList: string;
 
 // Windows system functions
 
-{$IFDEF MSWINDOWS}
 function KeyShiftDown: boolean;
 procedure HideAppOnTaskbar(Form: TForm);
 function GetDeskWallpaper: WideString;
 procedure OpenDesktopControl;
-{$ENDIF MSWINDOWS}
 
 // Fonts
 
-{$IFDEF MSWINDOWS}
 procedure GetFonts(List: TStringList);
-{$ENDIF MSWINDOWS}
 
 // Firemonkey functions
 
@@ -45,16 +41,14 @@ procedure WordWrap(L: TLabel; Max: Single);
 
 // Mutex
 
-{$IFDEF MSWINDOWS}
 function CreateMutex(name: PWideChar): boolean;
 procedure CloseMutex;
-{$ENDIF MSWINDOWS}
 
 const
   ApplicationName = 'Bible Verse Desktop';
 
 const
-  Slash = {$ifdef mswindows} '\'; {$else} '/'; {$endif}
+  Slash = '\';
 
 const
   CRLF = #10; // #13 + #10
@@ -79,31 +73,19 @@ var
 
 function AppDataPath: string; // Roaming
 begin
-{$ifdef mswindows} Result := TPath.GetHomePath    + Slash + ApplicationName; {$endif}
-{$ifdef macos}     Result := TPath.GetLibraryPath + Slash + ApplicationName; {$endif}
+  Result := TPath.GetHomePath + Slash + ApplicationName;
   if not DirectoryExists(Result) then ForceDirectories(Result);
 end;
 
 function ApplicationPath: string;
-{$ifdef macos} var n : integer; {$endif}
 begin
   Result := ExtractFilePath(ParamStr(0));
   if Result.Contains('Debug') then Result := '..\..\';
-
-  {$ifdef macos}
-    // n := Pos('MacOS',Result);
-    // if n > 0 then Result := Copy(Result,1,n-1) + 'Resources' + Slash;
-    Result := AppDataPath + Slash;
-  {$endif}
 end;
 
 function ConfigFileName: string;
 begin
-{$ifdef mswindows}
   Result := AppDataPath + Slash + 'config.cfg';
-{$else}
-  Result := TPath.GetHomePath + Slash + '.config' + Slash + ApplicationName + '.cfg';
-{$endif}
 end;
 
 //-----------------------------------------------------------------------------
@@ -142,12 +124,10 @@ end;
 function GetDefaultLanguage: string;
 begin
   Result := 'english';
-{$ifdef mswindows}
   case Lo(GetSystemDefaultLangID) of
     LANG_RUSSIAN            : Result := 'russian';
     LANG_CHINESE            : Result := 'chinese-simplified';
   end;
-{$endif}
 end;
 
 function GetDefaultList: string;
@@ -155,7 +135,6 @@ begin
    Result := 'english-kjv';
    Result := 'russian'; // ****************************************************
 
-{$ifdef mswindows}
   case Lo(GetSystemDefaultLangID) of
     LANG_RUSSIAN            : Result := 'russian';
     LANG_CHINESE            : Result := 'chinese-simplified';
@@ -164,7 +143,6 @@ begin
     LANG_UKRAINIAN          : Result := 'ukrainian';
     LANG_THAI               : Result := 'thai';
   end;
-{$endif}
 
   Result := ApplicationPath + 'lists' + Slash + Result + '.txt';
 end;
@@ -173,7 +151,6 @@ end;
 //                      Windows system functions
 //-----------------------------------------------------------------------------
 
-{$IFDEF MSWINDOWS}
 function KeyShiftDown: boolean;
 begin
   Result := (GetKeyState(VK_SHIFT) < 0);
@@ -204,7 +181,6 @@ procedure OpenDesktopControl;
 begin
   ShellExecute(0,'open','rundll32.exe','shell32.dll, Control_RunDLL desk.cpl desk,@Desktop','',SW_SHOW);
 end;
-{$ENDIF MSWINDOWS}
 
 //-----------------------------------------------------------------------------
 //                                  Firemonkey functions
@@ -212,9 +188,7 @@ end;
 
 procedure OpenUrl(s: String);
 begin
-{$ifdef mswindows}
   ShellExecute(0,'open',PChar(s),'','',SW_SHOW)
-{$endif}
 end;
 
 //-----------------------------------------------------------------------------
@@ -239,7 +213,6 @@ begin
 
       if (L.Width > Max) and (k > 0) then
         begin
-          {$ifdef macos} Max := L.Width; {$endif}
           s := L.Text;
           s[k] := CRLF;
           L.Text := s;
@@ -252,7 +225,6 @@ end;
                                 {$region 'Fonts'}
 //-----------------------------------------------------------------------------
 
-{$IFDEF MSWINDOWS}
 function EnumFontsProc(var LogFont: TLogFont; var TextMetric: TTextMetric; FontType: Integer; Data: Pointer): Integer; stdcall;
 var
   S: TStrings;
@@ -280,14 +252,12 @@ begin
     ReleaseDC(0, DC);
   end;
 end;
-{$ENDIF MSWINDOWS}
 {$endregion}
 
 //-----------------------------------------------------------------------------
                              {$region 'Mutex'}
 //-----------------------------------------------------------------------------
 
-{$IFDEF MSWINDOWS}
 function GetWinInfo(h: HWND): string;
 var
   temp : PWideChar;
@@ -327,7 +297,6 @@ procedure CloseMutex;
 begin
   CloseHandle(Mutex);
 end;
-{$ENDIF MSWINDOWS}
 {$endregion}
 
 end.

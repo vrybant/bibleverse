@@ -78,8 +78,6 @@ end;
 
 procedure TFormHint.Show(var Hint: THint);
 begin
-  {$ifdef macos} Exit; {$endif}
-
   Text := Hint.Text;
   inherited Show;
 end;

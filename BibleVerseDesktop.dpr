@@ -13,9 +13,9 @@ uses
 {$R *.res}
 
 begin
-  {$ifdef mswindows} if not CreateMutex('BibleVerseMutexName') then Exit; {$endif}
+  if not CreateMutex('BibleVerseMutexName') then Exit;
 
-  {$ifdef mswindows} SetExceptionMask(exAllArithmeticExceptions); {$endif}
+  SetExceptionMask(exAllArithmeticExceptions);
   // отключаем ошибку Floating point division by zero
   // которая появляется в Windows 7 под Virtual Box
 
@@ -26,6 +26,6 @@ begin
   Application.CreateForm(TFormHint, FormHint);
   Application.Run;
 
-  {$ifdef mswindows} CloseMutex; {$endif}
+  CloseMutex;
 end.
 

@@ -120,10 +120,7 @@ implementation
 {$R *.fmx}
 
 uses
-  System.IOUtils,
-  {$ifdef mswindows} Vcl.Clipbrd,  {$endif}
-  // UFontDlg,
-  UnitLang, UnitLib, UnitList, UnitAbout;
+  System.IOUtils, VCL.Clipbrd, UnitLang, UnitLib, UnitList, UnitAbout;
 
 var
   XX : Single = 0;
@@ -142,17 +139,12 @@ const
 const
    PopupHeight = 250;
 
-{$ifdef mswindows} var FirstPaint : boolean = True; {$endif}
-{$ifdef macos} var macbag : integer = 0; {$endif}
-
-//   Position = Designed
-//   Visible = False
+var
+  FirstPaint : boolean = True;
 
 procedure TFormMain.FormCreate(Sender: TObject);
 begin
-  // Установка Transparency в True визуально приводит к ошибке из за конфликта с MainMenu
-
-  {$if defined(macos) or not defined(menu)} Transparency := True; {$endif}
+  Transparency := True;
 
   FontDefault := FMX.Graphics.TFont.Create;
   FontList  := TStringList.Create;
@@ -180,36 +172,27 @@ begin
 
   Translate;
 
-  {$ifdef macos}
-  LabelMain.Text := ' ';
-  LabelSign.Text := ' ';
-  Shape.Width := 0;
-  {$endif}
-
   Width  := Screen.Size.Width  div 2;
   Height := Screen.Size.Height div 2;
 end;
 
 procedure TFormMain.FormActivate(Sender: TObject);
 begin
- {$ifdef mswindows} HideAppOnTaskbar(Self); {$endif}
+  HideAppOnTaskbar(Self);
 end;
 
 procedure TFormMain.FormPaint(Sender: TObject; Canvas: TCanvas; const ARect: TRectF);
 begin
-  {$ifdef mswindows}
   if FirstPaint then
     begin
       Rebuild;
       CheckPos;
       FirstPaint := False;
     end;
-  {$endif}
 end;
 
 procedure TFormMain.Repaint;
 begin
-  {$ifdef macos} macbag := 0; {$endif}
   Rebuild;
   Self.Invalidate;
   Application.ProcessMessages;
@@ -315,7 +298,7 @@ begin
   if (Left <> oLeft) or (Top <> oTop) then SaveIniFile;;
   if (Left <> oLeft) or (Top <> oTop) then Exit;
 
-  if (Button = mbLeft) {$ifdef mswindows} and ([] = Shift) {$endif} and Semaphore then
+  if (Button = mbLeft) and ([] = Shift) and Semaphore then
     begin
       nTimer := 0;
       List.Next;
@@ -342,14 +325,10 @@ begin
 
   if (Button = mbRight) then
     begin
-      {$ifdef mswindows}
       nTimer := 0;
       if (Top + y + PopupHeight) < (Screen.Size.Height - 50) then
         PopupMenu.Popup(Left + x, Top + y) else PopupMenu.Popup(Left + x, Top + y - PopupHeight);
       HintMenu.Enable := False;
-      {$endif}
-
-      {$ifdef macos} Close; {$endif} //////////////////////////////////////////
     end;
 
   SaveIniFile;
@@ -365,7 +344,7 @@ begin
     begin
       Shape.Opacity := Shape.Opacity + WheelDelta/20000;
       if Shape.Opacity > MAX_OPACITY then Shape.Opacity := MAX_OPACITY;
-      {$ifdef mswindows} miTransparent.IsChecked := (Shape.Opacity = 0); {$endif}
+      miTransparent.IsChecked := (Shape.Opacity = 0);
     end;
 
   Repaint;
@@ -474,14 +453,12 @@ end;
 
 procedure TFormMain.SetMenuItems;
 begin
-{$ifdef mswindows}
   miTimerOff  .IsChecked := (maxTimer =  0 );
   miTimer10sec.IsChecked := (maxTimer =  3 ); /////////////////////////////////////////////////////////////////////////////////////
   miTimer30sec.IsChecked := (maxTimer = 30 );
   miTimer1min .IsChecked := (maxTimer =  1 * 60);
   miTimer30min.IsChecked := (maxTimer = 30 * 60);
   miTimer60min.IsChecked := (maxTimer = 60 * 60);
-{$endif}
   miTransparent.IsChecked := (Shape.Opacity = 0);
   miRandom.IsChecked := List.Randomly;
 end;
@@ -505,7 +482,7 @@ end;
 
 procedure TFormMain.PopupMenuPopup(Sender: TObject);
 begin
-  {$ifdef mswindows} miLang.Visible := KeyShiftDown; {$endif}
+  miLang.Visible := KeyShiftDown;
 end;
 
 //-----------------------------------------------------------------------------
@@ -520,10 +497,8 @@ end;
 
 procedure TFormMain.cmCopyExecute(Sender: TObject);
 begin
-  {$ifdef mswindows}
   Clipboard.Clear;
   Clipboard.AsText := List.GetQuote;
-  {$endif}
 end;
 
 procedure TFormMain.cmListExecute(Sender: TObject);
@@ -542,17 +517,8 @@ begin
   caption := (Sender as TMenuItem).Text;
 end;
 
-{$ifdef macos}
-procedure ChangeFontProcedure;
-begin
-  FormMain.Repaint;
-  FormMain.SaveIniFile;
-end;
-{$endif}
-
 procedure TFormMain.cmFontExecute(Sender: TObject);
 begin
-  {$ifdef mswindows}
 //  if ExecuteFontDialog(LabelMain) then
 //    begin
 //      SetFontIndex;
@@ -560,11 +526,6 @@ begin
 //      if HintSize.Enable then ShowHint(HintSize) else ShowHint(HintFont);
 //      SaveIniFile;
 //    end;
-  {$endif}
-
-  {$ifdef macos}
-/////////////////////  ExecuteFontDialog(LabelMain, ChangeFontProcedure);
-  {$endif}
 end;
 
 procedure TFormMain.cmTimerOffExecute  (Sender: TObject); begin ChangeTimer( 0)    end;
@@ -596,7 +557,7 @@ end;
 
 procedure TFormMain.cmWallpaperExecute(Sender: TObject);
 begin
-  {$ifdef mswindows} OpenDesktopControl; {$endif}
+  OpenDesktopControl;
 end;
 
 procedure TFormMain.cmLocalisationExecute(Sender: TObject);
