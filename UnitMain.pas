@@ -1,7 +1,5 @@
 ﻿unit UnitMain;
 
-{ $define menu}
-
 interface
 
 uses
@@ -46,14 +44,6 @@ type
     ActionList: TActionList;
     cmAbout: TAction;
     cmExit: TAction;
-    MainMenu: TMainMenu;
-    mmOptions: TMenuItem;
-    mmList: TMenuItem;
-    mmFont: TMenuItem;
-    mmTransparent: TMenuItem;
-    mmTimer: TMenuItem;
-    mmRandom: TMenuItem;
-    mmAbout: TMenuItem;
     cmList: TAction;
     cmFont: TAction;
     cmTransparent: TAction;
@@ -67,32 +57,6 @@ type
     cmTimer1min: TAction;
     cmTimer30min: TAction;
     cmTimer60min: TAction;
-    mmTimerOff: TMenuItem;
-    mmSeparator1: TMenuItem;
-    mmTimer10sec: TMenuItem;
-    mmTimer30sec: TMenuItem;
-    mmTimer1min: TMenuItem;
-    mmTimer30min: TMenuItem;
-    mmTimer60min: TMenuItem;
-    mm01: TMenuItem;
-    mm02: TMenuItem;
-    mm03: TMenuItem;
-    mm04: TMenuItem;
-    mm05: TMenuItem;
-    mm06: TMenuItem;
-    mm07: TMenuItem;
-    mm09: TMenuItem;
-    mm10: TMenuItem;
-    mm11: TMenuItem;
-    mm12: TMenuItem;
-    mm13: TMenuItem;
-    mm14: TMenuItem;
-    mm15: TMenuItem;
-    mm17: TMenuItem;
-    mm18: TMenuItem;
-    mm19: TMenuItem;
-    mm00: TMenuItem;
-    mm08: TMenuItem;
     cmListItem: TAction;
     procedure ShapeMouseDown(Sender: TObject; Button: TMouseButton; Shift: TShiftState; X, Y: Single);
     procedure ShapeMouseMove(Sender: TObject; Shift: TShiftState; X, Y: Single);
@@ -121,26 +85,6 @@ type
     procedure cmTimer60minExecute(Sender: TObject);
     procedure cmTimerOffExecute(Sender: TObject);
     procedure cmListItemExecute(Sender: TObject);
-    procedure mm00Click(Sender: TObject);
-    procedure mm01Click(Sender: TObject);
-    procedure mm02Click(Sender: TObject);
-    procedure mm03Click(Sender: TObject);
-    procedure mm04Click(Sender: TObject);
-    procedure mm05Click(Sender: TObject);
-    procedure mm06Click(Sender: TObject);
-    procedure mm07Click(Sender: TObject);
-    procedure mm08Click(Sender: TObject);
-    procedure mm09Click(Sender: TObject);
-    procedure mm10Click(Sender: TObject);
-    procedure mm11Click(Sender: TObject);
-    procedure mm12Click(Sender: TObject);
-    procedure mm13Click(Sender: TObject);
-    procedure mm14Click(Sender: TObject);
-    procedure mm15Click(Sender: TObject);
-    procedure mm16Click(Sender: TObject);
-    procedure mm17Click(Sender: TObject);
-    procedure mm18Click(Sender: TObject);
-    procedure mm19Click(Sender: TObject);
   private
     { Private declarations }
     FontList       : TStringList;
@@ -155,8 +99,6 @@ type
     function IncFontName(delta: integer) : String;
     procedure ChangeList(NewList : String);
     procedure ChangeTimer(seconds: integer);
-    {$ifdef menu} procedure CreateListMenu; {$endif}
-    procedure mmClick(number: integer);
     procedure SetMenuItems;
     procedure SetFontIndex;
     procedure Rebuild;
@@ -211,7 +153,6 @@ begin
   // Установка Transparency в True визуально приводит к ошибке из за конфликта с MainMenu
 
   {$if defined(macos) or not defined(menu)} Transparency := True; {$endif}
-  {$ifndef menu} MainMenu.Free; {$endif}
 
   FontDefault := FMX.Graphics.TFont.Create;
   FontList  := TStringList.Create;
@@ -230,8 +171,7 @@ begin
 
   ReadIniFile;
 
-  {$ifdef mswindows} GetFonts(FontList); {$endif}
-  {$ifdef menu} CreateListMenu; {$endif}
+  GetFonts(FontList);
 
   List.LoadFile(FileList);
   List.Next;
@@ -302,22 +242,6 @@ begin
   miTimer1min   .Text := '  1 ' + T('min');
   miTimer30min  .Text :=  '30 ' + T('min');
   miTimer60min  .Text :=  '60 ' + T('min');
-
-  {$ifdef menu}
-  mmAbout       .Text := T('About'       );
-  mmList        .Text := T('List'        );
-  mmFont        .Text := T('Font'        );
-  mmOptions     .Text := T('Options'     );
-  mmTransparent .Text := T('Transparent' );
-  mmRandom      .Text := T('Random'      );
-  mmTimer       .Text := T('Timer'       );
-  mmTimerOff    .Text :=   '  ' + T('off');
-  mmTimer10sec  .Text :=  '10 ' + T('sec');
-  mmTimer30sec  .Text :=  '30 ' + T('sec');
-  mmTimer1min   .Text := '  1 ' + T('min');
-  mmTimer30min  .Text :=  '30 ' + T('min');
-  mmTimer60min  .Text :=  '60 ' + T('min');
-  {$endif}
 
   Lang.Free;
 end;
@@ -442,7 +366,6 @@ begin
       Shape.Opacity := Shape.Opacity + WheelDelta/20000;
       if Shape.Opacity > MAX_OPACITY then Shape.Opacity := MAX_OPACITY;
       {$ifdef mswindows} miTransparent.IsChecked := (Shape.Opacity = 0); {$endif}
-      {$ifdef menu}      mmTransparent.IsChecked := (Shape.Opacity = 0); {$endif}
     end;
 
   Repaint;
@@ -466,43 +389,6 @@ begin
   if HintClick.Enable then ShowHint(HintClick) else ShowHint(HintMenu);
   TimerHint.Enabled := False;
 end;
-
-procedure TFormMain.mmClick(number: integer);
-{$ifdef menu}
-var
-  FileName : string;
-  i: integer;
-{$endif}
-begin
-  {$ifdef menu}
-  for i := 0 to mmList.ItemsCount-1 do mmList.Items[i].IsChecked := False;
-  mmList.Items[number].IsChecked := not mmList.Items[number].IsChecked;
-  FileName := ApplicationPath + 'lists' + slash + mmList.Items[number].Text + '.txt' ;
-  ChangeList(FileName);
-//ShowHint(HintList);
-  {$endif}
-end;
-
-procedure TFormMain.mm00Click(Sender: TObject); begin mmClick(00) end;
-procedure TFormMain.mm01Click(Sender: TObject); begin mmClick(01) end;
-procedure TFormMain.mm02Click(Sender: TObject); begin mmClick(02) end;
-procedure TFormMain.mm03Click(Sender: TObject); begin mmClick(03) end;
-procedure TFormMain.mm04Click(Sender: TObject); begin mmClick(04) end;
-procedure TFormMain.mm05Click(Sender: TObject); begin mmClick(05) end;
-procedure TFormMain.mm06Click(Sender: TObject); begin mmClick(06) end;
-procedure TFormMain.mm07Click(Sender: TObject); begin mmClick(07) end;
-procedure TFormMain.mm08Click(Sender: TObject); begin mmClick(08) end;
-procedure TFormMain.mm09Click(Sender: TObject); begin mmClick(09) end;
-procedure TFormMain.mm10Click(Sender: TObject); begin mmClick(10) end;
-procedure TFormMain.mm11Click(Sender: TObject); begin mmClick(11) end;
-procedure TFormMain.mm12Click(Sender: TObject); begin mmClick(12) end;
-procedure TFormMain.mm13Click(Sender: TObject); begin mmClick(13) end;
-procedure TFormMain.mm14Click(Sender: TObject); begin mmClick(14) end;
-procedure TFormMain.mm15Click(Sender: TObject); begin mmClick(15) end;
-procedure TFormMain.mm16Click(Sender: TObject); begin mmClick(16) end;
-procedure TFormMain.mm17Click(Sender: TObject); begin mmClick(17) end;
-procedure TFormMain.mm18Click(Sender: TObject); begin mmClick(18) end;
-procedure TFormMain.mm19Click(Sender: TObject); begin mmClick(19) end;
 
 procedure TFormMain.ShowHint(var Hint: THint);
 begin
@@ -570,8 +456,8 @@ begin
 
   Shape.Width := w; // использование напрямую (Width := Width + ..) приводит к ошибки
 
-//{$ifndef menu} Width  := Round(Shape.Width ); {$endif} // без этого работает быстрее
-//{$ifndef menu} Height := Round(Shape.Height); {$endif}
+// Width  := Round(Shape.Width ); // без этого работает быстрее
+// Height := Round(Shape.Height);
 
   Shape.XRadius := LabelMain.Font.Size * k_Radius;
   Shape.YRadius := Shape.XRadius;
@@ -586,26 +472,6 @@ begin
   if Top  <= 0 then Top  := 0;
 end;
 
-{$ifdef menu}
-procedure TFormMain.CreateListMenu;
-var
-  Strings : TStringDynArray;
-  i : integer;
-begin
-  Strings := TDirectory.GetFiles(ApplicationPath + 'lists','*.txt');
-
-  for i := 0 to mmList.ItemsCount - 1 do
-    mmList.Items[i].Visible := False;
-
-  for i := 0 to Length(Strings) - 1 do
-    begin
-      mmList.Items[i].Text := TPath.GetFileNameWithoutExtension(Strings[i]);
-      mmList.Items[i].Visible := True;
-      if Strings[i] = FileList then mmList.Items[i].IsChecked := True;
-    end;
-end;
-{$endif}
-
 procedure TFormMain.SetMenuItems;
 begin
 {$ifdef mswindows}
@@ -615,14 +481,6 @@ begin
   miTimer1min .IsChecked := (maxTimer =  1 * 60);
   miTimer30min.IsChecked := (maxTimer = 30 * 60);
   miTimer60min.IsChecked := (maxTimer = 60 * 60);
-{$endif}
-{$ifdef menu}
-  mmTimerOff  .IsChecked := (maxTimer =  0 );
-  mmTimer10sec.IsChecked := (maxTimer =  3 ); /////////////////////////////////////////////////////////////////////////////////////
-  mmTimer30sec.IsChecked := (maxTimer = 30 );
-  mmTimer1min .IsChecked := (maxTimer =  1 * 60);
-  mmTimer30min.IsChecked := (maxTimer = 30 * 60);
-  mmTimer60min.IsChecked := (maxTimer = 60 * 60);
 {$endif}
   miTransparent.IsChecked := (Shape.Opacity = 0);
   miRandom.IsChecked := List.Randomly;
