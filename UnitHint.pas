@@ -4,7 +4,8 @@ interface
 
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
-  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.StdCtrls, FMX.Layouts, FMX.Memo, FMX.Objects;
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.StdCtrls, FMX.Layouts, FMX.Memo, FMX.Objects,
+  FMX.Controls.Presentation;
 
 type
   THint = record
@@ -51,8 +52,6 @@ uses UnitMain, UnitLang, UnitLib;
 
 {$R *.fmx}
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormHint.FormCreate(Sender: TObject);
 begin
   HintClick   .Once := False;
@@ -65,23 +64,17 @@ begin
   Translate;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormHint.FormActivate(Sender: TObject);
 begin
   Rebuild;
   Timer.Enabled := True;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormHint.FormClose(Sender: TObject; var Action: TCloseAction);
 begin
   LabelMain.Text := ''; // иначе видна перерисовка текста
   Timer.Enabled := False;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormHint.Show(var Hint: THint);
 begin
@@ -90,8 +83,6 @@ begin
   Text := Hint.Text;
   inherited Show;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormHint.Translate;
 begin
@@ -107,8 +98,6 @@ begin
   Lang.Free;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormHint.TimerTimer(Sender: TObject);
 begin
   Close;
@@ -123,8 +112,6 @@ procedure TFormHint.ShapeClick(Sender: TObject);
 begin
   Close;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormHint.Rebuild;
 const
@@ -146,7 +133,5 @@ begin
     then Top := FormMain.Top + Round(FormMain.Shape.Height) + border
     else Top := FormMain.Top - Height - border;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 end.

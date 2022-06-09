@@ -203,8 +203,6 @@ const
 {$ifdef mswindows} var FirstPaint : boolean = True; {$endif}
 {$ifdef macos} var macbag : integer = 0; {$endif}
 
-//-------------------------------------------------------------------------------------------------
-
 //   Position = Designed
 //   Visible = False
 
@@ -252,14 +250,10 @@ begin
   Height := Screen.Size.Height div 2;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.FormActivate(Sender: TObject);
 begin
  {$ifdef mswindows} HideAppOnTaskbar(Self); {$endif}
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.FormPaint(Sender: TObject; Canvas: TCanvas; const ARect: TRectF);
 begin
@@ -273,8 +267,6 @@ begin
   {$endif}
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.Repaint;
 begin
   {$ifdef macos} macbag := 0; {$endif}
@@ -283,16 +275,12 @@ begin
   Application.ProcessMessages;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.FormClose(Sender: TObject; var Action: TCloseAction);
 begin
   SaveIniFile;
   FontDefault.Free;
   FontList   .Free;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.Translate;
 begin
@@ -334,8 +322,6 @@ begin
   Lang.Free;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 function TFormMain.IncFontName(delta: integer) : String;
 begin
   if delta > 0 then font_idx := font_idx - 1
@@ -373,9 +359,9 @@ begin
   if (Size >=  8) and (Size <= 128) then Result := Size;  // 48
 end;
 
-//-----------------------------------------------------------------------------------------
-                                {$region 'MouseButtons'}
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
+                          {$region 'MouseButtons'}
+//-----------------------------------------------------------------------------
 
 procedure TFormMain.ShapeMouseDown(Sender: TObject; Button: TMouseButton; Shift: TShiftState; X, Y: Single);
 begin
@@ -439,14 +425,12 @@ begin
       HintMenu.Enable := False;
       {$endif}
 
-      {$ifdef macos} Close; {$endif} //////////////////////////////////////////////////////////////
+      {$ifdef macos} Close; {$endif} //////////////////////////////////////////
     end;
 
   SaveIniFile;
   Semaphore := False;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.ShapeMouseWheel(Sender: TObject; Shift: TShiftState; WheelDelta: Integer; var Handled: Boolean);
 begin
@@ -466,7 +450,6 @@ begin
   SaveIniFile;
 end;
 {$endregion}
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.TimerTimer(Sender: TObject);
 begin
@@ -484,8 +467,6 @@ begin
   TimerHint.Enabled := False;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.mmClick(number: integer);
 {$ifdef menu}
 var
@@ -501,8 +482,6 @@ begin
 //ShowHint(HintList);
   {$endif}
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.mm00Click(Sender: TObject); begin mmClick(00) end;
 procedure TFormMain.mm01Click(Sender: TObject); begin mmClick(01) end;
@@ -525,8 +504,6 @@ procedure TFormMain.mm17Click(Sender: TObject); begin mmClick(17) end;
 procedure TFormMain.mm18Click(Sender: TObject); begin mmClick(18) end;
 procedure TFormMain.mm19Click(Sender: TObject); begin mmClick(19) end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.ShowHint(var Hint: THint);
 begin
   if not Hint.Enable then Exit;
@@ -536,8 +513,6 @@ begin
   Hint.Enable := False;
   SaveIniFile;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.Rebuild;
 var
@@ -602,8 +577,6 @@ begin
   Shape.YRadius := Shape.XRadius;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.CheckPos; // oкно не должно выходить за пределы экрана
 begin
   if (Left + Shape.Width /2) > Screen.DesktopWidth  then Left := Screen.DesktopWidth  - Round(Shape.Width );
@@ -612,8 +585,6 @@ begin
   if Left <= 0 then Left := 0;
   if Top  <= 0 then Top  := 0;
 end;
-
-//-----------------------------------------------------------------------------------------
 
 {$ifdef menu}
 procedure TFormMain.CreateListMenu;
@@ -634,8 +605,6 @@ begin
     end;
 end;
 {$endif}
-
-//-----------------------------------------------------------------------------------------
 
 procedure TFormMain.SetMenuItems;
 begin
@@ -659,8 +628,6 @@ begin
   miRandom.IsChecked := List.Randomly;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.ChangeTimer(seconds: integer);
 begin
   maxTimer := seconds;
@@ -668,8 +635,6 @@ begin
   nTimer := 0;
   SaveIniFile;
 end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.ChangeList(NewList : String);
 begin
@@ -680,16 +645,14 @@ begin
   Rebuild;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.PopupMenuPopup(Sender: TObject);
 begin
   {$ifdef mswindows} miLang.Visible := KeyShiftDown; {$endif}
 end;
 
-//-----------------------------------------------------------------------------------------
-                                {$region 'ActionList'}
-//-----------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
+                            {$region 'ActionList'}
+//-----------------------------------------------------------------------------
 
 procedure TFormMain.cmAboutExecute(Sender: TObject);
 begin
@@ -746,16 +709,12 @@ begin
   {$endif}
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.cmTimerOffExecute  (Sender: TObject); begin ChangeTimer( 0)    end;
 procedure TFormMain.cmTimer10secExecute(Sender: TObject); begin ChangeTimer( 3)    end; //****************************************
 procedure TFormMain.cmTimer30secExecute(Sender: TObject); begin ChangeTimer(30)    end;
 procedure TFormMain.cmTimer1minExecute (Sender: TObject); begin ChangeTimer( 1*60) end;
 procedure TFormMain.cmTimer30minExecute(Sender: TObject); begin ChangeTimer(30*60) end;
 procedure TFormMain.cmTimer60minExecute(Sender: TObject); begin ChangeTimer(60*60) end;
-
-//-------------------------------------------------------------------------------------------------
 
 procedure TFormMain.cmTransparentExecute(Sender: TObject);
 begin
@@ -798,11 +757,11 @@ procedure TFormMain.cmExitExecute(Sender: TObject);
 begin
   Close;
 end;
-
 {$endregion}
-//-----------------------------------------------------------------------------------------
-                                {$region 'IniFile'}
-//-----------------------------------------------------------------------------------------
+
+//-----------------------------------------------------------------------------
+                             {$region 'IniFile'}
+//-----------------------------------------------------------------------------
 
 procedure TFormMain.SaveIniFile;
 var
@@ -843,41 +802,16 @@ begin
   IniFile.Free;
 end;
 
-//-------------------------------------------------------------------------------------------------
-
 procedure TFormMain.ReadIniFile;
 var
   IniFile : TIniFile;
 begin
- (*
-                  Left := Screen.Size.Width - 480;
-                  Top  := 120                    ;
-  LabelMain.Font.Size  := 20                     ;
-         Shape.Opacity := DEFAULT_OPACITY        ;
-          Localization := GetDefaultLanguage     ;
-              FileList := GetDefaultList         ;
-              PrevList := GetDefaultList         ;
-         List.Position := 0                      ;
-              MaxTimer := 30                     ;
-            ShapeWidth := 13                     ;
-         List.Randomly := True                   ;
-      HintClick.Enable := True                   ;
-       HintMenu.Enable := True                   ;
-       HintList.Enable := True                   ;
-       HintSize.Enable := True                   ;
-       HintFont.Enable := True                   ;
-    HintOpacity.Enable := True                   ;
-  LabelMain.Font.Style := [];
-
-  exit;
-  *)
   IniFile := TIniFile.Create(ConfigFileName);
 
                   Left := IniFile.ReadInteger('App'    ,'Left'        ,Screen.Size.Width - 480);
                   Top  := IniFile.ReadInteger('App'    ,'Top'         ,120                    );
 
  LabelMain.Font.Family := IniFile.ReadString ('Font'   ,'Name'        ,'Verdana' {'Comic Sans MS'}        ); SetFontIndex; //*******
-////////////////////////////////////// LabelMain.Font.Family := 'Times';
   LabelMain.Font.Size  := IniFile.ReadFloat  ('Font'   ,'Size'        ,20                     );
 
    LabelMain.FontColor := IniFile.ReadInteger('Colors' ,'Text'        ,LabelMain.FontColor    );
@@ -907,6 +841,5 @@ begin
   IniFile.Free;
 end;
 {$endregion}
-//-----------------------------------------------------------------------------------------
 
 end.

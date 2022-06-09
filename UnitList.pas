@@ -41,8 +41,6 @@ implementation
 
 uses UnitLib, UnitLang;
 
-//-----------------------------------------------------------------------------
-
 constructor TVerseList.Create;
 begin
   Position := 0;
@@ -64,16 +62,12 @@ begin
   Alignment := taLeftJustify;
 end;
 
-//-----------------------------------------------------------------------------
-
 function AlignmentFromLang(lang: String): TAlignment;
 begin
   Result := taLeftJustify;
   if lang = 'arabic' then Result := taRightJustify;
   if lang = 'hebrew' then Result := taRightJustify;
 end;
-
-//-----------------------------------------------------------------------------
 
 procedure TVerseList.Tag(s: String);
 var
@@ -92,15 +86,11 @@ begin
     end;
 end;
 
-//-----------------------------------------------------------------------------
-
 procedure TVerseList.AddInfo(s: String);
 begin
   System.Delete(s,1,1);
   Info := Info + s + CRLF;
 end;
-
-//-----------------------------------------------------------------------------
 
 procedure TVerseList.LoadFile(FileName : String);
 var
@@ -134,14 +124,10 @@ begin
 // if Count = 0 then ...
 end;
 
-//-----------------------------------------------------------------------------
-
 procedure TVerseList.ResetPos;
 begin
   Position := 0;
 end;
-
-//-----------------------------------------------------------------------------
 
 procedure TVerseList.Next;
 begin
@@ -154,15 +140,11 @@ begin
   if Position > (Count-1) then Position := 0;
 end;
 
-//-----------------------------------------------------------------------------
-
 procedure TVerseList.Undo;
 begin
   if Randomly then Position := PrevPosition else
     if Position > 0 then Position := Position - 1;
 end;
-
-//-----------------------------------------------------------------------------
 
 function TVerseList.GetVerse : String;
 begin
@@ -173,8 +155,6 @@ begin
 //if Length(w) < 5 then w := 'error: short string';
 end;
 
-//-----------------------------------------------------------------------------
-
 function TVerseList.GetSign : String;
 begin
   Result := '';
@@ -183,14 +163,10 @@ begin
   if Abbr <> '' then Result := Result + '(' + Utf8ToString(Abbr) + ')';
 end;
 
-//-----------------------------------------------------------------------------
-
 function TVerseList.GetQuote : String;
 begin
   Result := GetVerse + ' ' + GetSign;
 end;
-
-//-----------------------------------------------------------------------------
 
 initialization
   List := TVerseList.Create;

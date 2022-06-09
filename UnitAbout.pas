@@ -5,7 +5,7 @@ interface
 uses
   System.Classes, System.UITypes,
   FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.StdCtrls, FMX.Objects, FMX.Effects, FMX.Layouts,
-  FMX.Ani;
+  FMX.Ani, FMX.Controls.Presentation;
 
 type
   TFormAbout = class(TForm)

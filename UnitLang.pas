@@ -25,21 +25,15 @@ implementation
 uses
    UnitLib;
 
-//-----------------------------------------------------------------------------------------
-
 constructor TLang.Create;
 begin
   inherited Create(ApplicationPath + 'localization' + Slash + Localization + '.lng');
 end;
 
-//-----------------------------------------------------------------------------------------
-
 function T(const id : string): String;
 begin
   Result := Utf8ToString( Lang.ReadString('interface',id,id) );
 end;
-
-//-----------------------------------------------------------------------------------------
 
 end.
 
