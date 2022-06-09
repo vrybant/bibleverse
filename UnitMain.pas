@@ -161,6 +161,7 @@ type
     procedure SetFontIndex;
     procedure Rebuild;
     procedure Repaint;
+    procedure CheckPos;
     procedure SaveIniFile;
     procedure ReadIniFile;
     procedure Translate;
@@ -266,6 +267,7 @@ begin
   if FirstPaint then
     begin
       Rebuild;
+      CheckPos;
       FirstPaint := False;
     end;
   {$endif}
@@ -596,17 +598,19 @@ begin
 //{$ifndef menu} Width  := Round(Shape.Width ); {$endif} // без этого работает быстрее
 //{$ifndef menu} Height := Round(Shape.Height); {$endif}
 
-  //-------  oкно не должно выходить за пределы экрана
-  (*
-  if (Left + Shape.Width ) > Screen.Size.Width  then Left := Screen.Size.Width  - Round(Shape.Width );
-  if (Top  + Shape.Height) > Screen.Size.Height then Top  := Screen.Size.Height - Round(Shape.Height);
-
-  if Left < 0 then Left := 0;
-  if Top  < 0 then Top  := 0;
-  *)
-
   Shape.XRadius := LabelMain.Font.Size * k_Radius;
   Shape.YRadius := Shape.XRadius;
+end;
+
+//-------------------------------------------------------------------------------------------------
+
+procedure TFormMain.CheckPos; // oкно не должно выходить за пределы экрана
+begin
+  if (Left + Shape.Width /2) > Screen.DesktopWidth  then Left := Screen.DesktopWidth  - Round(Shape.Width );
+  if (Top  + Shape.Height/2) > Screen.DesktopHeight then Top  := Screen.DesktopHeight - Round(Shape.Height);
+
+  if Left <= 0 then Left := 0;
+  if Top  <= 0 then Top  := 0;
 end;
 
 //-----------------------------------------------------------------------------------------
