@@ -3,12 +3,12 @@ program bibleverse;
 uses
   Math,
   FMX.Forms,
-  UnitMain in 'UnitMain.pas' {FormMain},
-  UnitAbout in 'UnitAbout.pas' {FormAbout},
-  UnitHint in 'UnitHint.pas' {FormHint},
-  UnitLang in 'UnitLang.pas',
-  UnitLib in 'UnitLib.pas',
-  UnitList in 'UnitList.pas';
+  UnitMain in 'unitmain.pas' {FormMain},
+  UnitAbout in 'unitabout.pas' {FormAbout},
+  UnitHint in 'unithint.pas' {FormHint},
+  UnitLang in 'unitlang.pas',
+  UnitLib in 'unitlib.pas',
+  UnitList in 'unitlist.pas';
 
 {$R *.res}
 
