@@ -3,7 +3,7 @@
 interface
 
 uses
-  Windows, VCL.Graphics, Winapi.ShellAPI, ShFolder,
+  Windows, Winapi.ShellAPI, ShFolder,
   FMX.Forms, FMX.Types, FMX.StdCtrls, FMX.Graphics, FMX.Platform.Win,
   System.SysUtils, System.Classes, System.UITypes, System.IOUtils;
 
@@ -183,7 +183,7 @@ begin
 end;
 
 //-----------------------------------------------------------------------------
-//                                  Firemonkey functions
+//                          Firemonkey functions
 //-----------------------------------------------------------------------------
 
 procedure OpenUrl(s: String);
@@ -222,7 +222,7 @@ begin
 end;
 
 //-----------------------------------------------------------------------------
-                                {$region 'Fonts'}
+//                               Fonts
 //-----------------------------------------------------------------------------
 
 function EnumFontsProc(var LogFont: TLogFont; var TextMetric: TTextMetric; FontType: Integer; Data: Pointer): Integer; stdcall;
@@ -252,10 +252,9 @@ begin
     ReleaseDC(0, DC);
   end;
 end;
-{$endregion}
 
 //-----------------------------------------------------------------------------
-                             {$region 'Mutex'}
+//                                Mutex
 //-----------------------------------------------------------------------------
 
 function GetWinInfo(h: HWND): string;
@@ -297,7 +296,6 @@ procedure CloseMutex;
 begin
   CloseHandle(Mutex);
 end;
-{$endregion}
 
 end.
 

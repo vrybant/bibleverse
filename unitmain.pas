@@ -4,10 +4,11 @@ interface
 
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes,
-  System.Variants, FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms,
+  System.Variants, IniFiles, System.Actions,
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms,
   FMX.Dialogs, FMX.StdCtrls, FMX.ActnList, FMX.Objects, FMX.Layouts,
   FMX.ListBox, FMX.Effects, FMX.Menus, FMX.MagnifierGlass, FMX.Memo,
-  IniFiles, UnitHint, System.Actions, FMX.Controls.Presentation;
+  FMX.Controls.Presentation, UnitHint;
 
 type
   TFormMain = class(TForm)
@@ -120,7 +121,8 @@ implementation
 {$R *.fmx}
 
 uses
-  System.IOUtils, VCL.Clipbrd, UnitLang, UnitLib, UnitList, UnitAbout;
+  System.IOUtils, VCL.Clipbrd,
+  UnitList, UnitLang, UnitLib, UnitFontDlg, UnitAbout;
 
 var
   XX : Single = 0;
@@ -516,13 +518,13 @@ end;
 
 procedure TFormMain.cmFontExecute(Sender: TObject);
 begin
-//  if ExecuteFontDialog(LabelMain) then
-//    begin
-//      SetFontIndex;
-//      Rebuild;
-//      if HintSize.Enable then ShowHint(HintSize) else ShowHint(HintFont);
-//      SaveIniFile;
-//    end;
+  if ExecuteFontDialog(LabelMain) then
+    begin
+      SetFontIndex;
+      Rebuild;
+      if HintSize.Enable then ShowHint(HintSize) else ShowHint(HintFont);
+      SaveIniFile;
+    end;
 end;
 
 procedure TFormMain.cmTimerOffExecute  (Sender: TObject); begin ChangeTimer( 0)    end;

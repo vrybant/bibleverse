@@ -7,8 +7,8 @@
 *.identcache
 *.local
 *.tvsconfig
+_*.*
 Win32/*
 Win64/*
 OSX64/*
 __history/*
-
