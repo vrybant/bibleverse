@@ -27,12 +27,10 @@ type
     procedure FormClose(Sender: TObject; var Action: TCloseAction);
     procedure FormCreate(Sender: TObject);
   private
-    { Private declarations }
     Text : string;
     procedure Translate;
     procedure Rebuild;
   public
-    { Public declarations }
     procedure Show(var Hint: THint); overload;
   end;
 

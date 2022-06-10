@@ -435,9 +435,6 @@ begin
 
   Shape.Width := w; // использование напрямую (Width := Width + ..) приводит к ошибки
 
-// Width  := Round(Shape.Width ); // без этого работает быстрее
-// Height := Round(Shape.Height);
-
   Shape.XRadius := LabelMain.Font.Size * k_Radius;
   Shape.YRadius := Shape.XRadius;
 end;
@@ -630,7 +627,7 @@ begin
                   Left := IniFile.ReadInteger('App'    ,'Left'        ,Screen.Size.Width - 480);
                   Top  := IniFile.ReadInteger('App'    ,'Top'         ,120                    );
 
- LabelMain.Font.Family := IniFile.ReadString ('Font'   ,'Name'        ,'Verdana' {'Comic Sans MS'}        ); SetFontIndex; //*******
+ LabelMain.Font.Family := IniFile.ReadString ('Font'   ,'Name'        ,'Verdana'              ); SetFontIndex; //*******
   LabelMain.Font.Size  := IniFile.ReadFloat  ('Font'   ,'Size'        ,20                     );
 
    LabelMain.FontColor := IniFile.ReadInteger('Colors' ,'Text'        ,LabelMain.FontColor    );

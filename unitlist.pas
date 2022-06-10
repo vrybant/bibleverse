@@ -47,8 +47,6 @@ begin
   PrevPosition := 0;
   Randomly := True;
 
-  Log.d(' ~~~ TVerseList.Create ~~~');
-
   CleanTags;
   inherited Create;
 end;
@@ -94,24 +92,21 @@ end;
 
 procedure TVerseList.LoadFile(FileName : String);
 var
-  Utf8List : TStringList;
+  StringList : TStringList;
   s : String;
   i : integer;
 begin
-  Log.d(' ~~~ LoadFile ~~~');
-  Log.d(FileName);
-
   if not FileExists(FileName) then Exit;
 
-  Utf8List := TStringList.Create;
-  Utf8List.LoadFromFile(FileName);
+  StringList := TStringList.Create;
+  StringList.LoadFromFile(FileName);
 
   Clear;
   CleanTags;
 
-  for i := 0 to Utf8List.Count-1 do
+  for i := 0 to StringList.Count-1 do
     begin
-      s := Trim(Utf8List[i]);
+      s := Trim(StringList[i]);
 
       if Length(s) > 5 then
         if LeftChar(s) = '#' then Tag(s) else
@@ -120,7 +115,7 @@ begin
 
   if Position > (Count-1) then ResetPos;
 
-  Utf8List.Free;
+  StringList.Free;
 // if Count = 0 then ...
 end;
 
