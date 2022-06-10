@@ -52,12 +52,6 @@ type
     cmCopy: TAction;
     cmWallpaper: TAction;
     cmLocalisation: TAction;
-    cmTimerOff: TAction;
-    cmTimer10sec: TAction;
-    cmTimer30sec: TAction;
-    cmTimer1min: TAction;
-    cmTimer30min: TAction;
-    cmTimer60min: TAction;
     cmListItem: TAction;
     procedure ShapeMouseDown(Sender: TObject; Button: TMouseButton; Shift: TShiftState; X, Y: Single);
     procedure ShapeMouseMove(Sender: TObject; Shift: TShiftState; X, Y: Single);
@@ -70,6 +64,7 @@ type
     procedure TimerTimer(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure TimerHintTimer(Sender: TObject);
+    procedure TimerClick(Sender: TObject);
     procedure cmAboutExecute(Sender: TObject);
     procedure cmExitExecute(Sender: TObject);
     procedure cmCopyExecute(Sender: TObject);
@@ -79,12 +74,6 @@ type
     procedure cmRandomExecute(Sender: TObject);
     procedure cmWallpaperExecute(Sender: TObject);
     procedure cmLocalisationExecute(Sender: TObject);
-    procedure cmTimer10secExecute(Sender: TObject);
-    procedure cmTimer30secExecute(Sender: TObject);
-    procedure cmTimer1minExecute(Sender: TObject);
-    procedure cmTimer30minExecute(Sender: TObject);
-    procedure cmTimer60minExecute(Sender: TObject);
-    procedure cmTimerOffExecute(Sender: TObject);
     procedure cmListItemExecute(Sender: TObject);
   private
     FontList       : TStringList;
@@ -450,7 +439,7 @@ end;
 procedure TFormMain.SetMenuItems;
 begin
   miTimerOff  .IsChecked := (maxTimer =  0 );
-  miTimer10sec.IsChecked := (maxTimer =  3 ); /////////////////////////////////////////////////////////////////////////////////////
+  miTimer10sec.IsChecked := (maxTimer = 10 );
   miTimer30sec.IsChecked := (maxTimer = 30 );
   miTimer1min .IsChecked := (maxTimer =  1 * 60);
   miTimer30min.IsChecked := (maxTimer = 30 * 60);
@@ -465,6 +454,16 @@ begin
   SetMenuItems;
   nTimer := 0;
   SaveIniFile;
+end;
+
+procedure TFormMain.TimerClick(Sender: TObject);
+begin
+  if Sender = miTimerOff   then ChangeTimer( 0);
+  if Sender = miTimer10sec then ChangeTimer(10);
+  if Sender = miTimer30sec then ChangeTimer(30);
+  if Sender = miTimer1min  then ChangeTimer( 1*60);
+  if Sender = miTimer30min then ChangeTimer(30*30);
+  if Sender = miTimer60min then ChangeTimer(60*60);
 end;
 
 procedure TFormMain.ChangeList(NewList : String);
@@ -523,13 +522,6 @@ begin
       SaveIniFile;
     end;
 end;
-
-procedure TFormMain.cmTimerOffExecute  (Sender: TObject); begin ChangeTimer( 0)    end;
-procedure TFormMain.cmTimer10secExecute(Sender: TObject); begin ChangeTimer( 3)    end; //****************************************
-procedure TFormMain.cmTimer30secExecute(Sender: TObject); begin ChangeTimer(30)    end;
-procedure TFormMain.cmTimer1minExecute (Sender: TObject); begin ChangeTimer( 1*60) end;
-procedure TFormMain.cmTimer30minExecute(Sender: TObject); begin ChangeTimer(30*60) end;
-procedure TFormMain.cmTimer60minExecute(Sender: TObject); begin ChangeTimer(60*60) end;
 
 procedure TFormMain.cmTransparentExecute(Sender: TObject);
 begin

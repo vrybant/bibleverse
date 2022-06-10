@@ -134,50 +134,38 @@ object FormMain: TFormMain
     object miTimer: TMenuItem
       Text = 'Timer'
       object miTimerOff: TMenuItem
-        Action = cmTimerOff
-        Enabled = True
         Locked = True
         Text = 'off'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
       object miSeparator3: TMenuItem
         Locked = True
         Text = '-'
       end
       object miTimer10sec: TMenuItem
-        Action = cmTimer10sec
-        Enabled = True
         Locked = True
         Text = '10 sec'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
       object miTimer30sec: TMenuItem
-        Action = cmTimer30sec
-        Enabled = True
         Locked = True
         Text = '30 sec'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
       object miTimer1min: TMenuItem
-        Action = cmTimer1min
-        Enabled = True
         Locked = True
         Text = '1 min'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
       object miTimer30min: TMenuItem
-        Action = cmTimer30min
-        Enabled = True
         Locked = True
         Text = '30 min'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
       object miTimer60min: TMenuItem
-        Action = cmTimer60min
-        Enabled = True
         Locked = True
         Text = '60 min'
-        ImageIndex = -1
+        OnClick = TimerClick
       end
     end
     object miWallpaper: TMenuItem
@@ -250,34 +238,6 @@ object FormMain: TFormMain
     end
     object cmLocalisation: TAction
       OnExecute = cmLocalisationExecute
-    end
-    object cmTimerOff: TAction
-      Category = 'Timer'
-      Text = 'cmTimerOff'
-      OnExecute = cmTimerOffExecute
-    end
-    object cmTimer10sec: TAction
-      Category = 'Timer'
-      OnExecute = cmTimer10secExecute
-    end
-    object cmTimer30sec: TAction
-      Category = 'Timer'
-      OnExecute = cmTimer30secExecute
-    end
-    object cmTimer1min: TAction
-      Category = 'Timer'
-      Text = 'cmTimer1min'
-      OnExecute = cmTimer1minExecute
-    end
-    object cmTimer30min: TAction
-      Category = 'Timer'
-      Text = 'cmTimer30min'
-      OnExecute = cmTimer30minExecute
-    end
-    object cmTimer60min: TAction
-      Category = 'Timer'
-      Text = 'cmTimer60min'
-      OnExecute = cmTimer60minExecute
     end
     object cmListItem: TAction
       Text = 'cmListItem'
