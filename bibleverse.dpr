@@ -1,4 +1,4 @@
-program BibleVerseDesktop;
+program bibleverse;
 
 uses
   Math,
