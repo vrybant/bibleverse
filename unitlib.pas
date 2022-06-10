@@ -133,7 +133,6 @@ end;
 function GetDefaultList: string;
 begin
    Result := 'english-kjv';
-   Result := 'russian'; // ****************************************************
 
   case Lo(GetSystemDefaultLangID) of
     LANG_RUSSIAN            : Result := 'russian';

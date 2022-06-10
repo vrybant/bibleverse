@@ -87,7 +87,6 @@ type
     procedure cmTimerOffExecute(Sender: TObject);
     procedure cmListItemExecute(Sender: TObject);
   private
-    { Private declarations }
     FontList       : TStringList;
     FontDefault    : TFont;
     FileList       : String;
@@ -109,8 +108,6 @@ type
     procedure ReadIniFile;
     procedure Translate;
     procedure ShowHint(var Hint: THint);
-  public
-    { Public declarations }
   end;
 
 var
