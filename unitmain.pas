@@ -76,15 +76,15 @@ type
     procedure cmLocalisationExecute(Sender: TObject);
     procedure cmListItemExecute(Sender: TObject);
   private
-    FontList       : TStringList;
-    FontDefault    : TFont;
-    FileList       : String;
-    PrevList       : String;
-    ShapeWidth     : integer;
-    nTimer         : integer;
-    maxTimer       : integer;
-    font_idx       : integer;
-    Semaphore      : boolean;
+    FontList    : TStringList;
+    FontDefault : TFont;
+    FileList    : String;
+    PrevList    : String;
+    ShapeWidth  : integer;
+    nTimer      : integer;
+    maxTimer    : integer;
+    font_idx    : integer;
+    Semaphore   : boolean;
     function IncFontName(delta: integer) : String;
     procedure ChangeList(NewList : String);
     procedure ChangeTimer(seconds: integer);
@@ -438,12 +438,12 @@ end;
 
 procedure TFormMain.SetMenuItems;
 begin
-  miTimerOff  .IsChecked := (maxTimer =  0 );
-  miTimer10sec.IsChecked := (maxTimer = 10 );
-  miTimer30sec.IsChecked := (maxTimer = 30 );
-  miTimer1min .IsChecked := (maxTimer =  1 * 60);
-  miTimer30min.IsChecked := (maxTimer = 30 * 60);
-  miTimer60min.IsChecked := (maxTimer = 60 * 60);
+  miTimerOff  .IsChecked := (maxTimer =  0);
+  miTimer10sec.IsChecked := (maxTimer = 10);
+  miTimer30sec.IsChecked := (maxTimer = 30);
+  miTimer1min .IsChecked := (maxTimer =  1*60);
+  miTimer30min.IsChecked := (maxTimer = 30*60);
+  miTimer60min.IsChecked := (maxTimer = 60*60);
   miTransparent.IsChecked := (Shape.Opacity = 0);
   miRandom.IsChecked := List.Randomly;
 end;

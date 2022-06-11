@@ -1,8 +1,8 @@
 program bibleverse;
 
 uses
-  Math,
   FMX.Forms,
+  Math,
   unitmain in 'unitmain.pas' {FormMain},
   unitabout in 'unitabout.pas' {FormAbout},
   unithint in 'unithint.pas' {FormHint},
