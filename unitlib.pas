@@ -80,7 +80,8 @@ end;
 function ApplicationPath: string;
 begin
   Result := ExtractFilePath(ParamStr(0));
-  if Result.Contains('Debug') then Result := '..\..\';
+  if Result.Contains('Win32\Debug') then Result := Result.Replace('\Win32\Debug','');
+  if Result.Contains('Win64\Debug') then Result := Result.Replace('\Win64\Debug','');
 end;
 
 function ConfigFileName: string;
