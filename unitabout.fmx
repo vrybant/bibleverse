@@ -44,7 +44,7 @@ object FormAbout: TFormAbout
     Size.Height = 16.000000000000000000
     Size.PlatformDefault = False
     TextSettings.WordWrap = False
-    Text = 'Version 4.0'
+    Text = 'Version 4.1'
   end
   object LabelCopyright: TLabel
     AutoSize = True
@@ -55,7 +55,7 @@ object FormAbout: TFormAbout
     Size.Height = 16.000000000000000000
     Size.PlatformDefault = False
     TextSettings.WordWrap = False
-    Text = 'Copyright '#169' 2002-2014'
+    Text = 'Copyright '#169' 2002-2022'
   end
   object LabelAuthor: TLabel
     AutoSize = True

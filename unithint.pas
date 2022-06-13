@@ -1,4 +1,4 @@
-unit UnitHint;
+п»їunit UnitHint;
 
 interface
 
@@ -11,7 +11,7 @@ type
   THint = record
     Text : string;
     Enable : boolean;
-    Once : boolean; // показать только один раз
+    Once : boolean; // РїРѕРєР°Р·Р°С‚СЊ С‚РѕР»СЊРєРѕ РѕРґРёРЅ СЂР°Р·
   end;
 
 type
@@ -70,7 +70,7 @@ end;
 
 procedure TFormHint.FormClose(Sender: TObject; var Action: TCloseAction);
 begin
-  LabelMain.Text := ''; // иначе видна перерисовка текста
+  LabelMain.Text := ''; // РёРЅР°С‡Рµ РІРёРґРЅР° РїРµСЂРµСЂРёСЃРѕРІРєР° С‚РµРєСЃС‚Р°
   Timer.Enabled := False;
 end;
 

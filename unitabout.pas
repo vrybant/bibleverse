@@ -1,4 +1,4 @@
-unit UnitAbout;
+п»їunit UnitAbout;
 
 interface
 
@@ -49,8 +49,8 @@ begin
 
   if GetDefaultLanguage = 'russian' then
     begin
-      LabelVersion.Text := 'Версия 4.0';
-      LabelAuthor .Text := 'Владимир Рыбант';
+      LabelVersion.Text := 'Р’РµСЂСЃРёСЏ 4.1';
+      LabelAuthor .Text := 'Р’Р»Р°РґРёРјРёСЂ Р С‹Р±Р°РЅС‚';
     end;
 end;
 
